@@ -1,9 +1,9 @@
 ---
 import ServiceLayout from "../layouts/ServiceLayout.astro";
-import { getAllSaturdays, getPresanctifiedDays } from "../lib/context";
+import { getLentSaturdays, getPresanctifiedDays } from "../lib/context";
 
 const year = 2026;
-const saturdays = getAllSaturdays(year);
+const saturdays = getLentSaturdays(year);
 const presanctifiedDays = getPresanctifiedDays(year);
 
 function toISODate(d: Date): string {

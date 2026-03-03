@@ -1,13 +1,14 @@
 ---
 import ServiceLayout from "../../layouts/ServiceLayout.astro";
 import ServiceSection from "../../components/ServiceSection.astro";
-import { getContext, getAllSaturdays } from "../../lib/context";
+import { getContext, getLentSaturdays } from "../../lib/context";
 import { composeVespers } from "../../lib/composer";
 
 import type { GetStaticPaths } from "astro";
 
 export const getStaticPaths: GetStaticPaths = () => {
-  const saturdays = getAllSaturdays(2026);
+  // Only Lent Saturdays for now; non-Lent Saturdays need verification first
+  const saturdays = getLentSaturdays(2026);
   return saturdays.map((sat) => ({
     params: { date: sat.date.toISOString().split("T")[0] },
   }));
