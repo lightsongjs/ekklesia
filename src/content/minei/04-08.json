@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 8,
+  "saint": "Sfinţii Apostoli din cei şaptezeci : Irodion, Agav, Ruf, Asincrit, Flegont şi Ermil.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Ca nişte vulturi întraripaţi ați străbătut tot pământul prealăudaţilor, semănând învăţăturile voastre cele cinstite cu Darul tăind neghinele înşelăciunii, şi crescând spic cu multă roadă care se ține în jitniţele cele în înţelegătoare, strălucit păstrându-se de Lucrătorul cel nemuritor."
+      },
+      {
+        "text": "Pe Irodion, pe Agav şi pe Asincrit, pe Ruf şi pe dumnezeiescul Flegont să-i fericim ca pe nişte viţe prearoditoare ale viei, din care ne curge nouă dulceaţă mântuitoare, veselind inimile cele setoase, ale celor ce cu credinţă adevărată săvârşesc pomenirea lor cea lăudată."
+      },
+      {
+        "text": "Făcându-vă ceruri, înalţi la cuget, vestiţi slava Dumnezeului nostru, a Celui ce S-a întrupat cu voia Sa văzătorilor de Dumnezeu Apostoli, povăţuitorii credincioşilor, temeliile Bisericii, turnurile cele nemişcate, limanurile bunei credinţe, slujitorii tainelor celor negrăite, luminătorii sufletelor noastre."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Ca o Maică a lui Dumnezeu nestricată şi curată, cu totul fără prihană, şi întru toată sfinţenia, nu mă lepăda pe mine cel întinat şi necurat, şi iscoditor de toată ocara cea fărădelege, şi de lucrarea cea cumplită; nu mă lăsa să pier de tot; ci mă scapă de patimi, şi mă mântuieşte întorcându-mă."
+    },
+    "cruciiNascatoarea": {
+      "text": "Cel ce mai presus de cuget, a luat trup din pântecele tău, fiindu-i milă de tine, care cu amar lăcrimai şi te tânguiai, S-a milostivit spre tine Preacurată, şi picându-ţi răcorire ca un Fiu, striga către tine : Opreşte-te Maică Fecioară de a lăcrima ! Că de am şi pătimit de voia Mea şi mor; dar Mă voi scula, ca să măresc, pe cei ce cu cinste te slăvesc pe tine."
+    }
+  }
+}

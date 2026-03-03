@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 13,
+  "saint": "Aducerea moaştelor celui dintru Sfinţi Părintelui nostru Nichifor, patriarhul Constantinopolului.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O, preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Arătat supunând cuvântului patimile, sufletul ți-ai strălucit cu podoaba bunătăţilor, şi cu îndreptarea dogmelor, preafericite, secerând bogăţia înţelepciunii, şi împărțindu-o celor ce aleargă la tine, făcându-te cu darul după dumnezeiască cuviință sfeșnic şi cu adevărat înfrumuseţare Bisericii lui Hristos."
+      },
+      {
+        "text": "Biruință ridicând asupra vrăjmaşilor, cu strălucită cunună a dreptăţii te-ai împodobit acum, Nichifore preaînţelepte, învățătorule al curăției, stâlp neclintit al bunei credințe, făcându-te turn nebiruit al Bisericii, şi stricând toată ceata ereticilor celor nebuni, Cuvioase de Dumnezeu înţelepțite."
+      },
+      {
+        "text": "Înlăuntrul celor neapuse te-ai văzut, în ceruri suindu-te pe căruțele faptelor celor bune încălecând, de Dumnezeu cuvântătorule, înălțându-te cu ceresc căruţaş ca şi Tesviteanul, a căruia şi râvnei asemănându-te, cu sabia Duhului bărbătește ai junghiat pe toţi popii cei de ruşine, preafericite."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Bucură-te lauda lumii, bucură-te Biserica Domnului, bucură-te muntele cel umbros, bucură-te scăpare, bucură-te sfeşnic de aur, bucură-te cinstită mărirea pravoslavnicilor, bucură-te Marie, Maica lui Hristos Dumnezeu, bucură-te rai, bucură-te dumnezeiască masă, bucură-te cort, bucură-te năstrapă cu totul de aur, bucură-te nădejdea tuturor."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzându-te Soarele pe Tine de bunăvoie întins pe Cruce, S-a îngrozit şi pământul s-a clătinat, şi pietrele se despică şi mormânturile de frică se descoperă, şi toate puterile se spăimântă, pe care dacă a văzut fecioara Stăpâna, cu suspinuri, vai mie ! a strigat : Ce este aceasta ce se vede ?"
+    }
+  }
+}

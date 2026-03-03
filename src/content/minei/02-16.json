@@ -1,0 +1,30 @@
+{
+  "month": 2,
+  "day": 16,
+  "saint": "Sfinţii Mucenici; Pamfil, Valent, Seleuc, Daniil şi cei împreună cu dânşii.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Întocmai la număr cu Apostolii făcându-vă purtătorilor de chinuri, ați luat cugetare asemenea la râvnă cu dânşii, nespăimântându-vă de cruzimea cea fără de Dumnezeu a tiranilor; ci propovăduind pe Mântuitorul bărbăteşte şi cu tărie, aţi răbdat zdruncinarea membrelor cu nădejdea, culegând acum desfătările cele viitoare, preaînţelepţilor."
+      },
+      {
+        "text": "Biruind cu răbdarea împotrivirea celor fără de Dumnezeu, şi cu multe feluri de munci luptându-vă, după vrednicie, aţi luat cununa din mâna cea stăpânitoare de viață, îmbogăţindu-vă acum cu moştenire netrecătoare, şi împărăţind împreună cu Mântuitorul şi Stăpânul tuturor, în corturile cele veşnice, străluciţilor."
+      },
+      {
+        "text": "Împreună cu Pamfil de Dumnezeu cugetătorul, şi Valent, Seleuchie, Daniil, Teodul, Isaia, Ieremia, Ilie şi dumnezeiescul Porfirie, Pavel, Iulian, Samuil cel minunat, acum să se cinstească cu cântări de versuri, şi cu multe feluri de laude, vitejii şi pururea cinstiţii mucenici."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Cu ploile Darului Duhului, străluceşte-mi cugetul meu, Preacurată, ceea ce ai născut picătura, pe Hristos Dumnezeul nostru, Care şterge nelegiuirile oamenilor cu milostivirile, şi îneacă izvorul patimilor mele prin rugăciunile tale, şi mă învredniceşte pârâului desfătării celei pururea vii."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşeaua ceea ce Te-a născut pe Tine, Mielule şi Păstorule, dacă Te-a văzut pe lemn se tânguia, şi ca o Maică către Tine striga : Fiule preaiubite ! Cum Te-ai ridicat pe lemnul Crucii îndelung-Răbdătorule; cum Ți s-au pironit mâinile şi picioarele, Cuvinte, de cei fărădelege; şi sângele Ți-ai vărsat, Stăpâne ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

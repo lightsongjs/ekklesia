@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 20,
+  "saint": "Pomenirea preacuvioşilor părinţilor noştri celor ucişi în Mănăstirea Sfântului Sava.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Îndeletnicindu-vă cu totul spre cea desăvârşită dorire, toate cele veselitoare ale vieții, le-ați socotit ca nişte gunoaie, Cuvioşilor, şi ați dorit numai de cele stătătoare, cu privegherea şi cu rugăciunea, cu gerul şi cu zăduful, făcându-vă împreună vieţuitori în peşteri şi prin dar arătându-vă cetățeni îngerilor împreună."
+      },
+      {
+        "text": "Şi cu măciuci bătându-vă, şi cu pietre împroşcându-vă, şi cu pumnii lovindu-vă, nu v-ați dezlegat unirea Mucenicilor, fiind legați de dragostea şi de iubirea cea frăţească. Ci împreună omorându-vă, şi tăindu-vă bucăţele, purtătorilor de chinuri, v-ați adus la masa cea dumnezeiască ca nişte jertfe curate."
+      },
+      {
+        "text": "Şi în cuptor închizându-vă, şi cu focul mistuindu-vă, sufletele vi le-aţi pus în mâna Împăratului tuturor, ca nişte junghieri fără prihană, slăviților Mucenici, şi v-ați împreunat cu cetele celor fără de trupuri, moştenind slava cea veșnică, căreia a se împărtăşi, cei ce vă laudă pe voi, rugaţi-vă Domnului."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Tu ceea ce ai născut pe Dumnezeu, Mântuitorul meu, preabunul şi Mântuitorul, leacul pocăinţei, şi curgerile lacrimilor, şi cugetarea ceasului celui groaznic şi înfricoşat şi neamăgirea Judecătorului, mie îmi dăruieşte, prin rugăciunile tale, o Fecioară, ca să scap de cutremurul chinurilor şi să dobândesc darul dumnezeiesc."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşea ceea ce ai născut pe Mieluşelul Cel fără de răutate, care a venit să tămăduiască păcatul a toată lumea cu sângele Lui, Cel ce a fost junghiat pentru noi, şi toate le-a făcut cu viață. Tu mă îmbracă Preacurată, pe mine cel golit de dumnezeiasca nestricăciune, cu îmbrăcămintea darului celui dumnezeiesc din lâna naşterii tale."
+    }
+  }
+}

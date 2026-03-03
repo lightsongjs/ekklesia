@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 6,
+  "saint": "Cel dintru Sfinţi Părintele nostru Eutihie Arhiepiscopul Constantinopolului.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Doamne de ai şi stătut...",
+    "stihiri": [
+      {
+        "text": "Doamne, Tu în grădina Dumnezeieştii desfătări, ai înflorit pe Eutihie, şi dumnezeieşte l-ai adăpat pe el cu apele înţelepciunii Tale. Pentru aceasta a şi odrăslit rodurile cunoştinţei, veselind cu bună credinţă, pe cei ce cu laude Te slăvesc pe Tine."
+      },
+      {
+        "text": "Doamne, Tu cel ce cerci inimile, şi mai înainte şti cele ascunse, cunoscând mai-nainte pe Ierarhul Eutihie, că este vas alegerii Tale, l-ai pus păstor Bisericii Tale; pentru aceea o a îndreptat pe dânsa la verdeaţa bunei credinţe."
+      },
+      {
+        "text": "Doamne, Cela ce ai împodobit pe înţeleptul Ierarh cu Darul, şi cu haina cea lungă a Ierarhiei l-ai luminat; luminează-ne ca un Milostiv şi pe noi întru bunătăţi, prin rugăciunile lui; ca să Te lăudăm cu dreaptă credinţă întru bucurie, şi întru bună cuviinţă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Ceea ce eşti Preacurată, care ai născut pe Domnul, Cel ce odihneşte întru Sfinţi, tu mă curăţeşte de patimi pe mine, cel ce ticăloşeşte m-am spurcat, şi mă povăţuieşte, să umblu pe calea curăţiei; că tu eşti părtinitoare neruşinată robilor tăi."
+    },
+    "cruciiNascatoarea": {
+      "text": "Doamne, de Ți-ai şi întins mâinile pe Cruce de voia Ta; dar ai suferit patimă împlinind bună-voirea Tatălui, că ai venit să mântuieşti pe oameni ca un Milostiv ! Aşa striga Născătoarea de Dumnezeu cea Preacurată, pe care o slăvim."
+    }
+  }
+}

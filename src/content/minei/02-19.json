@@ -1,0 +1,30 @@
+{
+  "month": 2,
+  "day": 19,
+  "saint": "Sfântul Apostol Arhip.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Mucenicii Tăi, Doamne...",
+    "stihiri": [
+      {
+        "text": "Cu lumina cuvintelor a luminat Arhip popoarele, şi le-a mântuit dintru întunericul necunoştinţei, şi prin chinuire călcând pe vrăjmaşul, a alergat către Lumina cea neapusă, şi acum se veseleşte împreună cu îngerii. Cu ale Căruia rugăciuni, Stăpâne, dă tuturor mare milă."
+      },
+      {
+        "text": "Târându-te Fericite, şi îmboldindu-te, şi cu tot felul de chinuri fiind înconjurat, nu te-ai lepădat de Hristos, nici idolilor nu le-ai dat cinste. Pentru aceasta ai ajuns încununat, rugându-te totdeauna să ni se dea tuturor mare milă."
+      },
+      {
+        "text": "Cu dumnezeieştile vărsări ale sângiurilor, Mucenice, ai sfinţit pământul, şi cu rănile tale ai rănit vicleana mulţime a dracilor, şi izvorând neîncetat vindecări, tămăduieşti patimile cele cumplite, de Dumnezeu cugetătorule. Pentru aceasta cu rugăciunile tale, Fericite, cere tuturor mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Cugetele îmi sunt necurate, buzele viclene, şi faptele îmi sunt de tot spurcate. Şi ce voi face ? Cum voi întâmpina pe Judecătorul ? Stăpână Fecioară, roagă-te Fiului şi Ziditorului tău şi Domnul, ca întru pocăinţă să-mi primească sufletul, ca un Milostiv."
+    },
+    "cruciiNascatoarea": {
+      "text": "Junicea cea Preacurată, văzându-şi Viţelul spânzurat pe lemn de bunăvoie, tânguindu-se, cu jale striga : Vai mie preaiubitul meu Fiu ! Ce răsplătire Ți-a dat Ție poporul cel nemulţumitor al evreilor, vrând să mă lase fără de Tine, Fiul meu preadorite ?"
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Apostole Sfinte Arhipe, roagă pe Milostivul Dumnezeu ca să dea iertare de greşale, sufletelor noastre."
+    }
+  }
+}

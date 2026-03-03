@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 7,
+  "saint": "Pomenirea Sfinţilor Mucenici care au pătimit în Cherson : Vasilevs, Efrem, Evghenie, Capiton, Agatodor, Eterie, Elpidie şi ceilalţi.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn...",
+    "stihiri": [
+      {
+        "text": "Mucenici nebiruiți şi prealăudați ierarhi şi luminători a toată lumea, făcutu-v-ați stâlpi neclintiţi ai dumnezeieştii Biserici, temei dogmelor şi povățuitori binecredincioşilor şi surpători înşelăciunii, părinţi cugetători de cele cereşti, luminători sufletelor noastre, vorbitori împreună cu îngerii şi apărători ai Treimii."
+      },
+      {
+        "text": "Efrem pururea slăvitul şi Vasilevs de Dumnezeu înțelepțitul, şi marele Capiton, dumnezeiescul Agatodor, împreună cu Elpidie şi cu Eterie şi cu slăvitul Evghenie, prin dumnezeieşti cuvinte să se fericească. Că vieţuind cu cuvioşie şi pătimind cu sfinţenie, s-au arătat locuitori împărăţiei celei cereşti."
+      },
+      {
+        "text": "Vasilevs pururea pomenitul prin lupte cugetul cel trupesc omorându-l, a înviat morți cu dumnezeiasca chemare, şi Capiton iarăşi preasfinţitul păstor, stând în mijlocul văpăii cu bucurie s-a arătat nears. Prin rugăciunile lor Iubitorule de oameni, dăruieşte nouă curăţire şi mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Bucură-te cea în chipul soarelui neapusă, căruță a Soarelui, care ai strălucit pe Soarele cel neînţeles : Bucură-te mintea cea strălucitoare cu dumnezeieşti străluciri, raza fulgerului care luminezi marginile pământului, cea cu adevărat cu raze de aur, care a strălucit credincioşilor lumina cea neînserată."
+    },
+    "cruciiNascatoarea": {
+      "text": "Preacurata Stăpână văzând pe Hristos răstignit, şi cu suliţa împungându-i-se coasta, cea fără prihană plângea, strigând : Ce este aceasta Fiul meu ? Ce Ți-a răsplătit Ție poporul cel nemulțumitor, pentru bunătăţile care ai făcut, şi Te sârguieşti să mă faci fără de Fiu pe mine preaiubite ! Mă îngrozesc Îndurate, de răstignirea Ta cea de bunăvoie."
+    }
+  }
+}

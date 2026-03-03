@@ -1,0 +1,30 @@
+{
+  "month": 2,
+  "day": 22,
+  "saint": "Aflarea moaştelor Sfinţilor Mucenici celor din Evghenia.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Cel ce de sus eşti chemat...",
+    "stihiri": [
+      {
+        "text": "Cu chinurile cele de multe feluri, dezbrăcându-vă de haina omorârii, măriţilor mucenici, v-aţi îmbrăcat cu haina cea dumnezeiască a nestricăciunii, şi acum umblaţi întru cele cereşti, stând totdeauna înaintea Dumnezeiescului Scaun, luminaţi de Dumnezeu, fericiţilor. Pentru aceasta prăznuim cu credinţă pomenirea voastră cea prealuminată, şi cu cinste îmbrăţişăm sicriul moaştelor voastre."
+      },
+      {
+        "text": "Din slăbiciunea omenească cu putere dumnezeiască iese tămăduire celor ce se apropie, şi puțina ţărână a trupurilor mucenicilor izvorăşte râuri de minuni cu Darul. Să mergem dar oamenilor, să ne luăm sănătate sufletului şi trupului, strigând cu glasuri de mulțumire, şi zicând : Mântuitorule al lumii, pentru care s-au chinuit cinstiţii pătimitori foarte tare, cu ale lor rugăciuni mântuieşte-ne de toată stricăciunea."
+      },
+      {
+        "text": "Mucenicii cei bine biruitori fiind ascunşi în multă vreme, acum s-au arătat ca o avuţie de mult preţ, îmbogăţind cetatea ce împărtăşeşte peste toate cetăţile; purtându-le cu mâinile înţeleptului Arhiereu, în Biserică dumnezeiască aducându-se cu cinste, şi se împarte tuturor, celor ce le trebuieşte, spre toată sănătatea, spre folosire, spre luminare, şi spre ajutor, care îi primesc pe ei, ca pe nişte slugi credincioase ale lui Dumnezeu."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Ție îmi voi mărturisi greşelile mele cele cumplite, Născătoare de Dumnezeu, Preacurată. Că de le voi şi ascunde pe dânsele acum, iar la ziua judecăţii, deschizându-se cărţile, toate se vor vădi. Ochii mi-am spurcat, uitându-mă la cele necuvioase; mâinile le-am întinat întru fărădelegi cu lucruri de ruşine, trupul mi l-am făcut netrebnic, eu netrebnicul; şi sufletul mi-am rănit cu păcatele. Îndură-te de mă miluieşte, şi cu rugăciunile tale arată-mă vrednic în partea celor mântuiţi."
+    },
+    "cruciiNascatoarea": {
+      "text": "Nu te tângui Maica Mea, văzându-Mă pe lemn spânzurat pe Mine Fiul tău şi Dumnezeu, Care pe ape am spânzurat pământul, fără ţinere, şi am făcut toată zidirea. Că Mă voi scula, şi Mă voi preaslăvi şi voi sfărâma cu putere împărăţiile iadului, şi voi pierde puterea lui şi voi scoate pe cei legaţi din răutatea lui, ca un Milostiv, şi-i voi aduce la Tatăl Meu, ca un Iubitor de oameni."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

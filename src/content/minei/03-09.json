@@ -1,0 +1,27 @@
+{
+  "month": 3,
+  "day": 9,
+  "saint": "Sfinţii patruzeci de Mucenici care s-au muncit în iezerul Sevastiei.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": null,
+    "stihiri": [
+      {
+        "text": "Răbdând ceste de aici vitejeşte, bucurându-se de cele nădăjduite, unul către altul au grăit Sfinţii Mucenici. Nu de haină ne dezbrăcăm, ci pe omul cel vechi lepădăm. Iute este iarna, dar dulce este raiul. Cu durere este gheața, dar dulce este desfătarea. Deci să nu ne ferim, o, împreună ostaşilor ! Puțin să răbdăm ca să ne încununăm cu cununi de biruință de la Hristos Dumnezeu şi Mântuitorul sufletelor noastre."
+      },
+      {
+        "text": "Lepădând îmbrăcămințile toate, intrând fără frică în iezer, unul către altul au grăit Sfinții Mucenici : Pentru raiul care am pierdut, hainele cele stricăcioase astăzi să nu le purtăm; cei ce prin şarpele cel făcător de stricăciune oarecând ne-am îmbrăcat, să ne dezbrăcăm acum pentru învierea tuturor. Să nu băgăm seama de gheața ceea ce se topeşte şi trupul să-l urâm, ca să ne încununăm cu cununi de biruință, de la Hristos Dumnezeul, şi Mântuitorul sufletelor noastre."
+      },
+      {
+        "text": "Văzând muncile ca nişte desfătări, alergând la iezerul cel rece, ca la o căldură au grăit Sfinţii Mucenici : Să nu ne înfricoşăm de ceasul iernii, ca să scăpăm de înfricoşat focul gheenei. Să ardă piciorul, ca să dănţuiască în veci. Şi mâna să se rupă, ca să se înalţe către Domnul. Şi să nu ne fie milă de firea cea muritoare. Ci să alegem moarte, ca să ne încununăm cu cununi de biruinţă, de la Hristos Dumnezeu şi Mântuitorul sufletelor noastre."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Trecut-a umbra legii şi darul a venit, că precum rugul n-a ars fiind aprins, aşa Fecioară ai născut şi Fecioară ai rămas. În locul stâlpului celui de foc, a răsărit Soarele dreptăţii. În locul lui Moise, Hristos mântuirea sufletelor noastre."
+    },
+    "nascatoarea": {
+      "text": "Născătoare de Dumnezeu, tu eşti viţa cea adevărată, care ai odrăslit rodul vieţii, ţie ne rugăm, roagă-te Stăpâne cu Sfinţii Mucenici, să se miluiască sufletele noastre."
+    }
+  }
+}

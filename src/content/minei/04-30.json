@@ -1,0 +1,28 @@
+{
+  "month": 4,
+  "day": 30,
+  "saint": "Sfântul Apostol Iacov, fratele Sfântului Ioan cuvântătorul de Dumnezeu.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Fericite de Dumnezeu văzătorule Iacov, tu glasul Cuvântului de îndată luând, de ascultarea şi dragostea părintească nu te-ai grijit. Că lăsând tulburarea lumii şi marea cea înţelegătoare trecând, aceasta o ai tulburat cu învăţăturile bunei credinţe, şi cu tunetele tale cele mai presus de lume, de Dumnezeu fericite."
+      },
+      {
+        "text": "Preafericite Iacove, Cuvântului începătorului vieţii, şi al veacului ce va să fie, slujind cu faptele, pe Isav cel cu totul spurcat de naşterea cea dintâi cu adevărat l-ai lipsit, care şi-a socotit pântecele ca pe un Dumnezeu, pe care şi de acoperământul părintesc l-ai lipsit, şi gol l-ai arătat, şi binecuvântării şi moştenirii neîmpărtăşit."
+      },
+      {
+        "text": "Domn ai fost peste tot pământul, Mărite, precum de tine este scris, Apostol fiind Celui ce a făcut toate, şi pentru râvna ta cea călduroasă, de la cei fărădelege ucidere cu sabia ai răbdat, Preaînţelepte; din cinstită adunarea celor doisprezece împreună Apostoli, tu întâi fiind omorât, Fericite."
+      }
+    ],
+    "slava": {
+      "glas": 8,
+      "text": "Tu întâi prealăudate din dumnezeiască alegerea celor doisprezece, moarte de sabie ai răbdat de la Irod, pentru dascălul. Tu întâi paharul Lui, precum te-ai făgăduit, l-ai băut. Pentru aceasta moştenitor Împărăţiei Lui te-a primit Iubitorul de oameni, împreună cu fratele tău, care rugaţi-vă pentru sufletele noastre."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Apostole sfinte Iacove roagă pe milostivul Dumnezeu ca să dea iertare de greşale sufletelor noastre."
+    }
+  }
+}

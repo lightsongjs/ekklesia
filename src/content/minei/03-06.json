@@ -1,0 +1,30 @@
+{
+  "month": 3,
+  "day": 6,
+  "saint": "Pomenirea Sfinţilor patruzeci şi doi de Mucenici din Amoreea : Teodor, Constantin, Calist, Teofil, Vasois şi cei împreună cu ei.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "A treia zi ai înviat Hristoase…",
+    "stihiri": [
+      {
+        "text": "Mucenici buni biruitori, în vremile cele mai de pe urmă arătându-vă ca nişte stele neapuse întru cinstită întărirea Bisericii, cu strălucirea pătimirilor ați luminat toată lumea cea de sub soare şi aţi risipit întunericul înşelăciunii prealăudaţilor, şi acum v-ați mutat către strălucirea cea veşnică. Drept aceasta câştigându-vă buni folositori ai noştri, cu credinţă săvârşim sfințită şi purtătoare de lumină mucenicia voastră."
+      },
+      {
+        "text": "Cu aducere silnică Mucenici ai lui Hristos, toți v-ați pus legați în temniţă, în vreme îndelungată fiind cu adevărat dumnezeieşti străjuitori ai credinţei. Drept aceea nebunindu-se fiara cea cu nume rău, v-a omorât pe voi cu sabia, nevrând ca să vă plecaţi poruncilor lui celor cumplite. Şi acum voi patruzeci şi doi preaslăviților cu bucurie moşteniţi împărăţiile cele de sus."
+      },
+      {
+        "text": "Cu Constantin împreună cu Vasoiu şi cu Calist, pe Teofil şi pe Teodor şi pe cealaltă dumnezeiască ceată a purtătorilor de chinuri, cu mare glas toți să-i lăudăm. Căci cu bucurie junghiindu-se, au ales a se omorî pentru Viața tuturor. Şi acum se odihnesc în cetatea Dumnezeului Celui viu, şi ne cer ca să aflăm noi iertare de păcate şi desăvârşită izbăvire în ziua judecății."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Astăzi prăznuieşte Biserica în taină, îmbrăcându-se cu podoabă nouă, ca cu o porfiră şi cu vison, cu sângiurile purtătorilor de chinuri celor de acum. Că pe aceştia întru bunăcredinţă crescându-i, jertfă fără prihană primită şi bineplăcută lui Hristos s-au adus. Pentru aceasta Cela ce i-ai arătat pe dânşii biruitori asupra celor fărădelege şi i-ai încununat şi i-ai proslăvit, trimite-ne şi nouă prin rugăciunile lor mare milă."
+    },
+    "nascatoarea": {
+      "text": "De mari daruri te-ai învrednicit preacurată Fecioară, singură a lui Dumnezeu Maică, că ai născut cu trup pe Unul din Treime, pe Hristos Dătătorul de viață, spre mântuirea sufletelor noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut Preacurata pe Tine spânzurat pe Cruce, plângând cu jale, striga ca o Maică : Fiul meu şi Dumnezeul meu, preadulcele meu Fiu, cum suferi patimă de ocară ?"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 30,
+  "saint": "Pomenirea Preacuviosului Părintelui nostru Ioan cel ce a scris Scara.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O, preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Părinte Ioane Cuvioase înălţările lui Dumnezeu, totdeauna, cu adevărat le purtai în gura ta, cugetând prea cu lucrare cuvintele cele de Dumnezeu insuflate, şi cu darul cel izvorâtor de acolo te-ai îmbogăţit, fericit făcându-te, şi surpând sfaturile tuturor necredincioşilor, preaînţelepte."
+      },
+      {
+        "text": "Părinte Ioane slăvite, prin izvoarele lacrimilor, curățindu-ţi sufletul, şi cu stările cele de toată noaptea îmblânzind pe Dumnezeu, te-ai întraripat spre dragostea şi spre frumuseţea Lui, Fericite, căreia acum după vrednicie neîncetat cu bucurie te împărtăşeşti cu nevoitorii cei dimpreună cu tine, de Dumnezeu cugetătorule Cuvioase."
+      },
+      {
+        "text": "Părinte Ioane slăvite, prin credinţă, întraripându-ţi mintea către Dumnezeu, ai urât nestatornicia tulburării celei lumeşti, şi Crucea ta ridicându-o, ai urmat văzătorului tuturor, supunând cugetului trupul cel anevoie înfrânt, cu petrecerile postniceşti prin puterea Dumnezeiescului Duh."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Bucură-te dumnezeiască căruţă a lumii; Bucură-le Biserica Domnului, şi cort al sfinţeniei, lumină ne-ai răsărit nouă, din pântecele tău cel preacurat, luminând marginile lumii, şi sfințindu-ne pe noi cu bunătatea. Bucură-te capul mântuirii Preacurată; Bucură-te auzire şi grai înfricoşat a celor ce nădăjduiesc spre tine."
+    },
+    "cruciiNascatoarea": {
+      "text": "Soarele s-a întunecat Fiule, şi luna în haină neagră şi-a schimbat lumina. Pământul să clatină şi catapeteasma Bisericii Tale se rupe. Şi eu cum nu mă voi rupe la cele dinlăuntru, Fiule ! Zgâria-mă-voi la față, preadulce Mântuitorule al meu, văzându-te pe Tine mort fără dreptate."
+    }
+  }
+}

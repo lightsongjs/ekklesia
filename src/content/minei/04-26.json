@@ -1,0 +1,24 @@
+{
+  "month": 4,
+  "day": 26,
+  "saint": "Sfântul sfinţitul Mucenic Vasilevs, Episcopul Amasiei.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Întărindu-te de legea cea Dumnezeiască, mare fericite Vasilevs, şi făcându-ţi arătat cugetul singur stăpânilor, ai împărăţit peste toate patimile, şi făcându-te vrednic stătător lângă Dumnezeu, ai primit ungere sfântă şi ai povăţuit turmă cuvântătoare, cela ce eşti podoaba Arhiereilor şi a pătimitorilor."
+      },
+      {
+        "text": "Ca pe un berbece din turmă te-a despărţit împăratul cel fărădelege pe tine Vasilevs preafericite, şi văzându-te că propovăduieşti pe Împăratul Hristos Dumnezeul nostru, Care S-a jertfit ca un miel, şi a mântuit pe oameni, fără dreptate te-a junghiat pe tine, şi a poruncit ca să fii aruncat în mare, pricinuindu-ţi Împărăţia Cerurilor şi laudă veşnică."
+      },
+      {
+        "text": "Trepte ţi-ai făcut cărările cu preamărire Vasilevs pururea pomenite, că după sfârşitul tău aruncându-te în mare, precum mai înainte ai zis, fiind tare îmbrăcat pururea cu Crucea, nu te-ai oprit în ape, ci te-ai dat pe sineţi cetăţii Amasiei. Pentru aceasta noi toţi te avem rugător neruşinat şi râu de tămăduiri şi curăţitor patimilor."
+      }
+    ],
+    "tropar": {
+      "glas": 4,
+      "text": "Şi părtaş obiceiurilor, şi următor scaunelor Apostolilor fiind, lucrare ai aflat de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta cuvântul adevărului drept învăţând, şi cu credinţă răbdând până la sânge, sfinţite Mucenice Vasilevs, roagă-te lui Hristos Dumnezeu, să se mântuiască sufletele noastre."
+    }
+  }
+}

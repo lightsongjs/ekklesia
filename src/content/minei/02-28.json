@@ -1,0 +1,30 @@
+{
+  "month": 2,
+  "day": 28,
+  "saint": "Preacuviosul Părintele nostru Vasile Mărturisitorul, şi împreună nevoitorul cu Sfântul Procopie Decapolitul.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn celor ce...",
+    "stihiri": [
+      {
+        "text": "Dorind fericirea cea mai presus de cuget dumnezeiescule, înfrânarea o ai socotit desfătare, sărăcia bogăţie, neaverea avere îndestulată, şi cumpătarea cinste de bună slavă. Pentru aceasta ai şi aflat dorirea cea după gândul tău, sălăşluindu-te în locaşurile sfinţilor, Vasilie."
+      },
+      {
+        "text": "Alergarea nevoinței fără întoarcere înapoi o ai săvârşit, şi credința ai păzit. Pentru aceasta şi cununa dreptății ai luat Părinte, care ție ți-a gătit Hristos, Cel ce dă după vrednicie plată, şi daruri hărăzeşte, şi răsplătiri pentru osteneli. Care ca şi noi acum să le dobândim, roagă-te, de Dumnezeu insuflate Vasilie."
+      },
+      {
+        "text": "Patimile trupeşti prin înfrânare le-ai veştejit, şi prin rugăciune neîncetată, şi pe şarpele cel înşelător cu ploile lacrimilor l-ai înecat, Fericite, şi bineplăcut lui Dumnezeu te-ai făcut pe deasupra, de Dumnezeu înțelepțite Cuvioase Vasilie. Pentru aceasta te-a împodobit pe tine cu cereşti daruri, Iisus, Iubitorul de oameni şi Mântuitorul sufletelor noastre."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Slăbiciunea şi slăbănogirea sufletului meu Preacurată Maică Fecioară, schimbă-le acum întru tărie, şi întru putere a temerii de Dumnezeu, a face şi a lucra îndreptările lui Hristos. Ca să scap de focul cel nestins, şi să dobândesc moştenirea cea cerească, şi viața cea fără de sfârşit, prin mijlocirea ta, Stăpână, bucurându-mă totdeauna."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând Preacurata pe Iubitorul de oameni Hristos, răstignindu-Se şi cu sulița în coastă împungându-Se, plângea, strigând : Ce este aceasta Fiul meu, ce Ți-a răsplătit poporul cel nemulțumitor, pentru binele care ai făcut lui ? Şi Te sârguieşti să mă lipsesc de Tine, Fiule preaiubite ! Mă spăimântez Milostive de răstignirea Ta cea de bunăvoie."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, Părintele nostru Vasilie; şi cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere; slavă Celui ce te-a încununat pe tine; slavă Celui ce lucrează prin tine tuturor tămăduiri."
+    }
+  }
+}

@@ -27,6 +27,21 @@ export interface LiturgicalContext {
   formattedDate: string;
 }
 
+export interface PresanctifiedContext {
+  /** The date of the Presanctified Liturgy. */
+  date: Date;
+  /** "miercuri" or "vineri". */
+  dayOfWeek: "miercuri" | "vineri";
+  /** Great Lent week number, 1-6. */
+  lentWeek: number;
+  /** Octoechos tone (glas), 1-8. The tone of the current week's Sunday. */
+  tone: number;
+  /** Human-readable date in Romanian format. */
+  formattedDate: string;
+  /** Collection slug, e.g. "miercuri-sapt2". */
+  slug: string;
+}
+
 // ---------------------------------------------------------------------------
 // Data
 // ---------------------------------------------------------------------------
@@ -122,6 +137,82 @@ export function getLentSaturdays(year: number): LiturgicalContext[] {
   }
 
   return results;
+}
+
+/**
+ * Returns all Presanctified Liturgy days (Wed + Fri) for the given year.
+ *
+ * Weeks 1-6 of Great Lent: Wednesday and Friday each week.
+ * The tone follows the Sunday of that week (not the next Sunday).
+ */
+export function getPresanctifiedDays(year: number): PresanctifiedContext[] {
+  const lentStart = getLentStart(year); // Clean Monday
+  const results: PresanctifiedContext[] = [];
+
+  const DAY_NAMES: Record<number, "miercuri" | "vineri"> = {
+    3: "miercuri", // Wednesday = UTC day 3
+    5: "vineri",   // Friday = UTC day 5
+  };
+
+  // Weeks 1 through 6 (week 6 = before Palm Sunday)
+  for (let week = 1; week <= 6; week++) {
+    for (const dayOffset of [2, 4]) {
+      // Wed = Clean Monday + 2, Fri = Clean Monday + 4
+      const d = new Date(lentStart);
+      d.setUTCDate(d.getUTCDate() + dayOffset + (week - 1) * 7);
+
+      const utcDay = d.getUTCDay();
+      const dayOfWeek = DAY_NAMES[utcDay];
+      if (!dayOfWeek) continue;
+
+      // Tone: the Sunday of this week (the previous Sunday for the cycle)
+      const prevSunday = new Date(d);
+      prevSunday.setUTCDate(prevSunday.getUTCDate() - utcDay);
+      // For week 1, prevSunday is before Lent — use the next Sunday instead
+      const nextSunday = new Date(d);
+      nextSunday.setUTCDate(nextSunday.getUTCDate() + (7 - utcDay));
+      const tone = getOctoechosTone(nextSunday);
+
+      const slug = `${dayOfWeek}-sapt${week}`;
+
+      results.push({
+        date: d,
+        dayOfWeek,
+        lentWeek: week,
+        tone,
+        formattedDate: formatDateRo(d),
+        slug,
+      });
+    }
+  }
+
+  return results;
+}
+
+/**
+ * Given a date string (ISO 8601), returns the PresanctifiedContext
+ * if it matches a Presanctified Liturgy day, or null otherwise.
+ */
+export function getPresanctifiedContext(
+  dateStr: string,
+): PresanctifiedContext | null {
+  const parsed = new Date(dateStr + "T00:00:00Z");
+  if (isNaN(parsed.getTime())) return null;
+
+  const year = parsed.getUTCFullYear();
+  const days = getPresanctifiedDays(year);
+
+  for (const ctx of days) {
+    if (
+      ctx.date.getUTCFullYear() === parsed.getUTCFullYear() &&
+      ctx.date.getUTCMonth() === parsed.getUTCMonth() &&
+      ctx.date.getUTCDate() === parsed.getUTCDate()
+    ) {
+      return ctx;
+    }
+  }
+
+  return null;
 }
 
 // ---------------------------------------------------------------------------

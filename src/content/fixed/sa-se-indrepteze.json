@@ -1,0 +1,24 @@
+{
+  "id": "sa-se-indrepteze",
+  "title": "Să se îndrepteze rugăciunea mea",
+  "lines": [
+    { "role": "rubrica", "text": "Preotul, cu cădelnița în dreapta, cădind spre Sfânta Masă, cântă pe glasul 1:" },
+    { "role": "preot", "text": "Să se îndrepteze rugăciunea mea, ca tămâia înaintea Ta. Ridicarea mâinilor mele, jertfă de seară.", "redInitial": true },
+    { "role": "rubrica", "text": "Strana repetă:" },
+    { "role": "strana", "text": "Să se îndrepteze rugăciunea mea, ca tămâia înaintea Ta. Ridicarea mâinilor mele, jertfă de seară.", "redInitial": true },
+    { "role": "preot", "text": "Doamne, strigat-am către Tine, auzi-mă! Ia aminte la glasul rugăciunii mele, când strig către Tine!", "redInitial": true },
+    { "role": "strana", "text": "Să se îndrepteze rugăciunea mea, ca tămâia înaintea Ta. Ridicarea mâinilor mele, jertfă de seară.", "redInitial": true },
+    { "role": "preot", "text": "Pune, Doamne, strajă gurii mele și ușă de îngrădire împrejurul buzelor mele!", "redInitial": true },
+    { "role": "strana", "text": "Să se îndrepteze rugăciunea mea, ca tămâia înaintea Ta. Ridicarea mâinilor mele, jertfă de seară.", "redInitial": true },
+    { "role": "preot", "text": "Să nu abați inima mea spre cuvinte de vicleșug, ca să-mi dezvinovățesc păcatele mele.", "redInitial": true },
+    { "role": "strana", "text": "Să se îndrepteze rugăciunea mea, ca tămâia înaintea Ta. Ridicarea mâinilor mele, jertfă de seară.", "redInitial": true },
+    { "role": "preot", "text": "Slavă Tatălui și Fiului și Sfântului Duh.", "redInitial": true },
+    { "role": "strana", "text": "Să se îndrepteze rugăciunea mea, ca tămâia înaintea Ta. Ridicarea mâinilor mele, jertfă de seară.", "redInitial": true },
+    { "role": "preot", "text": "Și acum și pururea și în vecii vecilor. Amin.", "redInitial": true },
+    { "role": "rubrica", "text": "Preotul cântă pe larg prima parte:" },
+    { "role": "preot", "text": "Să se îndrepteze rugăciunea mea, ca tămâia înaintea Ta.", "redInitial": true },
+    { "role": "rubrica", "text": "Strana răspunde cu sfârșitul:" },
+    { "role": "strana", "text": "Ridicarea mâinilor mele, jertfă de seară.", "redInitial": true },
+    { "role": "rubrica", "text": "La ultimele cuvinte ale cântării se fac trei metanii." }
+  ]
+}

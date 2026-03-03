@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 19,
+  "saint": "Preacuviosul Părintele nostru Ioan al Lavrei celei vechi. Şi Sfântul sfinţitul Mucenic Pafnutie.",
+  "vecernie": {
+    "glas": 5,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Preacuvioase Părinte Ioane vrednicule de minune, rănindu-te cu dorirea cea dumnezeiască a lui Hristos Dumnezeu, Celui ce de voie s-a înstrăinat pe pământ pentru tine, şi din Fecioară S-a îmbrăcat cu trup desăvârşit, înstrăinându-te de toate dulceţile lumii, ai alergat către partea cea străină, Preafericite, şi vieţuind înstrăinat, ai câştigat bunătăţile, şi cu starea cea de toată noaptea, şi cu grija morţii, şi cu înfrânarea ta înfrânându-ţi patimile te-ai arătat râvnitor celor ce mai-nainte de tine s-au nevoit şi te-ai preamărit împreună cu dânşii."
+      },
+      {
+        "text": "Preacuvioase Părinte Ioane preamărite, învăţându-te turma dumnezeiescului Hariton, căreia lui celei dumnezeieşti ai râvnit, şi petrecându-ţi viaţa întru singurătate te-ai învrednicit cinstitei preoţii, şi ca un vrednic jertfitor ca un miel fără prihană totdeauna te-ai junghiat, şi curăţindu-te cu razele cele dumnezeieşti, şi prin cuget luminându-te, te-ai înălţat cu gândul către privirile cele de taină, şi către fericirea cea aleasă."
+      },
+      {
+        "text": "Preacuvioase Părinte Ioane, Preafericite, întărindu-te de puterea Treimii, ai scăpat de toată stricăciunea ereticilor, şi prin vederea şi dumnezeiasca lucrare te-ai lipit de cel înfiinţat înţelepte şi ai ajuns la toate cele dorite, către cea desăvârşit dumnezeiască slavă, şi după sfârşitul tău cu adevărat ai dobândit cele vrednice şi te bucuri împreună cu cetele îngereşti, strălucind împreună cu dânşii, şi stând înaintea lui Dumnezeu. Pentru aceasta adu-ţi aminte de cei ce fac după vrednicie pomenirea ta, vrednicule de minune."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Propovăduit-au Proorocii semnele naşterii tale Preacurată, alcătuindu-ţi numiri minunate, unii într-un chip, alţii într-alt chip; pentru că ai născut celor din iad Viaţa care a stricat puterea morţii."
+    },
+    "cruciiNascatoarea": {
+      "text": "Fecioara cea Preacurată şi neispitită de nuntă, văzând pe Cruce pe Stăpânul şi Ziditorul oamenilor, cu amar tânguindu-se şi suspinând striga : Ce este aceasta, ce văd, preadulcele meu Fiu ? Laud îndelungă răbdarea Ta."
+    }
+  }
+}

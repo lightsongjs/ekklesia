@@ -1,0 +1,17 @@
+{
+  "id": "otpust-daruri",
+  "title": "Otpustul (Liturghia Darurilor)",
+  "lines": [
+    { "role": "rubrica", "text": "Se împarte anafura și se face Otpustul deplin:" },
+    { "role": "preot", "text": "Domnului să ne rugăm." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Binecuvântarea Domnului să fie peste voi, cu al Său har și cu a Sa iubire de oameni, totdeauna, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." },
+    { "role": "preot", "text": "Slavă Ție, Hristoase Dumnezeul nostru, nădejdea noastră, slavă Ție." },
+    { "role": "strana", "text": "Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin. Doamne, miluiește; Doamne, miluiește; Doamne, miluiește. Întru numele Domnului, părinte, binecuvintează!" },
+    { "role": "preot", "text": "Hristos, Adevăratul nostru Dumnezeu, pentru rugăciunile Preacuratei Sale Maici, ale Sfinților, slăviților și întru tot lăudaților Apostoli, ale celui între sfinți Părintelui nostru Grigorie Dialogul, a cărui dumnezeiască Liturghie am săvârșit, ale Sfinților a căror pomenire o săvârșim, ale sfinților, drepților și dumnezeieștilor Părinți Ioachim și Ana și pentru ale tuturor Sfinților, să ne miluiască și să ne mântuiască pe noi, ca un bun și de oameni iubitor." },
+    { "role": "strana", "text": "Amin." },
+    { "role": "preot", "text": "Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase, Dumnezeul nostru, miluiește-ne pe noi." },
+    { "role": "strana", "text": "Amin." }
+  ]
+}

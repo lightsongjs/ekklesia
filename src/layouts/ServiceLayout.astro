@@ -1,9 +1,10 @@
 ---
 interface Props {
   title: string;
+  sections?: { id: string; title: string }[];
 }
 
-const { title } = Astro.props;
+const { title, sections = [] } = Astro.props;
 ---
 
 <!doctype html>
@@ -13,26 +14,56 @@ const { title } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   </head>
   <body
     class="bg-white text-black font-serif text-liturgical antialiased min-h-screen"
   >
     <nav class="print:hidden bg-stone-50 border-b border-stone-200 px-4 py-3">
-      <div class="max-w-3xl mx-auto">
+      <div class="max-w-3xl mx-auto flex items-center justify-between lg:max-w-5xl">
         <a href="/" class="text-rubric font-semibold hover:underline">
           Slujbe
         </a>
+        <button
+          onclick="window.print()"
+          class="text-stone-500 hover:text-rubric text-sm px-3 py-1 border border-stone-300 rounded hover:border-rubric transition-colors"
+        >
+          Tipărește
+        </button>
       </div>
     </nav>
 
-    <main class="max-w-3xl mx-auto px-4 py-8 print:py-2 print:px-0 print:max-w-none">
-      <h1
-        class="text-2xl sm:text-3xl font-bold text-center mb-8 print:mb-4 print:text-2xl"
-      >
-        {title}
-      </h1>
-      <slot />
-    </main>
+    <div class="lg:max-w-5xl lg:mx-auto lg:flex lg:gap-8 print:block">
+      {sections.length > 0 && (
+        <aside class="hidden lg:block print:hidden w-60 shrink-0 pt-8 pl-4">
+          <nav class="sticky top-20">
+            <h2 class="text-xs font-bold uppercase tracking-wide text-stone-400 mb-3">Cuprins</h2>
+            <ul class="space-y-1 text-sm">
+              {sections.map((s) => (
+                <li>
+                  <a
+                    href={`#${s.id}`}
+                    data-toc-link
+                    class="block py-0.5 px-2 text-stone-600 hover:text-rubric hover:bg-stone-50 rounded transition-colors truncate"
+                  >
+                    {s.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        </aside>
+      )}
+
+      <main class="flex-1 max-w-3xl mx-auto px-4 py-8 print:py-2 print:px-0 print:max-w-none">
+        <h1
+          class="text-2xl sm:text-3xl font-bold text-center mb-8 print:mb-4 print:text-2xl"
+        >
+          {title}
+        </h1>
+        <slot />
+      </main>
+    </div>
 
     <style is:global>
       /* Rubric styling -- liturgical instructions in red */
@@ -51,6 +82,20 @@ const { title } = Astro.props;
       /* Emphasis for exclamations */
       .exclamation {
         font-weight: 700;
+      }
+
+      /* Rubric color utility for Tailwind */
+      .text-rubric {
+        color: #b91c1c;
+      }
+      .hover\:text-rubric:hover {
+        color: #b91c1c;
+      }
+      .border-rubric {
+        border-color: #b91c1c;
+      }
+      .hover\:border-rubric:hover {
+        border-color: #b91c1c;
       }
 
       /* Print-friendly rules */
@@ -89,6 +134,44 @@ const { title } = Astro.props;
           break-inside: avoid;
         }
       }
+      /* Active TOC link */
+      .toc-active {
+        color: #b91c1c !important;
+        background-color: rgb(245 245 244); /* stone-100 */
+        font-weight: 600;
+      }
     </style>
+
+    <script>
+      const links = document.querySelectorAll('[data-toc-link]');
+      if (links.length > 0) {
+        const sections = Array.from(links).map(link => {
+          const id = link.getAttribute('href')!.slice(1);
+          return { id, el: document.getElementById(id)!, link };
+        }).filter(s => s.el);
+
+        let current = '';
+        const observer = new IntersectionObserver((entries) => {
+          // Find the topmost visible section
+          const visible = entries.filter(e => e.isIntersecting);
+          if (visible.length > 0) {
+            // Pick the one closest to the top
+            visible.sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+            const id = visible[0].target.id;
+            if (id !== current) {
+              current = id;
+              links.forEach(l => l.classList.remove('toc-active'));
+              const active = document.querySelector(`[data-toc-link][href="#${id}"]`);
+              if (active) active.classList.add('toc-active');
+            }
+          }
+        }, {
+          rootMargin: '-80px 0px -60% 0px',
+          threshold: 0
+        });
+
+        sections.forEach(s => observer.observe(s.el));
+      }
+    </script>
   </body>
 </html>

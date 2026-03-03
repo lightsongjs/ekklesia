@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 12,
+  "saint": "Cel dintru Sfinţi Preacuviosul Părintele nostru Vasilie Mărturisitorul, Episcopul Pariei,",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn celor ce...",
+    "stihiri": [
+      {
+        "text": "Strălucind pomenirea ta mai mult decât soarele ai răsărit credincioşilor, luminând lumea cu dumnezeieştile luminări, gonind negura patimilor, şi întunericul dracilor. Pentru aceasta te fericim, şi peste ani cinstim sfinţită adormirea ta, slăvind pe Mântuitorul, fericite Vasilie."
+      },
+      {
+        "text": "Cu săgeata cuvintelor tale, ai rănit adunările celor fără de lege, Preafericite; pentru aceea au dat glas norii cerurilor, cetele îngerilor cu bucurie au lăudat răbdarea nevoinţelor tale. Drept aceea bucurându-ne, împreună cu dânşii, cu credinţă te cinstim ca pe un luminător a toată lumea, şi ca pe un rugător preafierbinte."
+      },
+      {
+        "text": "Înţelepţeşte câştigând cele cereşti în locul celor pământeşti, şi în locul celor stricăcioase, cele nestricăcioase, bucurându-te ai schimbat slava cea pieritoare, cu slava cea nepieritoare. Şi în locul goanelor şi a supărărilor celor de multe feluri ai câştigat împărăţiile lui Dumnezeu cele mai presus de cuvânt; întru care şi veselindu-te împreună cu îngerii, Vasilie, roagă-te pentru cei ce cu credinţă te laudă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Ceea ce ai născut Jăratecul, care a văzut Isaia mai înainte în linguriţă, şi în vremile cele mai de pe urmă a luat trup din tine Născătoare de Dumnezeu, şi a curăţit toate patimile omeneşti, cu Focul Dumnezeirii arde păcatele mele şi de toată spurcăciunea mă spală, Mireasă a lui Dumnezeu."
+    },
+    "cruciiNascatoarea": {
+      "text": "Preacurata Stăpână văzând pe Hristos omorându-Se, şi omorând pe vicleanul, lăcrimând ca o Maică, lăuda pe Cel ce a ieşit din pântecele ei, şi mirându-se de îndelungă răbdarea Lui, striga : Fiul meu preaiubite, nu uita pe roaba Ta, nu zăbovi Iubitorule de oameni, Cela ce eşti dorirea mea."
+    }
+  }
+}

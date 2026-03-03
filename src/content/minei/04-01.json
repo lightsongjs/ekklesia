@@ -1,0 +1,34 @@
+{
+  "month": 4,
+  "day": 1,
+  "saint": "În ziua întâia, pomenirea Preacuvioasei maicii noastre Maria Egipteanca.",
+  "vecernie": {
+    "glas": 0,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Întinăciunea cea mai de înainte, ce se trăgea din spurcăciuni te oprea pe tine de vederea celor cinstite; iar înţelepciunea şi cunoştinţa ta, de cele ce s-au lucrat de tine, ţi-au făcut ție întoarcere spre cele mai bune, ceea ce eşti de Dumnezeu înţelepţită; că privind spre icoana binecuvântatei Fiicei lui Dumnezeu, şi căindu-te de toate păcatele tale cele mai dinainte, prealăudată, cu îndrăzneală te-ai închinat cinstitului Lemn."
+      },
+      {
+        "text": "Cu bucurie închinându-te sfintelor locuri de acolo, ai luat dar de călătorie spre fapta bună cea mântuitoare, şi cu bună călătorie tare ai alergat, şi trecând râul Iordanului, în locaşul Botezătorului cu osârdie te-ai sălăşluit, şi cu viața ta cea bună, ai îmblânzit sălbăticia patimilor, prin înfrânare supunând înfierbântările trupului, Maică pururea pomenită."
+      },
+      {
+        "text": "Locuind în pustie, ai lepădat chipurile patimilor din sufletul tău, prin feluri de bunătăţi zugrăvindu-ţi în suflet, închipuire lui Dumnezeu Cuvioasă, şi atât ai strălucit, cât şi peste ape uşor ai trecut Fericită; şi prin rugăciunile tale te-ai ridicat de pe pământ către Dumnezeu. Și acum cu îndrăzneală stând înaintea lui Hristos, preamărită Marie, roagă-te pentru sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Vânările sufletului şi patimile trupului le-ai tăiat cu sabia postului, greşelile cugetului cu izvorul sihăstriei le-ai înecat, şi cu curgerile lacrimilor tale ai adăpat toată pustia, şi ne-ai odrăslit nouă roduri de pocăinţă. Pentru aceasta prăznuim pomenirea ta Cuvioasă Marie."
+    },
+    "nascatoarea": {
+      "text": "Când îmi aduc aminte de greşelile mele dintru adâncul sufletului suspin Fecioară şi îmi bat pieptul, strigând : Greşit-am şi cad la tine Stăpână, căutând să mă pocăiesc. Dar iarăşi nesimţitor fiind, mă îmboldesc de obişnuirea cea rea, vai mie ! Izbăveşte-mă de aceasta degrab, şi spre mântuire mă povăţuieşte."
+    },
+    "cruciiNascatoarea": {
+      "text": "Cu întuneric s-a îmbrăcat odinioară soarele văzându-Te răstignit pe lemn Mântuitorule, şi toate cele dedesubtul pământului s-au cutremurat. Morţii s-au sculat, pietrele s-au despicat, şi toate cele cereşti s-au înfricoşat; iar preacurata Fecioară stând lângă Crucea Ta, plângea lăudându-Te, Iubitorule de oameni."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Întru tine Maică cu osârdie s-a mântuit cel după chip; că luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioasă Marie, duhul tău."
+    }
+  }
+}

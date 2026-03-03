@@ -1,0 +1,35 @@
+{
+  "month": 3,
+  "day": 29,
+  "saint": "Pomenirea Sfinţilor Mucenici : Marco, episcopul Aretuselor, Chiril diaconul",
+  "vecernie": {
+    "glas": 0,
+    "podobia": "Prealăudaţilor Mucenici…",
+    "stihiri": [
+      {
+        "text": "Cu împotrivire vitejească, ai surpat taberele vrăjmaşului Ierarhe, şi ai izbăvit noroadele din înşelăciunea idolească."
+      },
+      {
+        "text": "Cu întinderea mâinilor tale Ierarhe, împuternicind pe cel împreună pătimitor întru osteneli, stăpânia vrăjmaşului o ai arătat neputincioasă."
+      },
+      {
+        "text": "Ca un tăinuitor şi Mucenic al Stăpânului şi înţelept învăţător al Bisericii, roagă-te neîncetat pentru noi Ierarhe."
+      },
+      {
+        "text": "Făcutu-te-ai Mucenice Varahisie luminos la chip, cu sporirea ostenelilor celor multe; căci cu dragostea cea fierbinte către Dumnezeu, biruind firea cea arzătoare a focului, te-ai spânzurat în văzduh, şi tescuindu-te, ți s-au zdrobit toate oasele. Pentru aceasta cu credinţă pe tine te cinstim."
+      },
+      {
+        "text": "Legându-te, Iona dumnezeiescule, ai suferit bătăi de toiege, şi scoaterea degetelor, tăinuindu-ţi-se şi limba şi fierbându-te în smoala cea fierbinte, şi cu fierăstrău cumplit împărțindu-te. Pentru aceasta roagă-te, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Cu cântări să lăudăm credincioşii pe Varahisie, pe Lazăr şi pe Aviv, şi pe Iona, pe Narsin şi pe Euclia, pe Marin împreună cu Veith, pe Marotan slăvitul, şi pe Sava, şi pe Zanita, cerşind ca să luăm prin rugăciunile lor, iertare de cele rele şi pace şi mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Rugăciunile păcătoşilor primindu-le, şi suspinarea celor scârbiţi netrecându-o cu vederea, soleşte către Cel din preacuratele coapsele tale, ca să ne mântuim noi, prea Sfântă Fecioară."
+    },
+    "cruciiNascatoarea": {
+      "text": "Răstignirea cea fără dreptate Hristoase, văzându-o Fecioara, tânguindu-se striga Ție : Fiule preadulce, cum Te vezi mort ? Cum spânzuri pe lemn, Cel ce ai întărit tot pământul pe ape ? Nu mă lăsa dar singură Făcătorule de bine Milostive, pe mine Maica şi slujnica Ta, rogu-mă."
+    }
+  }
+}

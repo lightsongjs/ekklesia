@@ -1,0 +1,30 @@
+{
+  "month": 4,
+  "day": 22,
+  "saint": "Preacuviosul Părintele nostru Teodor Sicheotul, Episcopul Anastasiupolei.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Învăţător preasfinţit al Cuvântului făcându-te Părinte, şi cu lumina Duhului strălucind întru buna credinţă, de trei ori fericite Teodore, ne dai daruri de tămăduiri nouă, celor ce venim la această sfântă pomenire a ta, şi pe tine te cinstim."
+      },
+      {
+        "text": "Cu puterea lui Hristos luminându-te de razele cele cereşti, dai tămăduiri celor ce cer de la tine cu credinţă, şi săvârşesc pomenirea ta, cu bună cuviinţă, de Dumnezeu fericite făcătorule de minuni, vrednicule de laudă, Părinte Teodore."
+      },
+      {
+        "text": "Prin lucrarea poruncilor lui Hristos te-ai arătat lucrător viei, purtătorule de Dumnezeu; pentru aceasta primind dinarul cel de taină al împărăţiei celei de sus, te rogi neîncetat pentru noi, care te cinstim pe tine Teodore."
+      }
+    ],
+    "nascatoarea": {
+      "text": "De Dumnezeu fericită Fecioară, dăruită de Dumnezeu, părtinitoarea cea tare a păcătoşilor, sprijineala cea puternică şi tare a celor din nevoi, Născătoare de Dumnezeu Fecioară scăparea tuturor credincioşilor cea lăudată."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzându-Te pe Cruce spânzurat pe Tine Hristoase, Fecioara cea Preacurată, care fără sămânţă Te-a născut, tânguindu-se striga : Fiule şi Dumnezeule ! Ce este această nespusă a Ta rânduială Cuvinte ? Prin care ai mântuit pe oameni din blestem."
+    },
+    "tropar": {
+      "glas": 2,
+      "text": "Cunoscut fiind din scutece sfinţit, şi arătându-te plin de daruri, ai luminat lumea cu minunile, şi mulţimile dracilor ai gonit, lucrătorule de sfinţenie Teodore. Pentru aceasta roagă-te Domnului pentru noi."
+    }
+  }
+}

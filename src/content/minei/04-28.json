@@ -1,0 +1,33 @@
+{
+  "month": 4,
+  "day": 28,
+  "saint": "Sfinţii Apostoli : Iason şi Sosipatru, şi sfinţii Mucenici : Dada, Maxim şi Cvintilian.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici..,",
+    "stihiri": [
+      {
+        "text": "Toate cele veselitoare le-aţi părăsit, măriţilor, iubind pe Hristos, de care lipindu-vă sufletele prin credinţă v-aţi adus după urmele lui, Iasone şi Sosipatre preaînţelepţilor; Căruia rugaţi-vă, să dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Iasone şi Sosipatre, luminaţi sufletul meu cel întunecat de patimi, cei ce aţi luminat lumea cea de peste tot pământul cu învăţături dumnezeieşti; şi aţi risipit întunericul idolilor şi tot neamul omenesc l-aţi adus mântuit la Hristos, Dumnezeul nostru."
+      },
+      {
+        "text": "Pe voi înţelepţilor Iasone şi Sosipatre, v-a trimis Hristos Dumnezeu să chemaţi din nou pe cei rătăciţi, şi pe toţi i-aţi povăţuit către mântuire, prin învăţăturile voastre cele de Dumnezeu înţelepţite. Pe Care rugaţi-L acum, să dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Mărturisind înaintea tiranilor pe Treimea cea nezidită, trei sfinţi Mucenici, aţi fost omorâţi, şi acum v-aţi învrednicit vieţii celei neîmbătrânitoare, şi moşteniţi hrana izvorului. Pentru aceasta rugaţi-vă, să ne dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Nebiruiţi Mucenici cu curgerile sângelui celui vărsat, aţi secat pâraiele înşelăciunii şi vărsaţi ploile tămăduirilor tuturor, celor ce cu credinţă aleargă, şi dăruiţi putere neputinţelor. Pentru aceasta rugaţi-vă să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Toţi credincioşii cu cântări să cinstim astăzi pe dumnezeiescul Dada, pe Maxim şi pe Cvintilian, pe tarii ostaşi şi pe înţelepţii Mucenici, pe locuitorii raiului, care se roagă acum, să se dăruiască sufletelor noastre, pace şi mare milă."
+      }
+    ],
+    "tropar": {
+      "glas": 3,
+      "text": "Sfinţilor Apostoli rugaţi pe milostivul Dumnezeu, ca să dea iertare de greşale sufletelor noastre."
+    }
+  }
+}

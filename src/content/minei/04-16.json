@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 16,
+  "saint": "Sfintele Mucenițe fecioare : Irina, Agapi şi Hionia.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Fecioare tinerele, cele cu numele bunătăţilor celor de cinste, şi hrănite cu bunătăţi, vitejeşte aţi ajuns către hotarul cel desăvârşit al bunei credinţe, şi acum aţi alergat la Cer, rugându-vă lui Hristos, să dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Fecioare tinerele, arătat cu iscusire aţi luat pofta îndumnezeirii a strămoaşei Evei, îndumnezeindu-vă, prin neîncetată plecare către Dumnezeu, umplându-vă de dumnezeiască vedenie; şi acum rugaţi-vă, să dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Ca unele ce au îmbrăţişat pe Hristos cu suflet vitejesc, vitezele Mucenițe au plecat pe cel puternic, care a amăgit pe Eva odinioară cu viclenie, şi desăvârşit biruindu-l, se roagă lui Hristos, să dăruiască sufletelor noastre pace şi mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Sufletul meu care cumplit boleşte de patimi foarte rele, tămăduieşte-l prealăudată ceea ce ai născut pe Doctorul şi Mântuitorul tuturor, Hristos, pe Cela ce vindecă toată slăbiciunea, care a rănit cugetul cel rău al diavolului, şi pe noi ne-a scos din moarte."
+    },
+    "cruciiNascatoarea": {
+      "text": "Junghierea cea fără dreptate, văzându-o Fecioara, Hristoase, tânguindu-se striga către Tine : Fiule preadulce, cum mori fără dreptate ? Cum te spânzuri pe lemn, Cela ce ai spânzurat tot pământul pe ape ? Nu mă lăsa singură, Făcătorule de bine Multmilostive, pe mine Maica şi slujnica Ta, rogu-mă."
+    }
+  }
+}

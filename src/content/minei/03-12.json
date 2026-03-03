@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 12,
+  "saint": "Preacuviosul, Părintele nostru Teofan Mărturisitorul din Singriana.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O, preamărită minune...",
+    "stihiri": [
+      {
+        "text": "Părinte de Dumnezeu cugetătorule Teofane, fiind numit cu numirea Dumnezeieştii arătării lui Hristos, ai urmat urmelor lui celor purtătoare de viață, şi cele veselitoare ale vieţii le-ai părăsit, privind spre frumuseţea cea dorită de tine, prea-alesule. Şi prin dumnezeieştile privirile cele către Dânsul, prea bine şi desăvârşit îndumnezeindu-te."
+      },
+      {
+        "text": "Părinte de Dumnezeu cugetătorule Teofane, aflându-te în slăbiciune, ai suferit cu răbdare izgoniri amare, necruțându-ți trupul, pentru cinstitele Icoane, prealăudate. Şi de mânia leilor izgonindu-te, ca un batjocoritor, ai nebunit cu adevărat sfaturile şi gândurile cele deşarte, şi mintea cea cumplit înşelătoare."
+      },
+      {
+        "text": "Cu adevărat a dăruit ție din-destul răsplătirile ostenelilor tale, Dătătorul celor bune, de trei ori fericite, dându-ți putere a izgoni dracii, şi a tămădui bolile, şi te-ai învrednicit bucuriei celei nespuse, văzând fața Atotțiitorului, unde pururea dănțuiesc cetele îngerilor."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Vino suflete al meu suspinând, şi izvoare de lacrimi din inimă aducând, strigă Fecioarei şi Maicii Dumnezeului nostru. Pentru mulţimea îndurărilor tale Preacurată, izbăveşte-mă de munca cea înfricoşată, şi mă sălăşluieşte unde este odihna şi bucuria şi desfătarea cea veșnică."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzându-Te pironit pe Cruce pe Tine Iisuse şi primind patimi de bunăvoie Stăpâne, Fecioara şi Maica Ta striga : Fiule preadulce cum suferi răni fără dreptate; Doctorule, care ai tămăduit neputința oamenilor, şi ai izbăvit pe toţi din stricăciune, prin milostivirea Ta cea bună."
+    }
+  }
+}

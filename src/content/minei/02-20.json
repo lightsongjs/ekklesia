@@ -1,0 +1,30 @@
+{
+  "month": 2,
+  "day": 20,
+  "saint": "Cel întru sfinţi, Părintele nostru Leon episcopul Cataniei.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O, preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Leone de Dumnezeu cugetătorule, preafericite, cu vieţuiri sihăstreşti, şi cu curăţiri desăvârşit, curat lipindu-te de Dumnezeu şi Ziditorul tău, te-ai făcut plin de dumnezeiască lumină, şi ai primit daruri dumnezeieşti, a tămădui totdeauna patimi nevindecate, şi cu biciul rugăciunilor tale a izgoni duhurile cele necurate."
+      },
+      {
+        "text": "Leone cu adevărat fericite, Arhiereu făcându-te, ca un păstor prea-adevărat al ortodoxiei şi al săvârşirii; pe la verdeaţă ţi-ai păscut turma ta cu toiagul dumnezeieştii credințe, înaintea cărei turme făcând minuni cu puterea Duhului, moşteneşti laudă nestricată, după dumnezeiasca cuviinţă."
+      },
+      {
+        "text": "Scoateţi dumnezeiesc untdelemn, care iese ca dintr-o fântână, ce izvorăşte pururea, din cinstitul sicriu al înţeleptului arhipăstor, şi strigaţi către Dumnezeul tuturor : Cel ce te minunezi întru sfinţii Tăi, prin rugăciunile acestuia mântuieşte-ne pe noi Îndurate, ca un Bun, pe cei ce prăznuim cu credinţă dumnezeiască pomenirea lui."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Vino suflete al meu suspinând, şi izvorând din inimă curgeri de lacrimi, strigă Fecioarei şi Maicii Dumnezeului nostru : Pentru mulţimea îndurărilor tale, Preacurată, mântuieşte-mă de iadul cel groaznic, şi mă sălăşluieşte unde este odihna şi bucuria şi desfătarea cea veşnică."
+    },
+    "cruciiNascatoarea": {
+      "text": "Soarele s-a întunecat Fiul meu, şi luna şi-a schimbat lumina în haină întunecoasă, şi pământul s-a cutremurat, şi catapeteasma Bisericii Tale s-a despicat. Dar mie Fiul meu cum nu mi se vor spinteca cele dinlăuntru ale mele şi ochii; şi cum nu-mi voi rupe obrazul meu, văzându-Te că mori fără dreptate, preadulce Mântuitorul meu ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării, te-a arătat pe tine, turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Leone, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

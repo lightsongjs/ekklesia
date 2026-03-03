@@ -1,0 +1,33 @@
+{
+  "month": 2,
+  "day": 25,
+  "saint": "Cel dintru sfinţi Părintele nostru Tarasie Arhiepiscopul Constantinopolului.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Alegând mai bine a murii, decât a trăii, Părinte, ai poruncit să se închine iarăşi icoanei Lui Hristos, şi ale tuturor sfinţilor. Pentru aceasta dar ai astupat gurile ereticilor celor ce grăiesc împotriva lui Dumnezeu multă nedreptate, precum zice David."
+      },
+      {
+        "text": "Lepădându-te de boala iubirii de argint, ai câştigat comoara Împărăţiei celei de sus, Cuvioase de Dumnezeu cugetătorule. Pentru aceasta sicriul moaştelor tale după cuviinţă dumnezeiască, dă tuturor tămăduiri, celor ce se apropie cu credinţă, pururea pomenite."
+      },
+      {
+        "text": "Viețuind după poruncile Domnului, pildă te-ai arătat turmei tale, Părinte Tarasie, de trei ori fericite; pentru aceasta şi acum ne păzim prin învăţăturile tale. Ci nu înceta rugându-te pentru noi, cei ce săvârşim luminată pomenirea ta."
+      },
+      {
+        "text": "Pe Ierarhul cel adevărat şi slujitorul lui Hristos, acum după vrednicie să-l cinstim, ca pe cel ce de la Dânsul a luat Darul Duhului. Pe Tarasie arhipăstorul cel înţelept, care având îndrăzneală către Dumnezeu, se roagă să ne mântuim noi."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Către milostivirea ta alerg totdeauna, către îndurările tale năzuiesc în toate zilele, lăudând şi binecuvântându-te, şi mirându-mă de multă suferirea Fiului tău, care arată pentru toate răutăţile mele, Mireasă a lui Dumnezeu."
+    },
+    "cruciiNascatoarea": {
+      "text": "Fecioara cea Preacurată, dacă a văzut spânzurat pe Cruce pe Mielul, tânguindu-se, striga : Preadulcele meu Fiu, ce este această vedere nouă şi străină ? Cum, Cel ce toate le Ții în mână, Te-ai pironit cu trupul pe lemn ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării, te-a arătat pe tine, turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Tarasie, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

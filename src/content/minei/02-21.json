@@ -1,0 +1,39 @@
+{
+  "month": 2,
+  "day": 21,
+  "saint": "Preacuviosul Părintele nostru Timotei cel din Simvoli. Şi cel dintru sfinţi, Părintele nostru Eustatie Arhiepiscopul Antiohiei.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Ce vă vom numi...",
+    "stihiri": [
+      {
+        "text": "Părinte de Dumnezeu cugetătorule, Timoteie, prin înfrânare multă, şi prin rugăciune neîncetată, de tot ai pierdui săltările patimilor, şi luând darul nepătimirii, te-ai arătat vas Dumnezeiescului Duh. Pentru aceea goneşti totdeauna duhurile cele viclene şi în viață şi după moarte, de Dumnezeu fericite."
+      },
+      {
+        "text": "Părinte cugetătorule de Dumnezeu Timoteie, lui Avraam te-ai făcut următor cu adevărat, odihnind totdeauna pe cei ce năzuiau la tine. Răbdarea lui Iov ai avut întru osteneli, arătând blândeţile lui David, viață asemenea cu îngerii ai petrecut pe pământ, şi ai ajuns dorirea cea desăvârşită, rugându-te pentru noi."
+      },
+      {
+        "text": "Părinte sfinţite Timoteie, arătatu-te-ai chip curăţiei, pildă înfrânării, asemănare bunei credinţe, şi izvor umilinţei, reazem nemişcat al dreptei credinţe, râu de tămăduiri pururea curgător, soare neapus, fiu dumnezeiescului Dar, şi postnicilor podoabă preacinstită."
+      },
+      {
+        "text": "Având vieţuire cerească, de la Dumnezeu cu adevărat ai fost pus Arhiereu, şi Acestuia aduceai slujbele cu cuget curat, sărăcie şi dureri ai răbdat, Preafericite, pentru propovăduirea cea dumnezeiască, şi pentru întărirea adevărului, pe care l-ai întărit cu cuvintele tale, arătat ruşinând pe cei fără de minte."
+      },
+      {
+        "text": "Cu cuvântul curgerilor tale celor sfinţite, arătat ai aprins plevele hulei lui Arie celui rău-credincios, care nu primea a Se numi Fiul la o cinste cu firea împreună cu Tatăl, preasfinţite Eustatie, şi inimile ai luminat, şi cu adevărul ai ţinut, pe cei cei ce cu credinţă săvârşesc pomenirea ta."
+      },
+      {
+        "text": "Ameninţând cu toiagul cuvintelor tale, păstorule cel preasfinţit, turma lui Dumnezeu cea cuvântătoare, cu aceasta o ai păzit nevătămată, de tot felul de lupi. Pentru aceasta Bunul Păstor ca pe o oaie te-a adus înlăuntrul în staulul cel ceresc, unde sunt duhurile cele alese ale părinţilor şi ale drepţilor, purtătorule de Dumnezeu, Eustatie preafericite."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Toată viața mea este nesăţioasă, şi sufletul şi trupul prea întinat, şi cugetul necurat, şi faptele de tot ocărâte, şi cu totul adevărat sunt vinovat de osândire şi de defăimare. Unde mă voi duce acum ? Şi către cine voi fugi ? Fără numai către tine, Stăpână ? Milostiveşte-te, şi vino de mă mântuieşte."
+    },
+    "cruciiNascatoarea": {
+      "text": "O preaslăvită minune ! O taină înfricoşată ! O lucru cutremurat ! Zicea Fecioara, dacă a văzut pe Cruce spânzurat în mijlocul a doi tâlhari, pe Cel ce înfricoşat L-a născut fără durere, plângând zicea : Vai mie Fiul meu preaiubite, cum Te-a pironit pe Cruce poporul cel rău şi nemulţumitor ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Dumnezeul părinţilor noştri, Care faci pururea cu noi după blândeţile Tale, nu depărta mila Ta de la noi; ci pentru rugăciunile lor, în pace îndreptează viaţa noastră."
+    }
+  }
+}

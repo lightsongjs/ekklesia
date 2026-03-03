@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 15,
+  "saint": "Sfinţii Apostoli din cei şaptezeci : Aristarh, Pud şi Trofim. Şi Sfântul Mucenic Crescent.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Cu Cuvântul Dumnezeieştii cunoştinţe, desăvârşit aţi mărit popoarele din necunoştinţă, preaînţelepţilor Apostoli, şi le-aţi adus pe dânsele mântuite, către Cuvântul cel ce a strălucit din Tatăl cel nenăscut. Căruia rugaţi-vă, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Să lăudăm pe Pud şi pe Aristarh cel înţelept, şi pe dumnezeiescul Trofim, propovăduitorii lui Hristos cei adevăraţi, căci cu credinţa dumnezeiescului Dar, au topit iarna înşelăciunii, Şi acum s-au sălăşluit întru Lumina cea neapusă, ca să culeagă răsplătirile ostenelilor, îndumnezeindu-se de împărtăşirea cea negrăită."
+      },
+      {
+        "text": "Urmând lui Pavel învăţătorului celui mărit, închizându-vă în temniţă, şi primind chinuri, multe primejdii aţi răbdat măriţilor, şi prin sabie tăindu-vi-se capetele, desăvârşit v-aţi nevoit. Rugaţi-vă lui Hristos, să se dăruiască sufletelor noastre pace şi mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Ziditorul soarelui şi al lunii, Hristos Domnul, ne-a răsărit nouă lumină din pântecele tău cel purtător de lumină, Fecioară, pe Care roagă-L neîncetat, ca să se lumineze sufletele noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut Doamne, Fecioara şi Maica Ta răstignit pe Cruce, s-a spăimântat, şi privind a zis : Ce răsplătire Ți-a dat Stăpâne, cei ce s-au îndulcit de Tine cu darurile cele multe; dar mă rog, nu mă lăsa singură în lume, ci grăbeşte să Te scoli,"
+    }
+  }
+}

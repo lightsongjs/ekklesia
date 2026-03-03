@@ -1,0 +1,34 @@
+{
+  "month": 4,
+  "day": 23,
+  "saint": "Sfântul slăvitul marele Mucenic, purtătorul de biruinţă Gheorghe.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Cela ce de sus eşti chemat...",
+    "stihiri": [
+      {
+        "text": "Ca pe un viteaz între Mucenici, purtătorule de chinuri Gheorghe, adunându-ne astăzi te lăudăm pe tine; că alergarea ai săvârşit, credinţa ai păzit, şi ai luat de la Dumnezeu cununa biruinţei tale. Pe Care roagă-L, ca să mântuiască de stricăciune şi din nevoi, pe cei ce săvârşesc cu credinţă pururea cinstită pomenirea ta."
+      },
+      {
+        "text": "Întru înţelepţia ta cea tare nădăjduindu-te, de bunăvoie ai alergat la chinuri ca un leu, Mărite. Că neuitându-te la trup, ca la cel ce era să se strice, de nestricăciosul suflet înţelepţeşte te-ai grijit. Şi cu multe feluri de chinuri de munci te-ai aprins, ca nişte aur lămurit de şapte ori, Gheorghe."
+      },
+      {
+        "text": "Împreună cu Mântuitorul ai pătimit, şi cu moartea morţii lui de bunăvoie, Mărite, urmând, împreună cu Dânsul împărățeşti prealuminat, cu porfiră de sânge luminat fiind îmbrăcat, şi cu sceptrul chinurilor tale înfrumuseţat; şi cu stemă de biruinţă împodobit, în veacurile cele nesfârşite, mare Mucenice Gheorghe."
+      },
+      {
+        "text": "Cu zaua credinţei şi cu pavăza Darului, şi cu suliţa Crucii fiind întrarmat, de cele potrivnice nebiruit ai fost Gheorghe. Şi ca un dumnezeiesc viteaz, taberele dracilor biruind, cu îngerii dănţuieşti, şi pe cei binecredincioşi aperi, sfinţindu-i, şi-i mântuieşti când te cheamă."
+      },
+      {
+        "text": "Ca pe o stea mult-luminoasă, ca pe un soare strălucitor te ştim pe tine, ca pe un mărgăritar de mult preţ, ca pe o piatră strălucitoare, ca pe un fiu al zilei, ca pe un viteaz între Mucenici, şi ca pe un apărător credincioşilor în primejdii te lăudăm, săvârşind pomenirea ta, purtătorule de biruinţă Gheorghe."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "După vrednicia numelui ai vieţuit ostaşule Gheorghe, că luând Crucea lui Hristos pe umeri, bine ai lucrat pământul cel înţelenit de înşelăciunea cea diavolească; şi credinţa idolilor cea spinoasă dezrădăcinându-o, ai sădit viţa dreptei credinţe. Drept aceea izvorăşti vindecări credincioşilor din toată lumea, şi te-ai arătat drept lucrător al Treimii. Rugămu-ne ţie, roagă-te pentru pacea lumii, şi pentru mântuirea sufletelor noastre."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Ca un izbăvitor al celor robiţi, şi celor săraci folositor, neputincioşilor doctor, împăraţilor ajutător, purtătorule de biruinţă mare Mucenice Gheorghe, roagă pe Hristos Dumnezeu, să se mântuiască sufletele noastre. De două ori."
+    }
+  }
+}

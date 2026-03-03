@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 10,
+  "saint": "Sfinţii Mucenici : Terentie, Pompie, Maxim, Macarie, African şi cei împreună cu dânşii.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Preamăritul Maxim, şi marele Terentie, lăudatul Pompie şi Macarie, African cel dumnezeiesc, să se cinstească cu cântări, împreună cu dânşii şi celălalt catalog al Mucenicilor, care cu sângiurile sale au câştigat împărăţia cea de sus, şi se umple de slava cea neschimbată."
+      },
+      {
+        "text": "Nici foamea, nici primejdia, nici viaţa, nici moartea, n-au putut să vă despartă pe voi de dragostea Celui ce v-a făcut, Măriţilor. Pentru aceea aţi moştenit Împărăţia Cerurilor, şi desfătarea cea nesfârşită, şi veselia care nicicum nu se sfârşeşte. Ci dar cereţi nouă de la Dătătorul de bine iertare şi mare milă."
+      },
+      {
+        "text": "Adunarea cea cu multe nume de pătimitori, a răbdat multe feluri de chinuri foarte tare, şi cu veselie s-a mutat către însuşi Dumnezeul nostru, ca să se bucure cu mulţimile Sfinţilor îngeri, ca cei ce prin luptă vitejească şi prin Darul Duhului, au biruit mulţimile cele nenumărate ale balaurului."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Pe tine ca pe un izvor de sfinţenie, ca un sicriu cu totul de aur, strălucit cu Duhul Sfânt, te rog, şi mă cuceresc, luminează-mi Stăpână ticălosul meu suflet, cel cu totul dat patimilor, mântuindu-mă de tirania cea amară a dracilor, şi dându-mi cale de mântuire prin rugăciunile tale."
+    },
+    "cruciiNascatoarea": {
+      "text": "Maica Ta cea Preacurată şi mult-lăudată, văzându-Te Stăpâne, că Te trăgeai ca un miel spre junghiere de bunăvoie, lăcrimând, striga : Ce este această călătorie grabnică ? Unde mergi preaiubite ? Să merg împreună cu Tine, voi muri cu Tine Cuvinte, nu mă lăsa singură şi fără Fiu pe mine, ceea ce mai presus de fire Te-am născut."
+    }
+  }
+}

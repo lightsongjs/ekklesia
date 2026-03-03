@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 9,
+  "saint": "Sfântul Mucenic Evpsihie cel din Chesaria.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Mucenicii Tăi Doamne...",
+    "stihiri": [
+      {
+        "text": "Preaînţeleptul Evpsihie lovindu-se cu sabia, a umplut de ruşine multă pe cugetătorul în deşert, cel ce se înălţa cu trufia; şi s-a numărat împreună cu oştile cele cereşti bucurându-se. Cu ale căruia rugăciuni, Mântuitorule, dăruieşte tuturor mare milă."
+      },
+      {
+        "text": "Evpsihie cel strălucit, s-a făcut stâlp Bisericii şi turn nemişcat al bunei credinţe, şi surpător vrăjmaşului, izvorând tămăduiri ca dintr-o fântână tuturor bolnavilor şi celor ce aleargă la dânsul. Cu ale căruia rugăciuni, Milostive, dă tuturor mare milă."
+      },
+      {
+        "text": "Ca un crin bine-mirosind tot cugetul, cu mirosurile cele dulci ale chinurilor tale, viteazule Mucenice înţelepte, ai împuţinat rătăcirea înşelăciunii şi ai luminat ca soarele până la marginile pământului, rugându-te să se dăruiască tuturor mântuire şi mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Curată Născătoare de Dumnezeu, ceea ce ai născut pe Cuvântul cel mântuitor, izbăveşte pe robii tăi, de încercările războinicului vrăjmaş şi luminează simţirile noastre, îndreptând paşii noştri către cărările cele de mântuire, ca toţi cu credinţă să te slăvim pe tine Doamnă."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut pe Cruce pironit ceea ce Te-a născut pe Tine, însu-Ți îndelung răbdătorule, tânguindu-se vărsa lacrimi ca izvoarele, şi mirându-se foarte tare de multa milostivire şi bunătate ce ai către oameni, lăuda îndelung-răbdarea Ta, Multmilostive."
+    }
+  }
+}

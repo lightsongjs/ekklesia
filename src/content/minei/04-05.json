@@ -1,0 +1,35 @@
+{
+  "month": 4,
+  "day": 5,
+  "saint": "Sfinţii Mucenici : Claudie, Diodor, Victor, Victorin, Pappia, Nichifor, şi Serapion, şi Sfinţii Mucenici : Teodul şi Agatopod.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Împungându-vi-se ochii, şi degetele tăindu-vi-se, şi coastele strujindu-vi-se, şi spânzurându-vă, şi zdrobindu-vi-se oasele, şi cu sabie tăindu-vă mădularele, zdrobind şi voi capul celui viclean, nu v-aţi lepădat de Mântuitorul tuturor; şi cu bună cuvântare nu aţi jertfit idolilor, măriţilor marilor Mucenici."
+      },
+      {
+        "text": "Împreună cu Claudie să cinstim pe Nichifor măritul, pe cinstitul Diodor şi pe Victor, pe Victorin, pe Pappia şi pe Serapion, pe ceata cea cu numărul de şapte, adunarea cea preasfântă, Biserica cea întreagă, pe poporul care a tăiat cu sabia bărbăţiei toate mulţimile dracilor."
+      },
+      {
+        "text": "Cei râvnitori pătimirii celei sfinte a lui Hristos, prin Dumnezeiescul Dar gonesc patimile sufletului şi ale trupului. Stâlpii cei neclintiţi, luminătorii credincioşilor, cei ce au ucis pe cel viclean, limanurile cele prea-liniștite ale celor ce cad în furtună, Mucenicii cei ce locuiesc întru cele de sus, după vrednicie să se mărească."
+      },
+      {
+        "text": "Patimile şi ostenelile însoţirii celei dumnezeieşti împreunându-se cu credinţă, au întraripat cugetele către asemenea râvnă, rugând pe Hristos cu osârdie şi zicând : Cel ce ca un Bun ai preamărit pe Sfinţi, întăreşte-ne şi pe noi întru frica Ta."
+      },
+      {
+        "text": "Chemările cele cu un nume numite primind înţelepţilor, şi lucrările cele dumnezeieşti asemenea săvârşind răbdătorilor de patimi, aţi lucrat lui Dumnezeu întru cărările cele drepte, şi cu adevărat aţi băut paharul cel mântuitor al muceniciei."
+      },
+      {
+        "text": "Nedumnezeirea ca altă mare tăind, în pământul nepătimirii, întru împărăţia cerească, după vrednicie aţi intrat unde curge pârâul hranei şi străluceşte Lumina cea neschimbată şi pururea fiitoare, Mucenici ai lui Hristos."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Pornirile cele arzătoare de foc ale patimilor celor cu totul pierzătoare, cu stropirea dumnezeieştii ploii tale celei de ajuns, stinge-le Fecioară, ca şi eu precum cei trei tineri să mulţumesc lui Dumnezeu, Celui dintru tine, slăvind şi binecuvântând Darul tău Stăpână."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă a văzut ridicat pe Cruce pe Mieluşelul, Fecioara cea cu totul fără prihană, tânguindu-se striga : Dulcele meu Fiu ! Ce vedere nouă şi preaslăvită este aceasta; cum Cel ce Ții toate cu mâna, pe lemn Te pironeşti cu trupul."
+    }
+  }
+}

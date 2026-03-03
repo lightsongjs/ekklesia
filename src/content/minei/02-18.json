@@ -1,0 +1,30 @@
+{
+  "month": 2,
+  "day": 18,
+  "saint": "Cel dintru sfinţi, Părintele nostru Leon Papa Romei.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Prealăudaţilor mucenici...",
+    "stihiri": [
+      {
+        "text": "Prea filozofeşte, ai făcut desăvârşit cugetul tău singur stăpânitor patimilor, Leone preafericite, şi ţi-ai zugrăvit icoana sufletului cu feluri de bunătăţi, şi cu smerite obiceiuri. Pentru aceasta cerem de la tine, ca de la un păstor şi, să ceri de la Dumnezeu pace lumii."
+      },
+      {
+        "text": "Nu te-ai temut de semeţia lui Leon, întărindu-te cu puterea lui Hristos, preafericite, şi i-ai ruşinat nestatornicia sufletului, şi mintea cea cu adevărat nemulţumitoare, şi nedumnezeirea cea de tot eresul, şi cugetul năravurilor lui cel viclean, Ierarhe."
+      },
+      {
+        "text": "Adaos te-ai făcut mucenicilor şi Ierarhilor, celor credincioşi preot, Preafericite. Că întru chinuri te-ai arătat nebiruit, ca un turn al bunei credinţe nesurpat, şi nemişcat, şi apărător prea ortodox, propovăduind arătat cea negrăită Naşterea Domnului."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Izvor vieții veşnice, te cunoaştem Stăpână, ci cu darul tău înviază-mi sufletul, cel ce s-a uscat de patimi, şi-l găteşte a izvorî totdeauna ape de mântuire. Şi acum pică-mi mie prin rugăciunea ta iertare greşelilor, şi mă curățeşte, rogu-mă."
+    },
+    "cruciiNascatoarea": {
+      "text": "Sabie a trecut prin inima mea o Fiule, zicea Fecioara, văzând pe Cruce pe Hristos spânzurat, şi mă sfărâm Stăpâne, precum odinioară mi-a zis Simeon. Ci scoală-Te Nemuritorule, şi mă preaslăveşte cu Tine şi pe mine Maica şi roaba Ta, rogu-mă."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Îndreptătorule al Ortodoxiei, învăţătorule al dreptei cinstiri de Dumnezeu şi al curăţiei şi luminătorule al lumii, podoaba călugărilor cea de Dumnezeu insuflată Leone, înţelepte, cu învăţăturile tale pe toţi i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

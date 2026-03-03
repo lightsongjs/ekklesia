@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 4,
+  "saint": "Preacuviosul Părintele nostru Gherasim cel de la Iordan.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O, preamărită minune...",
+    "stihiri": [
+      {
+        "text": "Părinte de Dumnezeu înțelepțite Gherasime, întraripându-ți gândul către Dumnezeu, prin credinţă ai urât nestatornicia amestecării celei lumeşti, şi Crucea ta ridicând, ai urmat Văzătorului a toate, supunând cuvântării trupul cel cu anevoie înfrânat, cu nevoințele pustniciei, prin puterea Dumnezeiescului Duh."
+      },
+      {
+        "text": "Cu lumina bunătăţilor, şi cu strălucirile minunilor, aflându-te în pustie ca un soare cu multă lumină ai călătorit o Gherasime. Şi cu fiarele petrecând le-ai poruncit a-ți sluji ție. O cât este de minunat Dumnezeu Domnul, care prea arătat supune oamenilor fiarele ca pe nişte cuvântătoare."
+      },
+      {
+        "text": "Întru linişte multă şi întru plângere, şi în lacrimi toată viaţa ţi-ai petrecut, şi monahilor îndemnător prin credinţă te-ai făcut cu neavere împodobindu-te, şi cu înfrânarea înfrumuseţându-te, străin şi nemernic pe pământ arătându-te. Pentru aceasta ai aflat desfătarea bunătăţilor de Dumnezeu fericite."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Pe tine te rugăm cu totul fără prihană, pe folositoarea noastră şi mijlocitoarea întru necazuri, nu trece cu vederea pe robii tăi cei ce pier până în sfârşit, ci grăbeşte şi ne izbăveşte pe noi de urgia şi necazul ce ne stă de față, ceea ce ai încăput pe Dumnezeu, Născătoare de Dumnezeu preacurată. Căci tu eşti nouă zid şi ajutor nebiruit."
+    },
+    "cruciiNascatoarea": {
+      "text": "Soarele s-a întunecat Fiule şi luna în haină neagră şi-a schimbat lumina ! Pământul se clatină şi catapeteasma Bisericii Tale se rupe. Şi eu cum nu mă voi rupe la cele dinlăuntru, zgâria-mă-voi la față, preadulce Mântuitorul meu, văzându-Te pe Tine mort fără dreptate."
+    }
+  }
+}

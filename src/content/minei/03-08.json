@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 8,
+  "saint": "Preacuviosul Părintele nostru şi mărturisitorul Teofilact episcopul Nicomidiei.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Părinte Teofilacte, în temniţe închizându-te, de Dumnezeu te-ai păzit nevătămat şi te-ai arătat turn neclintit al Bisericii, nemişcat de ispite de măiestriile ereticilor. Şi acum te roagă, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Părinte Teofilacte, mutându-te de pe pământ, te-ai suit către cer şi pentru izgonirea ce ai răbdat pentru Hristos, te-ai învrednicit a locui în cele cereşti. Şi acum te roagă, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Părinte Teofilacte, acum văzând pe Dumnezeu pe cât este cu putință, Fericite, şi văzându-te prin unire mai bună şi îndulcindu-te de Dânsul şi fiu după dar făcându-te, cu bucurie ai câştigat dorirea cea aleasă şi fericită, petrecând împreună cu îngerii Ierarhe preafericite."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Sufletul meu care cumplit boleşte de patimi prea rele, tămăduieşte-l prealăudată, care ai născut pe Hristos tămăduitorul şi Mântuitorul tuturor, Cel ce toată neputinţa tămăduieşte. Carele a rănit cugetarea cea rea a diavolului, şi din moarte ne-a slobozit pe noi."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă a văzut pe Hristos spânzurând pe lemn Preacurata Fecioară grăia : Sabie a trecut prin inima mea şi mă rupe Stăpâne, precum dedemult mi-a proorocit Simeon, ci scoală-Te, Nemuritorule, şi împreună proslăveşte pe Maica şi slujnica Ta rogu-mă."
+    }
+  }
+}

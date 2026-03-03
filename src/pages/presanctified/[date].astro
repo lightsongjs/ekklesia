@@ -1,0 +1,45 @@
+---
+import ServiceLayout from "../../layouts/ServiceLayout.astro";
+import ServiceSection from "../../components/ServiceSection.astro";
+import { getPresanctifiedContext, getPresanctifiedDays } from "../../lib/context";
+import { composePresanctified } from "../../lib/composer-presanctified";
+
+import type { GetStaticPaths } from "astro";
+
+export const getStaticPaths: GetStaticPaths = () => {
+  const days = getPresanctifiedDays(2026);
+  return days.map((ctx) => ({
+    params: { date: ctx.date.toISOString().split("T")[0] },
+  }));
+};
+
+const { date } = Astro.params;
+const context = getPresanctifiedContext(date as string);
+
+if (!context) {
+  return Astro.redirect("/");
+}
+
+const service = await composePresanctified(context);
+
+const dayLabel = context.dayOfWeek === "miercuri" ? "Miercuri" : "Vineri";
+const pageTitle = `Liturghia Darurilor — ${dayLabel}, ${context.formattedDate}`;
+---
+
+<ServiceLayout title={pageTitle} sections={service.sections.map(s => ({ id: s.id, title: s.title }))}>
+  <div class="text-center mb-8">
+    <p class="text-stone-500 text-sm mb-1">{dayLabel}, {context.formattedDate}</p>
+    <p class="text-rubric font-medium">Liturghia Darurilor Înainte Sfințite</p>
+    <p class="text-stone-400 text-sm">Săptămâna {context.lentWeek} — Glasul {context.tone}</p>
+  </div>
+
+  {service.sections.map((section) => (
+    <ServiceSection section={section} />
+  ))}
+
+  <div class="text-center mt-12 mb-4 print:hidden">
+    <a href="/" class="text-rubric hover:underline text-sm">
+      &larr; Înapoi la listă
+    </a>
+  </div>
+</ServiceLayout>

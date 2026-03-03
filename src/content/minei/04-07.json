@@ -1,0 +1,35 @@
+{
+  "month": 4,
+  "day": 7,
+  "saint": "Sfântul Mucenic Caliopie. Şi Preacuviosul Părintele nostru Gheorghe Episcopul Meletinei.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Mucenice purtătorule de chinuri, Mărite, pentru Hristos Dumnezeu suferind vitejeşte chinurile cele cu multe dureri, şi zdruncinările trupului, cu bucurie ţi-ai săvârşit nevoinţa şi ai dobândit cununile slavei, cerşind milă şi curăţie tuturor, celor ce cu bună credinţă prăznuiesc dumnezeiască pomenirea ta."
+      },
+      {
+        "text": "Mucenice pătimitorule prea-minunate, răstignindu-te pentru Hristos, care a răbdat răstignire, ai auzit din Cer de la Dumnezeu Atotţiitorul glas cinstit, chemându-te către locaşurile cele de acolo, Fericite, unde alergând, ai primit darurile, ca un biruitor, pururea pomenite. Pentru aceea te lăudăm şi te fericim."
+      },
+      {
+        "text": "Înfierbântându-te de dragostea dumnezeiască pătimitorule, prin răcorirea Duhului, ai răbdat focul, care s-a adus la cinstitul tău trup; dintru care te-ai arătat făclie de multe lumini, arzând toată înşelăciunea mulţimii dumnezeilor. Pentru aceea după datorie toţi prăznuim sfântă pomenirea ta, pe tine fericindu-te."
+      },
+      {
+        "text": "Părinte Gheorghe, cu cinste te-ai închinat icoanei lui Hristos celei cinstite şi preacurate, şi întărindu-te cu puterea Lui, nu te-ai spăimântat de năvălirile luptătorilor de Dumnezeu. Pe care roagă-L acum, să dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Părinte Gheorghe, mânia necredincioşilor ai suferit, a celor ce dobitoceşte se sălbăticeau, pe care i-ai şi văzut prea-înălțându-se cu întărâtare păgânească; şi iarăşi zdrobindu-se mai rău prea-arătat, mişcându-te, Mărite, din pronie spre răsplătirea celor neînţelepţi."
+      },
+      {
+        "text": "Părinte Gheorghe, fiind jertfitor lui Dumnezeu, ca un preot, şi ca un lucrător de pământ rod însutit ai adus Stăpânului sufletele, celor ce s-au mântuit acum prin cuvântul tău. Şi acum roagă-te, să se dăruiască pace şi mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Bucură-te rugul cel nears al Îngerului Sfatului Celui Mare; bucură-te una care ai născut; bucură-te voinţa Cinstitei Treimi; bucură-te întărirea celor de pe pământ. Bucură-te ceea ce ai odrăslit Spicul cel nelucrat al raiului pe Împăratul şi Domnul, Care usucă odrăslirea răutăţilor."
+    },
+    "cruciiNascatoarea": {
+      "text": "Pe Mieluşelul Cuvântul, Mieluşeaua Preacurată Stăpâna, dacă L-a văzut pe Cruce neavând chip, nici frumuseţe, vai mie plângând a grăit : Unde a apus frumuseţea ta preadulcele meu Fiu ? Unde-ţi este buna credinţă ? Unde-ţi este Darul cel strălucitor al feţei Tale, preaiubitul meu Fiu ?"
+    }
+  }
+}

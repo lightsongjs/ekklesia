@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 14,
+  "saint": "Pomenirea Cuviosului Părintelui nostru Benedict.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Cu credință şi cu dragoste adevărată, lepădându-te de lume Părinte Cuvioase, din tinereţe bucurându-te ai urmat lui Hristos Celui ce S-a răstignit, şi prin multe nevoinţe trupul omorându-l, din-destul ai luat darul tămăduirilor, a înceta neputinţele cele de multe feluri, şi a goni duhurile vicleşugului, cu mărire minunându-te."
+      },
+      {
+        "text": "Făcându-te podoabă călugărilor, ai adunat nenumărată mulţime, ca să laude pe Domnul, Cuvioase Părintele nostru, şi pe toți i-ai povăţuit către cereasca vieţuire, bine urmând învăţăturilor tale celor dumnezeieşti, şi vieţii tale celei îmbunătăţite asemănându-se, Fericite, pe care şi întru mutarea ta împreună iarăşi i-ai adunat Benedicte."
+      },
+      {
+        "text": "Pogorât-ai ploi din cer prin dumnezeiasca rugăciune, precum odinioară Ilie, şi degrab ai făcut a izvorî untul-de-lemn, şi pe mort l-ai înviat, şi alte mulţimi de minuni cu adevărat ai săvârşit Cuvioase, întru slava lui Dumnezeu şi Mântuitorului, pentru aceasta dumnezeiască pomenirea ta cu dragoste o prăznuim Benedicte."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Opreşte abaterile cugetului meu, şi rătăcirile simţirilor, şi chipurile patimilor cele stricătoare de suflet desăvârşit le şterge, şi alină tulburarea sufletului meu Fecioară, ca să măresc bunătatea ta, că pe tine te am Fecioară apărătoare toatei vieţi, şi neputinţei mele ajutorul."
+    },
+    "cruciiNascatoarea": {
+      "text": "Când Te-a văzut Mieluşeaua pe Tine Mieluşelul său pironit pe Cruce cu piroane, spăimântându-se foarte se tânguia, şi lăcrimând grăia : Cum mori Fiul meu ? Vrând să rupi zapisul lui Adam celui întâi zidit, şi toată omenirea să izbăveşti din moarte. Slavă rânduielii Tale, Iubitorule de oameni."
+    }
+  }
+}

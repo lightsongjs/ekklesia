@@ -1,0 +1,22 @@
+{
+  "id": "impartasirea",
+  "title": "Împărtășirea",
+  "lines": [
+    { "role": "rubrica", "text": "Preotul se roagă în taină: Ia aminte, Doamne Iisuse Hristoase..., apoi:" },
+    { "role": "preot", "text": "Să luăm aminte! Sfintele, cele mai înainte sfințite, sfinților!" },
+    { "role": "strana", "text": "Unul Sfânt, Unul Domn, Iisus Hristos, întru slava lui Dumnezeu-Tatăl. Amin.", "redInitial": true },
+    { "role": "rubrica", "text": "În timp ce preotul se împărtășește în Sfântul Altar, Strana cântă Chinonicul:" },
+    { "role": "strana", "text": "Gustați și vedeți că bun este Domnul. Aliluia, Aliluia, Aliluia.", "redInitial": true },
+    { "role": "rubrica", "text": "Apoi, după deschiderea ușilor:" },
+    { "role": "preot", "text": "Cu frică de Dumnezeu, cu credință și cu dragoste să vă apropiați." },
+    { "role": "rubrica", "text": "Strana cântă, în loc de «Bine este cuvântat Cel ce vine...»:" },
+    { "role": "strana", "text": "Binecuvânta-voi pe Domnul în toată vremea, pururea lauda Lui în gura mea.", "redInitial": true },
+    { "role": "rubrica", "text": "Rugăciunile înainte de Împărtășanie:" },
+    { "role": "citeti", "text": "Cred, Doamne, și mărturisesc că Tu ești cu adevărat Hristos, Fiul lui Dumnezeu Cel viu, Care ai venit în lume să mântuiești pe cei păcătoși, dintre care cel dintâi sunt eu. Încă cred că acesta este Însuși Preacurat Trupul Tău și acesta este Însuși Scump Sângele Tău. Deci, mă rog Ție: miluiește-mă și-mi iartă greșelile mele, cele de voie și cele fără de voie, cu cuvântul, cu lucrul, cu știință sau cu neștiință, și mă învrednicește fără de osândă să mă împărtășesc cu Preacuratele Tale Taine, spre iertarea păcatelor și spre viața de veci. Amin.", "italic": true },
+    { "role": "citeti", "text": "Cinei Tale celei de taină, Fiul lui Dumnezeu, astăzi părtaș pe mine mă primește, că nu voi spune vrăjmașilor Tăi taina Ta, nici sărutare Îți voi da ca Iuda; ci, ca tâlharul mărturisindu-mă, strig Ție: Pomenește-mă, Doamne, întru Împărăția Ta.", "italic": true },
+    { "role": "citeti", "text": "Nu spre judecată sau spre osândă să-mi fie împărtășirea cu Preacuratele Tale Taine, Doamne, ci spre tămăduirea sufletului și a trupului.", "italic": true },
+    { "role": "rubrica", "text": "Strana cântă din nou Chinonicul:" },
+    { "role": "strana", "text": "Gustați și vedeți că bun este Domnul. Aliluia, Aliluia, Aliluia.", "redInitial": true },
+    { "role": "rubrica", "text": "Apoi, după ce a împărtășit pe credincioșii pregătiți pentru aceasta:" }
+  ]
+}

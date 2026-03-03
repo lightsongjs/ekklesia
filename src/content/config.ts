@@ -81,4 +81,65 @@ const triodion = defineCollection({
   }),
 });
 
-export const collections = { fixed, octoechos, triodion };
+const presanctified = defineCollection({
+  type: "data",
+  schema: z.object({
+    date: z.string(),
+    dayOfWeek: z.enum(["miercuri", "vineri"]),
+    lentWeek: z.number(),
+    title: z.string(),
+    tone: z.number(),
+    stihiraZilei: stihiraSchema,
+    stihiriMucenicilor: z.array(stihiraSchema),
+    stihiriMinei: z.array(stihiraSchema),
+    slavaMortilor: z.object({
+      glas: z.string(),
+      text: z.string(),
+    }).optional(),
+    nascatoarea: z.object({
+      text: z.string(),
+    }).optional(),
+    prochimen1: z.object({
+      glas: z.number(),
+      text: z.string(),
+      stih: z.string(),
+    }),
+    paremia1: z.object({
+      sursa: z.string(),
+      referinta: z.string(),
+      text: z.string(),
+    }),
+    prochimen2: z.object({
+      glas: z.number(),
+      text: z.string(),
+      stih: z.string(),
+    }),
+    paremia2: z.object({
+      sursa: z.string(),
+      referinta: z.string(),
+      text: z.string(),
+    }),
+  }),
+});
+
+const minei = defineCollection({
+  type: "data",
+  schema: z.object({
+    month: z.number(),
+    day: z.number(),
+    saint: z.string(),
+    vecernie: z.object({
+      glas: z.number(),
+      podobia: z.string().nullable().optional(),
+      stihiri: z.array(stihiraSchema),
+      slava: z.object({ glas: z.number(), text: z.string() }).optional(),
+      siAcum: z.object({ glas: z.number(), text: z.string() }).optional(),
+      nascatoarea: stihiraSchema.optional(),
+      cruciiNascatoarea: stihiraSchema.optional(),
+      tropar: z.object({ glas: z.number(), text: z.string() }).optional(),
+      troparNascatoarea: stihiraSchema.optional(),
+    }).nullable(),
+  }),
+});
+
+export const collections = { fixed, octoechos, triodion, presanctified, minei };

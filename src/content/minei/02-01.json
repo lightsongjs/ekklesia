@@ -1,0 +1,37 @@
+{
+  "month": 2,
+  "day": 1,
+  "saint": "În ziua dintâi, înainte prăznuirea întâmpinării Domnului Dumnezeului şi Mântuitorului nostru Iisus Hristos şi Sfântul Mucenic Trifon.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Casa Eufratului...",
+    "stihiri": [
+      {
+        "text": "Cinstita Biserică se găteşte să primească întru sine pe Domnul, Cel ce vine ca un Prunc, şi va să lumineze duhovniceşte cu darurile pe a Sa preacredincioasă şi de Dumnezeu iubitoare adunare, către Care şi strigă : Tu eşti slava şi lauda şi podoaba plinirii mele, Cuvinte, Cel ce Te-ai făcut Prunc cu trupul pentru mine."
+      },
+      {
+        "text": "Cămara cea mult luminoasă, şi cortul cel preacinstit, şi Biserica cea Sfântă şi desfătată, care a băgat pe Domnul înlăuntrul cămărilor Bisericii, mai-nainte s-a adus pe sine întru cinstită Biserica Lui, şi se roagă pururea, ca să se mântuiască de stricăciune şi de nevoi, cei ce neîncetat pe dânsa o slăvesc, cu adevărat de Dumnezeu Născătoare."
+      },
+      {
+        "text": "Simeoane preasfinţite, nădejdea care ți-ai agonisit, pe Hristos vino de-L vezi, intră în Biserică, şi primeşte în braţe, şi strigă : Acum slobozeşte, Mântuitorule, de pe pământ pe robul Tău, şi cheamă şi pe Proorocița Ana să preaslăvească împreună cu tine cu frică pe Făcătorul de bine, Cel ce S-a născut Prunc cu trupul."
+      },
+      {
+        "text": "Trifone preamărite, părtaş te-ai făcut desfătării celei nepieritoare, în ceruri; luminat biruit-ai Mărite cu lupte vitejeşti, şi martor al adevărului făcându-te. Roagă-te lui Hristos, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Trifone preamărite, cu strălucirile Luminii celei veşnice, cu totul te-ai făcut luminat la chip, stricând înşelăciunea cea întunecoasă, şi pe stăpânitorii lumii întunericului surpându-i cu Darul cel dumnezeiesc. Pentru aceasta roagă-te să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Trifone preafericite, învrednicitu-te-ai bucuriei şi veseliei îngereşti, lepădându-te de cele veselitoare ale vieţii, şi cu întărirea sufletului toate întru nimica socotindu-le, şi săvârşind vitejeşte mucenicia, te rogi acum pentru sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Defăimând cele pământeşti preafericite Trifone cinstite, ai alergat vitejeşte la nevoințe şi la lupta de sânge, surpând cu meşteşugire pe cel mândru, Mucenice, tu ai luat cununa biruinţei. Deci nu înceta rugând pentru noi pe Hristos Dumnezeul nostru, purtătorule de chinuri, ca să se mântuiască sufletele noastre."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Trifon întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "month": 2,
+  "day": 27,
+  "saint": "Preacuviosul Părintele nostru Procopie Mărturisitorul Decapolitul.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Vrednicia chipului cel de la începutul zidirii, făcut după chipul lui Dumnezeu, şi după asemănare, te-ai nevoit Preafericite, a o păzi prin cugetul bunei credinţe, şi prin curăţia gândului, şi cu limpezirea şi înfrânarea patimilor, şi cu paza poruncilor lui Hristos, şi a bunei credinţe, Prealăudate."
+      },
+      {
+        "text": "Mai-nainte cu sihăstria, primind în urmă şi chinuirea adaos, cu cuget dumnezeiesc, prin amândouă bine ai plăcut Celui ce te-a zidit, Care numai curăţia cere de la noi şi bun neam al sufletului, a Căruia venire cu trupul mărindu-o, te închinai Sfintei Icoane a omenirii Lui."
+      },
+      {
+        "text": "Pe cei ce cu rea credinţă se lepădau de întruparea Cuvântului, tu i-ai înfrânat, Cuvioase, întărind adevărul prin cercarea bătăilor, şi prin toată patima rea, prin legături şi prin temniţe. Pentru aceasta te-ai făcut moştenitor Împărăţiei lui Hristos, şi bucuriei celei negrăite, şi strălucirii celei veşnice."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Ceea ce ai încăput în pântece pe Dumnezeu cel neîncăput, Care S-a făcut Om pentru iubirea de oameni, luând aluatul nostru, l-a îndumnezeit cu adevărat. Nu mă trece acum Preacurată, fiind scârbit, ci te milostiveşte degrab şi mă mântuieşte de toată vrăjmăşia şi stricăciunea celui viclean."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut Doamne pironit pe Cruce Mieluşeaua şi Maica Ta, se spăimânta şi striga : Ce vedere este aceasta Fiule preaiubite, acestea Ți-a răsplătit poporul cel neplecat şi fărădelege, care a luat multe minuni de la Tine ? Ci slavă pogorârii Tale celei negrăite, Stăpâne."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor şi cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; şi te-ai făcut luminător lumii, strălucind cu minunile, Procopie, Părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

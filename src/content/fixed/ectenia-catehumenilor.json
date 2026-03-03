@@ -1,0 +1,24 @@
+{
+  "id": "ectenia-catehumenilor",
+  "title": "Ectenia catehumenilor",
+  "lines": [
+    { "role": "rubrica", "text": "Ectenia catehumenilor:" },
+    { "role": "preot", "text": "Rugați-vă, cei chemați, Domnului." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Cei credincioși, pentru cei chemați să ne rugăm, ca Domnul să-i miluiască pe dânșii." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Să-i învețe pe ei cuvântul adevărului." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Să le descopere lor Evanghelia dreptății." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Să-i unească pe ei cu sfânta Sa sobornicească și apostolică Biserică." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Mântuiește, miluiește, apără și-i păzește pe ei, Dumnezeule, cu harul Tău." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Cei chemați, capetele voastre Domnului să le plecați." },
+    { "role": "strana", "text": "Ție, Doamne." },
+    { "role": "rubrica", "text": "Preotul zice în taină Rugăciunea pentru cei chemați, apoi ecfonisul:" },
+    { "role": "preot", "text": "Ca și aceștia împreună cu noi să slăvească preacinstitul și de mare cuviință numele Tău, al Tatălui și al Fiului și al Sfântului Duh, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." }
+  ]
+}

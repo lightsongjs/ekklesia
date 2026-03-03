@@ -1,0 +1,33 @@
+{
+  "month": 2,
+  "day": 12,
+  "saint": "Cel dintru Sfinţi, Părintele nostru Meletie Arhiepiscopul Antiohiei celei mari.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Cugetând, Fericite, legea cea mântuitoare precum este scris, te-ai arătat pom sădit lângă apa nevoinţei, şi ai dat roadă de bunătăţi, cu Harul Celui ce a luminat sfântul tău suflet, şi l-a făcut primitor de tot felul de lumini duhovniceşti, Ierarhe Meletie."
+      },
+      {
+        "text": "Înfrumusețatu-s-a, Preaînţelepte, după cum zice Scriptura fălcile tale, iubind înfrânarea ca turturelele, şi defăimând desfătarea, pentru iubirea, desfătării celei înţelegătoare, Meletie, care Hristos o a dăruit ție, primindu-ţi luptele cele multe, şi râvna fierbinte pe care ai avut, primejduindu-te pentru credinţă."
+      },
+      {
+        "text": "Cu înfrânarea ai veştejit săltările trupului, Meletie, şi ai biruit patimile, şi te-ai luminat pe tine cu luminarea nepătimirii, şi curat şi lămurit ai slujit cele sfinte ale lui Hristos. Pe Care roagă-L să se izbăvească de stricăciune şi de primejdii, cei ce săvârşesc cu credinţă pomenirea ta pururea cinstită."
+      },
+      {
+        "text": "Înțelepțeşte ai dogmatisit, Preaînțelepte, că Cuvântul cel fără de trup, şi împreună cu Tatăl cel fără început S-a unit cu trupul după Ipostas, fără schimbare şi fără amestecare, şi cu două lucrări asemenea firilor dintru care este alcătuit, şi întru care se socoteşte, Unul fiind cu adevărat nedespărţit, înţelegându-se întru amândouă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Pe mine când plutesc pe mare şi umblu pe cale, şi noaptea dormind, păzeşte-mă Preacurată, şi priveghind gândul meu umple-l de Dar, şi mă îndreptează a face voia Domnului, ca să aflu în ziua judecăţii dezlegare de cele ce am făcut în viață, eu cel ce năzuiesc la adăpostirea ta."
+    },
+    "cruciiNascatoarea": {
+      "text": "Pe Tine, Mielule şi Păstorule dacă Te-a văzut pe lemn Mieluşeaua cea fără prihană, se tânguia, şi ca o Maică zicea : Fiule preaiubite, cum Te-au înălțat pe lemnul Crucii, îndelung-Răbdătorule ? Cum Ți s-au pironit mâinile şi picioarele, Cuvinte, de cei fărădelege ? Şi cum Ți-ai vărsat sângele Tău, Stăpâne ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării, te-a arătat pe tine, turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Meletie, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

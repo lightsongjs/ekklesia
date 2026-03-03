@@ -1,0 +1,34 @@
+{
+  "month": 2,
+  "day": 14,
+  "saint": "Pomenirea Preacuviosului Părintelui nostru Auxentie.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "O preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Creştere de nevoinţă, arătând Auxentie, ai luat de la Dumnezeu înmulţirea darurilor, a tămădui boli şi a izgoni draci; încredinţându-te l-a chemarea lui Hristos, şi umplându-te de dumnezeiescul Dar al Duhului şi de putere, şi ocârmuindu-te cu adevărat, la linişte te-ai aşezat, Preafericite."
+      },
+      {
+        "text": "Fiind curăţit la cuget, te-ai îmbogăţit cu Darul tămăduirilor şi al minunilor, că ai scuturat bolile patimilor, şi negura, şi întreitele valuri ale trupului şi ai luminat starea sufletului. Pentru aceasta ai şi strălucit întru adunările postnicilor, rugând pe Iubitorul de oameni pentru cei ce te laudă."
+      },
+      {
+        "text": "Înmulţind talantul, care ți s-a încredinţat, Fericite, lucrându-l cu dinadinsul, şi semănând cu lacrimi Părinte, acum seceri cu bucurie, culegând mai cu multă bucurie şi veselie adevărată. Ci ca unul ce ai îndrăzneală către Stăpânul, roagă-te pentru cei ce te laudă, purtătorule de Dumnezeu, Auxentie."
+      }
+    ],
+    "slava": {
+      "glas": 8,
+      "text": "Înţelepciunea Duhului Sfânt cea preacurată, sălăşluindu-se în inima ta cea curată, preafericite Auxentie, Cuvioase Părinte, te-a arătat pe tine izgonitor înfricoşat împotriva duhurilor viclenirii; şi nu numai înfricoşat, ci şi doctor bolilor celor ascunse. Pentru aceasta având îndrăzneală către Iubitorul de oameni Dumnezeu, mântuieşte-ne pe noi de patimile sufleteşti şi trupeşti, cu neîncetată mijlocirea ta."
+    },
+    "nascatoarea": {
+      "text": "Bucură-te lauda îngerilor, bucură-te podoaba oamenilor ! Bucură-te slava neamului nostru, bucură-te dumnezeiasca intrare la Împărăţia lui Dumnezeu. Bucură-te mijlocirea către Cel ce ne-a zidit, bucură-te dezlegarea blestemului celui dedemult ! Ţie îţi cântăm laudă de mulţumire după datorie, cei ce ne îndestulăm totdeauna de bunătăţile tale."
+    },
+    "cruciiNascatoarea": {
+      "text": "Soarele văzându-Te întins pe Cruce, de bunăvoia Ta, Iisuse, s-a spăimântat, şi pământul s-a cutremurat, şi pietrele s-au despicat, şi mormânturile de frică s-au deschis, şi toate puterile s-au spăimântat. Iar Preacurată Maica Ta dacă Te-a văzut pe Tine, Stăpâne, a strigat cu jale : Vai mie, ce este acest lucru, care se vede ?"
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, Părintele nostru Auxentie; şi cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere; slavă Celui ce te-a încununat pe tine; slavă Celui ce lucrează prin tine tuturor tămăduiri."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 3,
+  "saint": "Preacuviosul Părintele nostru şi mărturisitorul Nichita, egumenul mănăstirii Midichiei.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Ocârmuindu-te de Cuvântul, te-ai arătat dumnezeiesc iconom al sufletelor, şi tainic lucrător credincios, de Dumnezeu cugetătorule, semănând sămânţă de mântuire, şi secerând spicul cel cu multă roadă, cu veselie îl aduci Stăpânului tău, Căruia acum stându-i înainte, Fericite, adu-ţi aminte de această turmă a ta, care pururea te cinsteşte, de Dumnezeu insuflate."
+      },
+      {
+        "text": "Fiind din fire blând şi lin, te-ai arătat războinic prin râvna ortodoxiei; căci îmbrăcându-te cu credinţa ca cu o platoşă şi cu înfrânarea ca cu o suliţă, tot eresul cel hulitor l-ai înfruntat, Nichita de Dumnezeu cugetătorule, cinstind şi închinându-te dumnezeiescului chip al Mântuitorului, arătat urmând hotarelor celor părinteşti, de Dumnezeu purtătorule."
+      },
+      {
+        "text": "Când tiranul cel prea întunecat, din cruzimea cea de fiară, te-a închis în locuri întunecoase prin amare izgoniri atuncea socotind în cugetul tău locuirea raiului, şi bucurându-te cu duhul ai răbdat Părinte. A căruia frumuseţe te-ai învrednicit acum a o vedea cu adevărat, culegând răsplătirile ostenelilor, Fericite."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Când îmi aduc aminte de greşelile mele Fecioară, dintru adâncul sufletului suspin, și bătându-mă pe piept strig că am greşit, şi cad înaintea ta Stăpână, vrând să mă pocăiesc, dar iarăşi fiind nesimţitor, mă îmbulzesc, vai mie, de obişnuirea cea rea. Ci mântuieşte-mă dintr-acestea degrab, şi spre mântuire mă povăţuieşte."
+    },
+    "cruciiNascatoarea": {
+      "text": "Cu întuneric s-a îmbrăcat odinioară soarele, văzându-Te răstignit pe lemn Mântuitorule; iar cele dedesubtul pământului s-au spăimântat, şi morţii s-au sculat, pietrele s-au despicat, şi toate cele cereşti s-au înfricoşat; iar Fecioara cea Preacurată stând lângă Crucea Ta, plângea, lăudându-Te pe Tine, Iubitorule de oameni."
+    }
+  }
+}

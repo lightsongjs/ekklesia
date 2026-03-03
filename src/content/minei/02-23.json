@@ -1,0 +1,30 @@
+{
+  "month": 2,
+  "day": 23,
+  "saint": "Sfântul sfinţitul Mucenic Policarp Episcopul Smirnei.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Când a căzut la pământ roada Fecioarei, şi sămânţa cea începătoare de viață, atunci te-a odrăslit pe tine spic cu multă roadă, ca să hrăneşti pe credincioşi cu cuvintele, şi cu dogmele dreptei credinţe şi ale pătimirii, sfinţindu-i pe dânşii cu sângele cel dumnezeiesc, şi curăţindu-i cu mirul preoţiei, Policarpe."
+      },
+      {
+        "text": "Apus-ai din lume către Dumnezeu, strălucind razele muceniciei tale, încetat-ai a dori ajungând la dorirea cea desăvârşită, Cuvioase, şi le-ai umplut de fericita strălucire. Căreia acum roagă-te, să se împărtăşească toți, cei ce prăznuiesc cu credinţă preasfântă pomenirea ta, fericite Policarpe."
+      },
+      {
+        "text": "Când s-a înălţat pe lemnul Crucii, spânzurându-se Via cea adevărată, atunci te-a întins pe tine viță cu multă roadă, tăiată cu cosorul cinstitei mucenicii, şi călcată în linurile chinurilor; al cărui pahar de veselie amestecându-l cu credinţă Părinte, mărim cinstitele tale lupte."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Bucuria tuturor scârbiţilor, şi apărătoare celor năpăstuiţi, şi hrană săracilor, străinilor mângâiere, celor înviforaţi liman, bolnavilor cercetare, celor îngreuiaţi acoperământ şi sprijineală, şi toiag orbilor, tu eşti Preacurată, Maica Dumnezeului Celui Preaînalt; grăbeşte rugămu-ne, şi mântuieşte pe robii tăi."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând Preacurata pe Făcătorul a toată lumea, că rabdă multe ocări şi pe Cruce înălţat, suspina, zicând : Prealăudate Doamne, Fiule şi Dumnezeul meu, cum suferi necinste în trup, vrând să cinsteşti zidirea Ta, Stăpâne ? Slavă milostivirii Tale celei multe, şi pogorârii Tale, Iubitorule de oameni."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţă răbdând până la sânge, Sfinţite Mucenice Policarpe, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre."
+    }
+  }
+}

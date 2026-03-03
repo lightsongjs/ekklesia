@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 14,
+  "saint": "Cel dintru Sfinţi Părintele nostru Martin Mărturisitorul Papă al Romei.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Ce te vom numi...",
+    "stihiri": [
+      {
+        "text": "Ce te voi numi acum Martine, învăţător prealăudat de învăţături ortodoxe ? Corifeu sfinţit cu adevărat dumnezeieştilor dogme ? Defăimător minciunii prea-adevărat ? Apărător prea tare al Cuvântului ? Lucrător de cele sfinte preasfinţit ? Făcător de minuni preacinstit ? Roagă-te, să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te vom numi acum Martine ? Râu pururea plin de ape duhovniceşti, care adapă sufletele spre bună rodire înţelegătoare ? Sfeşnic, care luminează lumina bunei credinţe ? Munte, din care pică dumnezeiască veselie ? Arătător dumnezeieştilor cuvinte ? Doveditor a tot eresul ? Roagă-te, să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te vom numi acum Martine ? Lucrător preacredincios de cele sfinte, al cortului celui Adevărat ? Mijlocitor cu cuviinţă dumnezeiască între Dumnezeu şi între oameni ? Pahar izvorâtor de băutură dumnezeiască ? Luminător ca unul ce ai Cuvântul vieţii, trăgându-te de la apus, şi arătându-te la răsărit ? Roagă-te, să se mântuiască sufletele noastre."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Ce este mai luminat decât bunătăţile tale Fecioară ? Că vindeci şi mântuieşti pe toţi de patimi, gonind năpădirile cele fărădelege ale vrăjmaşilor. Şi păzeşti de primejdii pe cei ce te cinstesc, şi scârbele le opreşti, dumnezeiască Mireasă, fă-te pricină de bucurie mai bună robilor tăi, rugându-te să se mântuiască sufletele noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Ce vedere înfricoşată este aceasta ? Fecioara striga către Domnul ca o Maică. Durerile care nu le-am cunoscut când Te-am născut Fiule, iute pătrund inima mea. Nu sufăr a Te vedea pe Cruce, o Lumina ochilor mei ! Grăbeşte de Te scoală, şi slăveşte rânduiala Ta cea înfricoşată."
+    }
+  }
+}

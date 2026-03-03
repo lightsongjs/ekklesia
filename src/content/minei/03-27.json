@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 27,
+  "saint": "Pomenirea Sfintei Matroana, cea din Tesalonic.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Împotriva semeției, şi cruzimii celei obraznice a evreilor, ți-ai pus cugetul cel bărbătesc, de Dumnezeu gânditoare, ca una ce vedeai mai-nainte desfătarea celor viitoare, ceea ce petrece pururea în veac neclintită. Pe care o ai dobândit, mutându-te de pe pământ către cămările cele cereşti, şi către dănțuirea cea nestricată, preaslăvită Matroano."
+      },
+      {
+        "text": "Învrednicitu-te-ai a vedea bunăcuviința împărăției, şi frumuseţea cea veselitoare a Mirelui tău, fiind împodobită cu rănile pătimirii tale celei tari, şi după vrednicie te-ai apropiat la izvorul bunătăţilor, câştigând împărtăşirea dumnezeieștii veselii celei veşnice, rodurile fericirii şi lauda cea fără de moarte."
+      },
+      {
+        "text": "Nici jugul robiei, nici slăbiciunea femeiască, nici foamea, nici bătăile, nu te-au oprit pe tine a nu te asemăna tăriei mucenicilor preaslăvită; căci cu osârdia sufletului, ai suferit muncile. Pentru aceasta ai dobândit cămările cereşti, şi te-ai înfrumuseţat cu cununa darurilor, stând înaintea Ziditorului tău."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Leacul cel preabun şi mântuitor al pocăinţei şi curgere de lacrimi, ceea ce ai născut pe Dumnezeu Mântuitorul meu, tu îmi dăruieşte prin rugăciunile tale, o Fecioară ! Ca să cuget de ceasul cel groaznic și înfricoșat şi neamăgirea Judecătorului, ca să scap de cutremurul muncilor, şi să dobândesc darul cel dumnezeiesc."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut Doamne Fecioara şi Maica Ta, pe Cruce spânzurând, s-a spăimântat, şi strigând a zis : Ce Ți-au răsplătit Ție, cei ce s-au îndulcit cu darurile Tale cele multe Stăpâne ? Ci mă rog, să nu mă laşi pe mine singură în lume. Ci grăbeşte de înviază împreună înviind pe strămoşi."
+    }
+  }
+}

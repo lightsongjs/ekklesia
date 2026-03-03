@@ -1,0 +1,29 @@
+{
+  "id": "dupa-impartasire",
+  "title": "După Împărtășire",
+  "lines": [
+    { "role": "preot", "text": "Mântuiește, Dumnezeule, poporul Tău și binecuvintează moștenirea Ta." },
+    { "role": "rubrica", "text": "Strana cântă, în loc de «Am văzut lumina cea adevărată...»:" },
+    { "role": "strana", "text": "Pâinea cea cerească și paharul vieții gustați și vedeți că bun este Domnul. Aliluia, Aliluia, Aliluia.", "redInitial": true },
+    { "role": "preot", "text": "Totdeauna, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." },
+    { "role": "rubrica", "text": "Dacă au fost credincioși care s-au împărtășit, se citește:" },
+    { "role": "citeti", "text": "Să se umple gurile noastre de lauda Ta, Doamne, ca să lăudăm slava Ta, că ne-ai învrednicit pe noi a ne împărtăși cu Sfintele, cele fără de moarte, preacinstitele și de viață făcătoarele Tale Taine. Întărește-ne pe noi întru sfințenia Ta; toată ziua să ne învățăm dreptatea Ta. Aliluia, Aliluia, Aliluia.", "italic": true },
+    { "role": "preot", "text": "Drepți! Primind dumnezeieștile, sfintele, preacuratele, nemuritoarele, cereștile și de viață făcătoarele, înfricoșătoarele lui Hristos Taine, cu vrednicie să mulțumim Domnului." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Apără, mântuiește, miluiește și ne păzește pe noi, Dumnezeule, cu harul Tău." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Seara toată desăvârșită, sfântă, în pace și fără de păcat cerând, pe noi înșine și unii pe alții și toată viața noastră lui Hristos Dumnezeu să o dăm." },
+    { "role": "strana", "text": "Ție, Doamne." },
+    { "role": "preot", "text": "Că Tu ești sfințirea noastră și Ție slavă înălțăm, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." },
+    { "role": "preot", "text": "Cu pace să ieșim." },
+    { "role": "strana", "text": "Întru numele Domnului." },
+    { "role": "preot", "text": "Domnului să ne rugăm." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "rubrica", "text": "Preotul citește Rugăciunea Amvonului: Stăpâne Atotțiitorule, Cel ce cu înțelepciunea Ta ai zidit toată făptura..." },
+    { "role": "strana", "text": "Amin." },
+    { "role": "strana", "text": "Fie numele Domnului binecuvântat, de acum și până-n veac (de 3 ori).", "redInitial": true },
+    { "role": "rubrica", "text": "Cu trei metanii." }
+  ]
+}

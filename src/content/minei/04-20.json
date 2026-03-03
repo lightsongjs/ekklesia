@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 20,
+  "saint": "Preacuviosul Părintele nostru Teodor de la Trihina.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Cuvioase Părinte Teodore, dar ales te-ai adus pe tine lui Dumnezeu, având priveghere de toată noaptea şi dragoste, cugetare de Dumnezeu, smerire desăvârşită, nădejde, credinţă şi curăţie, milosârdie desăvârşită, înfrânare adevărată şi rugăciune, care te arăta ca un stâlp foarte luminos."
+      },
+      {
+        "text": "Cugetătorule de Dumnezeu Părinte Teodore, căutând a te îmbrăca cu podoabă adevărată, şi cu îmbrăcăminte de mântuire, prin cuget binecredincios, nu ai părăsit a nu-ţi acoperi trupul tău totdeauna cu haină de păr, şi întărindu-te cu puterea Dumnezeiescului Duh, ai despuiat măiestriile celui ce ne-a despuiat pe noi."
+      },
+      {
+        "text": "Ca un sărac cu duhul te-ai adus pe tine jertfă vie şi prinos deplin, şi dar cinstit Dumnezeului nostru, Celui ce S-a întrupat din Maică Preacurată, şi pentru noi a sărăcit. Pentru aceea ai primit îndulcirea cerurilor, Preafericite, către care pururea mijloceşte, rugămu-ne să ne miluiască pe noi."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Cu ce ochi voi vedea sfinţită fața ta, eu cel ce mi-am spurcat ochii cu patimile trupului, sau cum voi săruta chipul tău cel de Dumnezeu închipuit, fiindu-mi buzele spurcate, ticălosul de mine ? Şi cum îmi voi întinde eu ticălosul către Darul tău cel dumnezeiesc mâinile, care le-am făcut netrebnice ? Stăpână mântuieşte-mă."
+    },
+    "cruciiNascatoarea": {
+      "text": "Soarele văzându-Te Iisuse întins pe Cruce de voia Ta, s-a întunecat, şi pământul s-a cutremurat, pietrele s-au despicat, şi mormintele de frică s-au deschis, şi toate puterile s-au spăimântat. Iar ceea ce Te-a născut fără de bărbat, văzându-Te, cu suspin striga : Vai mie ! Ce este aceasta, ce văd ?"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 13,
+  "saint": "Sfântul Sfinţitul Mucenic Artemon.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Vieţuind pe pământ, te-ai împreunat cu îngerii cei fără de trup, şi împreună cu dânşii neîncetat slujeşti Treimii, Artemoane, de Dumnezeu fericite, unde pururea, ca un om ceresc, umblând cu minunile cele dumnezeieşti, înveţi pe cei de pe pământ cele de sus."
+      },
+      {
+        "text": "Luminându-te cu dumnezeiasca Lumină, cu multe munci ţi-ai trudit trupul tău, şi te-ai mutat către Luceafărul cel nematerialnic, prin care, cu rugăciunile tale, goneşti noaptea cea întunecoasă a patimilor, luminând sufletele noastre, Înţelepte."
+      },
+      {
+        "text": "Pe cei ce cu credinţă săvârşesc pomenirea ta, lauda şi multele nevoinţe ale cinstitei muceniciei tale, Sfinţite Mucenice, nu înceta rugându-te pururea, ca să fie păziţi de nevoi şi de scârbe, şi să se izbăvească de stricăciunea ceea ce va să fie, Mucenice Artemoane, propovăduitorule de Dumnezeu."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Alunecându-mă cu năravul cel stricăcios, zac împlântat, ci către naşterea ta alerg Fecioară, izbăveşte-mă de viforul cel potrivnic, şi de multe feluri de ispite, ca neîncetat să laud Darul tău, Născătoare de Dumnezeu, Maică pururea Fecioară."
+    },
+    "cruciiNascatoarea": {
+      "text": "Stând lângă Crucea Fiului şi Dumnezeului tău, şi văzând îndelungă răbdarea lui, Preacurată Maică, plângând grăiai : Vai mie preadulce Fiule ! Cum pătimeşti acestea fără dreptate ? Cuvinte al lui Dumnezeu, ca să mântuieşti pe oameni."
+    }
+  }
+}

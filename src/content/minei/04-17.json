@@ -1,0 +1,35 @@
+{
+  "month": 4,
+  "day": 17,
+  "saint": "Sfântul sfinţitul Mucenic Părintele nostru Simeon Persul. Şi Preacuviosul Părintele nostru Acachie Episcopul Meletinei.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "O preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Strălucit-a astăzi ca soarele dumnezeiască pomenirea ta, luminând pe cei credincioşi, strălucind în lume cu luminări dumnezeieşti. Simeoane preafericite, gonind negura patimilor, şi întunericul dracilor. Pentru aceea te fericim, ca pe un luminător a toată lumea, şi ca pe un rugător prea-fierbinte."
+      },
+      {
+        "text": "Înţelepţeşte câştigând cele cereşti în locul celor pământeşti, şi în locul celor trecătoare cele netrecătoare, bucurându-te ai primit răsplătire, în locul măririi celei stricăcioase slava cea nestricăcioasă, şi în locul norilor de munci şi de chinuri grele ai câştigat împărăţiile lui Dumnezeu cele mai presus de cuvânt; întru care veselindu-te împreună cu cei ce au pătimit cu tine, roagă-te pentru toţi, cei ce cu credinţă te laudă Simeoane Cinstite."
+      },
+      {
+        "text": "Cu săgeata cuvintelor tale ai rănit adunările călcătorilor de lege, Mucenice Simeoane; pentru aceea norii cerurilor au dat glas, cetele îngerilor au lăudat răbdarea nevoinţelor tale. Drept aceea şi noi toţi veselindu-ne, cu credinţă prăznuim sfântă adormirea ta, slăvind pe Mântuitorul."
+      },
+      {
+        "text": "Ca un Arhiereu plăcut lui Dumnezeu, prin cuget priveşti umbrele cele neapuse, şi te-ai învrednicit a vedea cele mai presus de lume, şi îmbrăcându-te întru cuviinţă, şi înfăşurându-te cu dreptatea, şi cu buna podoabă, faţă către faţă priveşti la frumuseţea celor înţelegători, fericite Acachie."
+      },
+      {
+        "text": "Preacuvioase Părinte Acachie, întraripându-ţi prin credinţă cugetul către Dumnezeu, te-ai scârbit de amestecarea şi nestatornicia lumii, şi luând Crucea ta, ai urmat Văzătorului a toate, şi cu puterea Dumnezeiescului Duh, prin lucrările înfrânării, voile trupului cele neînfrânate le-ai supus cugetului, Preafericite."
+      },
+      {
+        "text": "Arătându-te corifeu împreună cu Chiril, şi unit dumnezeiescului Sobor, Acachie, pe Nestorie cel fără de minte l-ai dat pierzării, descoperind nebunia lui, Fericite, şi prin cuvintele cele duhovniceşti ai ruşinat deşertăciunea lui. Pentru aceasta tot sufletul te fericeşte pe tine, prăznuind cu credinţă dumnezeiască pomenirea ta."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Mântuieşte-mă Stăpână Preacurată, ceea ce nespus ai născut pe Hristos, că pe tine singură folositoare şi zid neclintit şi acoperământ, şi bucurie şi mângâiere dumnezeiască a sufletului meu te-am câştigat; tu dar mă mântuieşte de viermele cel neadormit, şi de focul cel veşnic, Maica lui Hristos Dumnezeu."
+    },
+    "cruciiNascatoarea": {
+      "text": "Stăpâne Iisuse, văzându-Te pe Tine Fecioara şi Maica Ta pe Cruce pironit, şi patimi de bunăvoie primind, a strigat : Vai mie preadulce Fiule, cum rabzi bătăi fără dreptate, Doctorul cel ce ai vindecat neputinţa omenească, şi prin milosârdia Ta pe toţi i-ai mântuit din stricăciune."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 23,
+  "saint": "Sfântul prea Cuviosul Părintele nostru Nicon şi o sută nouă zeci şi nouă de ucenici ai lui cei ce s-au muncit cu dânsul.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Dezmierdările trupului şi trupul cel anevoie înfrânat, prin dar l-ai supus la zăbala înfrânării, Fericite, cu puterea Duhului, ca un prea-ales biruind toată arma vrăjmaşului. Pentru aceasta te-ai făcut povăţuitor călugărilor, celor ce urmează totdeauna înţeleptei şi dumnezeieştii propovăduirii tale Nicone."
+      },
+      {
+        "text": "Strălucind ca soarele de la răsărit preafericite, toată lumea o ai luminat, cu strălucirile minunilor, adunând ceată de ucenici, luminoşi ca stelele. Cu care împreună ai pătimit prea cu răbdare, tăindu-vă prin sabie, şi duhurile voastre punându-le în mâinile Stăpânului, Împăratului tuturor."
+      },
+      {
+        "text": "Nici foamea, nici primejdia, nici goliciunea, nici bătăile, nici moartea cea prea silnică, cu adevărat nu v-au despărţit pe voi de dragostea lui Hristos, vrednicilor de minune. Ci ca nişte mieluşei spre junghiere, urmând Păstorului, aţi ajuns de la apus întru neînserata odihnă a Împărăţiei Cerurilor, cununi purtând, purtătorilor de chinuri."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Tămăduirea şi leacul cel prea-ales şi mântuitor al pocăinţei, tu mie să-mi dăruiești, ceea ce ai născut pe Dumnezeu, Mântuitorul meu, şi curgerile lacrimilor, şi cugetarea ceasului celui groaznic şi înfricoşat, şi neamăgirea Judecătorului, ca prin rugăciunile tale să scap de cutremurul muncilor şi să dobândesc darul cel dumnezeiesc."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşeaua ceea ce Te-a născut pe Tine, Mieluşelul şi Păstorul, dacă te-a văzut răstignit pe lemn, ca o Maică tânguindu-se grăia către Tine : Preaiubite Fiule, cum Te-ai spânzurat pe lemnul Crucii îndelung-răbdătorule ? Cum Ți s-au pironit Cuvinte, mâinile şi picioarele Tale, de cei fărădelege ? Şi sângele Tău Ți-ai vărsat Stăpâne ?"
+    }
+  }
+}

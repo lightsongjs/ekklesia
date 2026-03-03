@@ -1,0 +1,26 @@
+{
+  "month": 4,
+  "day": 2,
+  "saint": "Preacuviosul Părintele nostru şi făcătorul de minuni Tit.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Tite de Dumnezeu cugetătorule Părintele nostru, pe umeri ridicându-ţi Crucea ta, ai urmat lui Hristos; şi toate patimile le-ai supus sufletului. Pentru aceasta ai luat Dar de la înălţime a tămădui patimile celor ce aleargă la tine, a înceta bolile şi a izgoni duhurile; drept aceea prăznuind, săvârşim pomenirea ta."
+      },
+      {
+        "text": "Tite preafericite Părintele nostru, cu petreceri sihăstreşti, sfinţit curăţindu-te şi prin împărtăşiri dumnezeieşti luminându-ţi cugetul, cu adevărat ai primit ungerea cea preasfântă a preoţiei prin voirea Dumnezeiescului Duh, slujind pe pământ prea-ales lui Dumnezeu şi Ziditorului tău, ca un înger."
+      },
+      {
+        "text": "Cuvioase Tite de Dumnezeu insuflate, luminându-ţi sufletul cu lumina pravoslaviei, ai împuţinat negura întunecatului eres, şi răsărind ca o stea prealuminoasă, pururea luminezi marginile lumii, cu minunile tale cele purtătoare de lumină. Pentru aceasta toţi cu credinţă te cinstim şi te fericim."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Cu ce ochi voi vedea faţa ta cea frumoasă, eu cel ce cu patimile mi-am spurcat ochii trupului ? Şi iarăşi cum voi săruta icoana ta cea de Dumnezeu închipuită, având buze spurcate eu cel neastâmpărat; şi cum îmi voi întinde mâinile eu spurcatul care le-am netrebnicit, către dumnezeiescul tău Dar ? Stăpână mântuieşte-mă."
+    },
+    "cruciiNascatoarea": {
+      "text": "Soarele văzându-Te Iisuse întins pe Cruce de voia Ta, s-a spăimântat, şi pământul s-a cutremurat, pietrele s-au despicat şi mormintele de frică s-au deschis, şi toate puterile s-au spăimântat. Iar ceea ce Te-a născut fără de bărbat, văzându-Te, cu suspin striga : Vai mie ce este aceasta ce văd !"
+    }
+  }
+}

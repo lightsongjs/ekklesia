@@ -1,0 +1,30 @@
+{
+  "month": 2,
+  "day": 15,
+  "saint": "Sfântul Apostol Onisim.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Repejunile râului, cuvintele cele negrăite ale propovăduitorului, care s-au îmbogăţit pe pământ din raiul desfătării, te-au veselit pe tine foarte mult, cel ce te-ai arătat cetate însufleţită lui Dumnezeu. Căruia te-ai şi făcut slugă vrednică, învăţând cele cereşti, Preafericite, care nu este cu putinţă la oameni a le grăi."
+      },
+      {
+        "text": "Cugetul cel slobod şi volnicia sufletului le-ai luminat cu bun-neamul credinţei, şi din robia cea pământească te-ai mântuit, Preaînţelepte, plecând grumazii la jugul lui Hristos. Pentru aceasta ai alergat, să mântuieşti pe oameni din robia cea înţelegătoare, şi să-i aduci la primirea Darului."
+      },
+      {
+        "text": "Ca o rază dătătoare de lumină te-a luminat pe tine Soarele şi învăţătorul lumii, ca să luminezi lumea cu lumina propovăduirii, şi cu fulgerele cele dumnezeieşti să pierzi întunericul înşelăciunii; şi să luminezi cugetele credincioşilor, Mărite, prin lucrări de minuni în multe feluri."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Mântuieşte de osândire, Preasfântă Mireasă a lui Dumnezeu, şi de greşeli cumplite sufletul meu cel smerit. Şi-l mântuieşte de moarte prin rugăciunile tale, şi dăruieşte să aflu la ziua cercetării îndreptarea, pe care o au aflat cetele sfinţilor, curăţindu-mă prin pocăinţă, şi cu vărsare de lacrimi mai-nainte de sfârşit."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut Doamne, Fecioara şi Maica Ta pe Cruce spânzurat, s-a spăimântat, şi privind a zis : Ce Ți-au răsplătit Ție, cei ce s-au îndulcit cu darurile tale cele multe Stăpâne ? Ci mă rog, să nu mă laşi pe mine singură în lume, ci grăbeşte de înviază, împreună înviind pe strămoşi."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Apostole sfinte Onisime, roagă pe milostivul Dumnezeu ca să dea iertare de greşale, sufletelor noastre."
+    }
+  }
+}

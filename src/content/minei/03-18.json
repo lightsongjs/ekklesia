@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 18,
+  "saint": "Pomenirea celui între Sfinţi Părintelui nostru Chiril, arhiepiscopul Ierusalimului.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Ca o stea ai răsărit, şi cu strălucirile sfințitelor dogmelor tale, pe credincioşi i-ai luminat şi eresurile le-ai întunecat, şi desăvârşit le-ai surpat, şi ca o slugă înmulțind talantul, ce ți s-a dat, bine ai plăcut Stăpânului, întru ale căruia mâini ai dat sfinţitul tău duh, Chirile de Dumnezeu cugetătorule."
+      },
+      {
+        "text": "Cu înțelepciunea cuvintelor, şi cu strălucirea vieţii tale, ca o stea mult-luminoasă ai strălucit în mijlocul soborului părinţilor, vrednicule de minune, cu vinele darului sugrumând pe Macedonie cel fără Dumnezeu, cel ce a hulit nebuneşte, şi arătat a nelegiuit către Sfântul şi Dumnezeiescul Duh, care toate le-a făcut cu viață."
+      },
+      {
+        "text": "Mintea cea prea vrăjmaşă a prea-nebunului Manent o ai ruşinat, prea-ales şi prea cu înţelepciune, mustrând cele pângărite învăţături ale nebuniei lui, începătorule al dascălilor, bună cuviința preoţilor, dumnezeiescule apărător al Bisericii lui Hristos. Pentru aceasta săvârşim bucurându-ne sfântă adormirea ta."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Cămară purtătoare de lumină fiind a Stăpânului, şi nor al Luminii celei înţelegătoare, care ai răsărit lumii, de Dumnezeu dăruită cu totul fără prihană; luminează cugetul şi trupul nostru, şi toate smintelile vicleanului, pierde-le, şi prin rugăciunea ta întăreşte gândul nostru."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut Doamne Fecioara şi Maica Ta, pe Cruce spânzurând, s-a spăimântat, şi privind, a zis : Ce Ți-au răsplătit Ție, cei ce s-au îndulcit cu darurile Tale cele multe, Stăpâne ? Ci mă rog, să nu mă laşi pe mine singură în lume, ci grăbeşte de înviază, împreună înviind pe strămoşi."
+    }
+  }
+}

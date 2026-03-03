@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 3,
+  "saint": "Mucenici întreiţi cu numărul, luptându-vă cu tărie împotriva judecătorilor celor prea-cruzi, şi cu credință suferind felurile durerilor celor foarte cu iuţeală, împărăţia cea de sus ați dobândit. Pentru aceasta rugaţi-vă, să se dăruiască sufletelor noastre pace şi mare milă.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Mucenici întreiţi cu numărul, luptându-vă cu tărie împotriva judecătorilor celor prea-cruzi, şi cu credință suferind felurile durerilor celor foarte cu iuţeală, împărăţia cea de sus ați dobândit. Pentru aceasta rugaţi-vă, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Pe Eutropiu, pe Cleonic cel tare şi pe Vasilisc cu duhovniceşti cântări să-i lăudăm. Că prin darul bunei credințe au ars cu foc materia nedumnezeirii şi acum luminează marginile cu străluciri dumnezeieşti, ca nişte preastrăluciţi luminători, ca cei ce au pierdut toată înşelăciunea."
+      },
+      {
+        "text": "Capetele tăindu-vi-se, capul vrăjmaşului ați sfărâmat cu picioarele voastre cele preafrumoase, vitejilor Mucenici, stele nerătăcite şi junghieri însufleţite, odoarele Bisericii celei cereşti Eutropiu slăvite, Vasilisc şi Cleonic, tuturor pace cerşindu-le."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Sufletul meu, care boleşte cumplit de patimi prea-rele, vindecă-l prealăudată, care pe Tămăduitorul şi Mântuitorul tuturor, pe Hristos ai născut, care vindecă toată neputinţa, Cel ce a rănit mintea cea rea a diavolului şi din moarte ne-a slobozit pe noi."
+    },
+    "cruciiNascatoarea": {
+      "text": "Junghierea Ta cea nedreaptă Hristoase văzându-o Fecioara tânguindu-se striga Ție : Preadulce Fiule, cum mori fără dreptate ? Cum Te spânzuri pe lemn, Care ai spânzurat tot pământul pe ape ? Nu mă lăsa singură, Făcătorule de bine mult-Milostive, pe Maica şi slujnica Ta rogu-mă."
+    }
+  }
+}

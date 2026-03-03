@@ -1,0 +1,17 @@
+{
+  "id": "tatal-nostru-daruri",
+  "title": "Tatăl nostru (Liturghia Darurilor)",
+  "lines": [
+    { "role": "preot", "text": "Și ne învrednicește, Stăpâne, cu îndrăznire, fără de osândă, să îndrăznim a Te chema Tată pe Tine, Dumnezeul cel ceresc, și să zicem:" },
+    { "role": "strana", "text": "Tatăl nostru, Care ești în ceruri, sfințească-Se numele Tău. Vie Împărăția Ta. Facă-Se voia Ta, precum în cer așa și pe pământ. Pâinea noastră cea de toate zilele dă-ne-o nouă astăzi. Și ne iartă nouă greșelile noastre, precum și noi iertăm greșiților noștri; și nu ne duce pe noi în ispită, ci ne izbăvește de cel viclean.", "redInitial": true },
+    { "role": "preot", "text": "Că a Ta este Împărăția și puterea și slava, a Tatălui și a Fiului și a Sfântului Duh, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." },
+    { "role": "preot", "text": "Pace tuturor!" },
+    { "role": "strana", "text": "Și duhului tău." },
+    { "role": "preot", "text": "Capetele noastre Domnului să le plecăm." },
+    { "role": "strana", "text": "Ție, Doamne." },
+    { "role": "rubrica", "text": "Preotul zice în taină rugăciunea: Dumnezeule, Cel ce singur ești bun și milostiv..., apoi ecfonisul:" },
+    { "role": "preot", "text": "Cu harul și cu îndurările și cu iubirea de oameni a Unuia-Născut Fiului Tău, cu Care ești binecuvântat, împreună cu Preasfântul și bunul și de viață făcătorul Tău Duh, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." }
+  ]
+}

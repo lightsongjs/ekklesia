@@ -1,0 +1,28 @@
+{
+  "month": 2,
+  "day": 2,
+  "saint": "Întâmpinarea Domnului nostru Iisus Hristos când l-a luat Simeon în braţele sale.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": null,
+    "stihiri": [
+      {
+        "text": "Spune Simeoane : Pe cine purtând în braţe, în Biserică te bucuri ? Cui strigi şi grăieşti : Acum m-am slobozit, că am văzut pe Mântuitorul meu. Acesta este, Cel ce S-a născut din Fecioară; Acesta este, Dumnezeu Cuvântul cel din Dumnezeu; Care S-a întrupat pentru noi, şi a mântuit pe om; Acestuia să ne închinăm. De trei ori."
+      },
+      {
+        "text": "Primeşte Simeoane, pe Cel ce mai-nainte sub nor L-a văzut Moise, punând legea în Sinai; Care Prunc s-a făcut, şi legii S-a supus. Acesta este, Care prin lege a grăit : Acesta este Cel vestit de prooroci; Care s-a întrupat pentru noi, şi a mântuit pe om; Acestuia să ne închinăm. De trei ori."
+      },
+      {
+        "text": "Veniți şi noi, cu cântări dumnezeieşti să întâmpinăm pe Hristos, şi să-L primim pe Dânsul, a Căruia mântuire Simeon a văzut. Acesta este, pe Care David L-a vestit. Acesta este, Cel ce a grăit prin prooroci; Care s-a întrupat pentru noi, şi a mântuit pe om; Acestuia să ne închinăm. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Să se deschidă uşa Cerului astăzi, că Cuvântul Tatălui cel fără început, luând început sub ani, nedespărţindu-Se de a Sa Dumnezeire, de Fecioara Maică, ca un prunc de patruzeci de zile, de bunăvoie S-a dus în Biserica Legii. Şi pe Acesta în brațe L-a primit bătrânul, strigând : Slobozeşte-mă; că ochii mei au văzut mântuirea Ta. Cela ce ai venit în lume, să mântuieşti neamul omenesc, Doamne, slavă Ție."
+    },
+    "tropar": {
+      "glas": 0,
+      "text": "Bucură-te ceea ce eşti cu Dar dăruită, Născătoare de Dumnezeu Fecioară, că din tine a răsărit Soarele dreptăţii, Hristos Dumnezeul nostru, luminând pe cei dintru întuneric; veseleşte-te şi tu bătrânule drepte, cel ce ai primit în braţe pe Slobozitorul sufletelor noastre, Cel ce ne-a dăruit nouă şi înviere."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 31,
+  "saint": "Pomenirea Sfântului Sfinţitului Mucenic şi făcător de minuni Ipatie, episcopul Gangrelor.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O, preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Părinte de Dumnezeu înțelepțite Ipatie, întru înfrânare bine hrănindu-te, ai crescut spre slăvită înălţime a bunătăţilor, arătat întinzându-te spre vedenie prea-tainică şi zărind frumuseţea lui Hristos. Cu ale căruia străluciri luminându-te la minte şi la cuget, tuturor ai fulgerat razele minunilor."
+      },
+      {
+        "text": "Părinte al părinţilor Ipatie, fulgerând cu lumina pravoslaviei, ai luminat cugetele, celor ce aleargă la tine cu credinţă şi vederile lui Arie le-ai întunecat Cuvioase, lepădându-l din Biserica lui Hristos. Pentru aceasta toţi avându-te pe tine luminător, cinstim şi fericim sfinţită pomenirea ta."
+      },
+      {
+        "text": "Părinte Sfinţite Ipatie, având în inima ta pe Împăratul Hristos, pe Lare luminat L-ai propovăduit, de o fiinţă cu Tatăl ai strălucit razele minunilor, luminând toată partea cea de sub soare. Pe balaurul l-ai omorât şi izvorâre de ape calde prin rugăciunile tale ai izvorât spre doctoria bolilor."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Bucură-te lauda lumii; Bucură-te Biserica Domnului; Bucură-te muntele cel cu umbra deasă; Bucură-te scăpare; Bucură-te sfeşnicul cel de aur; Bucură-te lauda pravoslavnicilor cinstită; Bucură-te Marie Maica lui Hristos Dumnezeu. Bucură-te rai; Bucură-te masă dumnezeiască; Bucură-te cort; Bucură-te năstrapă cu totul de aur; Bucură-te nădejdea tuturor."
+    },
+    "cruciiNascatoarea": {
+      "text": "Soarele s-a îngrozit, văzându-Te pe Tine Iisuse întins pe Cruce de bunăvoie şi pământul s-a cutremurat, pietrele s-au despicat şi mormânturile s-au deschis de frică, şi toate puterile s-au spăimântat. Care dacă le-a văzut Fecioara stăpâna, cu suspinuri, vai mie a strigat : Ce este ceea ce se vede ?"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "month": 2,
+  "day": 26,
+  "saint": "Cel dintru sfinţi; Părintele nostru Porfirie, episcopul Gazei.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Curățindu-ți întinăciunea sufletului fericite Porfirie, cu râurile lacrimilor tale, ai stins văpaia patimilor păcatului, şi schimbând haina întru porfiră, umbli întru cele cereşti totdeauna, veselindu-te în veci."
+      },
+      {
+        "text": "Cu dumnezeieştile înălţării ale ortodoxiei fiind împodobit, lauda arhiereilor, te-ai pus în sfeşnic vrednic lucrător, culegând cu adevărat plata ostenelilor tale. Pentru aceea ai luat şi daruri de la Dumnezeu, preafericite."
+      },
+      {
+        "text": "Porfirie tăinuitorul mesei celei înfricoşătoare de aici de jos acolo în ceruri aduce Domnului jertfa cea fără materie şi dumnezeiască, pururea privind fără materie către noi, cu rugăciunile lui cele mijlocitoare către Preasfânta Treime."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Fiind viscolit de noianul păcatelor, alergând la limanul cel lin al curatei rugăciunii tale, Născătoare de Dumnezeu, strig către tine : Mântuieşte-mă, întinzând dreapta ta cea puternică mie robului tău, Preacurată."
+    },
+    "cruciiNascatoarea": {
+      "text": "Iată că am văzut sabia care mi-a trecut acuma prin inimă, Fiule, precum mai-nainte mi-a zis odinioară, când te vedeam că eşti mai frumos decât toți fiii pământenilor. Că de voia Ta, Te-ai spânzurat pe Cruce împreună cu tâlharii, ca şi cum ai fi fost făcător de rele."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării, te-a arătat pe tine, turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Porfirie, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

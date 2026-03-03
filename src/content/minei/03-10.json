@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 10,
+  "saint": "Sfântul Mucenic Codrat şi cei împreună cu dânsul.",
+  "vecernie": {
+    "glas": 0,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Codrate prea-alesule, dorind de viața cea dumnezeiască, viața cea stricăcioasă ai defăimat. Că cinstind mai mult averea cea nematerialnică, decât averea cea trecătoare, ai câştigat îndulcirea cea neîncetată. Că prin moarte ai trecut către desfătarea cea fără de moarte şi către slava cea stătătoare."
+      },
+      {
+        "text": "Codrate de Dumnezeu cuprinsule, prin cuget neabătut ai alergat pe calea muceniciei. Că paşii sufletului tău s-au lăţit, şi urmele bărbăției tale nicicum nu s-au slăbit, întru care făcându-te povățuitor al celor împreună cu tine pătimitor, ai ajuns către Mitropolia cea de sus."
+      },
+      {
+        "text": "Codrate bine biruitorule, ca un voievod prea-ales, aducând ceata mucenicilor celor împreună cu tine, cea vitejeşte numărată în ostășirea lui Dumnezeu, ai făcut vitejie împotriva celor potrivnici lui Dumnezeu, şi luând semne de biruinţă întru mulţimi, stai înaintea lui Hristos purtând Cunună împreună cu dânşii."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Bucură-te străină auzire Preacurată; Bucură-te Pom Sfânt cel de Dumnezeu sădit al Raiului; Bucură-te pierderea dracilor celor răi; Bucură-te sabia cea cu două ascuțișuri, care tai capul vrăjmaşului, prin naşterea ta cea străină Preasfântă, şi pe noi cei ce căutăm înstrăinați, iarăşi ne cheamă Preacurată."
+    },
+    "cruciiNascatoarea": {
+      "text": "Junghierea Ta cea fără dreptate, văzându-o Fecioara, tânguindu-se striga către Tine : Preadulce Fiule, cum pătimeşti fără dreptate ? Cum spânzuri pe lemn ? Cela ce tot pământul ai spânzurat pe ape. Nu mă lăsa singură Făcătorule de bine, pe mine Maica şi Slujnica Ta rogu-mă, mult-Milostive."
+    }
+  }
+}

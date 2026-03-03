@@ -24,7 +24,7 @@ const service = await composeVespers(context);
 const pageTitle = `Vecernia Mare — ${context.sundayName} (${context.formattedDate})`;
 ---
 
-<ServiceLayout title={pageTitle}>
+<ServiceLayout title={pageTitle} sections={service.sections.map(s => ({ id: s.id, title: s.title }))}>
   <div class="text-center mb-8">
     <p class="text-stone-500 text-sm mb-1">Sâmbătă seara, {context.formattedDate}</p>
     <p class="text-rubric font-medium">{context.sundayName}</p>

@@ -1,0 +1,30 @@
+{
+  "month": 3,
+  "day": 17,
+  "saint": "Pomenirea Preacuviosului Părintelui nostru Alexie, omul lui Dumnezeu.",
+  "vecernie": {
+    "glas": 0,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Om al lui Dumnezeu pe tine te-am cunoscut şi cu numirea şi cu fapta. Că având pe pământ sărăcie nemăsurată, şi strâmtorare, ai strălucit cu bunătățile, şi ai încredințat pe credincioşi cu minunile. Pentru aceasta roagă-te, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Cu dorirea ceea ce rourează, stingând doririle trupului cele arzătoare Alexie, prin bunăcredinţă ai schimbat cămara pentru cămară. Şi pentru dezmierdările trupului, ai dobândit dumnezeiască asemănarea îngerilor. Cu care roagă-te împreună, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Necunoscut ai rămas înţelepte, trudindu-te înaintea porţilor dumnezeieştilor părinţilor tăi, batjocorindu-te pe tine slugile tale în multă vreme. Iar murind te-ai arătat cu minunile cele ce le-ai săvârşit, tămăduind bolile, şi izgonind duhurile cele necurate."
+      }
+    ],
+    "slava": {
+      "glas": 1,
+      "text": "Iubind Hristos Dumnezeu, cea liniştită şi singuratică, smerită, şi fără de răutate viaţa ta preafericite Alexie, luminător la toată lumea te-a arătat, strălucind mai mult decât Soarele. Căci pe soţie şi avuţia cea vremelnică, ca un praf o ai socotit, necunoscut fiind în casa părintească, şi ai dorit numai de însuşi Hristos, pe care L-ai iubit. Adu-ţi aminte dar pentru robii tăi înaintea scaunului Împăratului tuturor, lui Hristos Dumnezeului nostru, neîncetat rugându-te pentru robii tăi, Preacuvioase Părinte."
+    },
+    "nascatoarea": {
+      "text": "Bucură-te curată străină auzire, Bucură-te lemnul cel sfânt al raiului cel sădit de Dumnezeu, Bucură-te pierderea dracilor celor răi, Bucură-te sabia cea cu două ascuţituri, care tai capul vrăjmaşului prin străină naşterea ta, cu totul fără prihană, şi pe noi cei înstrăinaţi iarăşi ne cheamă Preasfântă."
+    },
+    "cruciiNascatoarea": {
+      "text": "Junghierea Ta cea fără dreptate Hristoase, văzându-o Fecioara, tânguindu-se striga Ție : Preadulce Fiule, cum pătimeşti fără dreptate ? Cum spânzuri pe lemn, care ai spânzurat tot pământul pe ape ? Nu mă lăsa singură, Făcătorule de bine Multmilostive, pe mine Maica şi slujnica Ta rogu-mă."
+    }
+  }
+}

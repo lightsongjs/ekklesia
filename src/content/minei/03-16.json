@@ -1,0 +1,26 @@
+{
+  "month": 3,
+  "day": 16,
+  "saint": "Pomenirea Sfântului Mucenic Sabin.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Doamne, de ai şi stătut...",
+    "stihiri": [
+      {
+        "text": "Doamne, Tu ca unul ce știi neputinţa firii oamenilor, încinge-ne pe noi cu putere în vremea înfrânării, şi ne întăreşte asupra patimilor, şi a vrăjmaşilor celor înţelegători, ca un bun Îndurat, îngrădindu-ne cu nepătimirea sufletului, ca să slăvim mila Ta."
+      },
+      {
+        "text": "Doamne, Tu ca un bun cu suflarea Mângâietorului, ai adus pe purtătorul de chinuri, dintru întuneric către lumina sălăşluirii celei dumnezeieşti, şi tare ostaş al tău l-ai arătat, asupra vrăjmaşilor. Pentru aceasta făcând vitejii, Te-a proslăvit pe Tine, Iubitorule de oameni."
+      },
+      {
+        "text": "Doamne, Tu prin rugăciunile mucenicilor, ca un bun şi Iubitor de oameni, păzeşte-ne pe noi întru acoperământul aripilor Tale celor înţelegătoare, şi ne învredniceşte Cuvinte, a vedea curat şi limpede, învierea Ta cea de a treia zi, ca un milostiv."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Doamne, primeşte rugăciunile Maicii Tale şi milostivindu-te, pleacă-te, şi mântuieşte tot neamul omenesc, cel ce măreşte a Ta stăpânire şi ne izbăveşte pe noi dintru înşelăciunea vrăjmaşului celui spurcat, şi ne miluieşte, Milostive dându-ne iertare de greşale."
+    },
+    "cruciiNascatoarea": {
+      "text": "Doamne, când Te-a văzut soarele pe lemn spânzurat, pe Tine Soarele dreptăţii, şi-a ascuns razele, şi luna lumina întru întuneric o a schimbat. Iar Maica Ta cea Preacurată, la cele dinlăuntru se rănea."
+    }
+  }
+}
