@@ -1,24 +1,35 @@
 {
   "saptamana": 1,
+  "title": "Triod - Săptămâna 1 a Postului Mare (Duminica Ortodoxiei)",
   "sundayName": "Duminica Ortodoxiei",
-  "stihiriDomneStragatAm": [
-    {
-      "text": "[placeholder - de completat] Stihira 1 din Triod, Duminica Ortodoxiei, Doamne strigat-am",
-      "rubric": "Din Triod"
-    },
-    {
-      "text": "[placeholder - de completat] Stihira 2 din Triod, Duminica Ortodoxiei, Doamne strigat-am"
-    },
-    {
-      "text": "[placeholder - de completat] Stihira 3 din Triod, Duminica Ortodoxiei, Doamne strigat-am"
-    }
+  "randuiala": {
+    "stihiriPe": 10,
+    "surse": [
+      { "sursa": "octoih", "grupa": "invierii", "count": 3, "rubrica": "Stihirile Învierii, glasul de rând:" },
+      { "sursa": "octoih", "grupa": "anatolie", "count": 3, "rubrica": "Alte stihiri, ale lui Anatolie:" },
+      { "sursa": "triod", "count": 4, "rubrica": "Ale Triodului, glasul al 6-lea. Podobia: Toată nădejdea punându-și..." }
+    ]
+  },
+  "stihiriVecernie": [
+    { "text": "Pe Tine cel necuprins, Carele ai strălucit mai înainte decât luceafărul, fără început, din pântecele cel nematerial şi fără de trup al Părintelui, proorocii cei insuflaţi cu Duhul Tău, Doamne, Te-au propovăduit a fi Prunc-întrupat, din ceea ce n-a ştiut de nuntă, unit cu oamenii şi aici pe pământ văzut. Pentru care ca un îndurat, învredniceşte luminii Tale, pe cei ce laudă învierea Ta cea nespusă şi cinstită." },
+    { "text": "Cu cuvântul propovăduindu-Te, grăitorii de Dumnezeu prooroci, şi cu lucrurile cinstându-Te, viaţa cea fără sfârşit au câştigat; că nesuferind a sluji făpturii, Stăpâne, fără numai Ţie, Făcătorului, de lume toţi evangheliceşte s-au lepădat şi s-au făcut părtaşi patimii Tale, pe care mai înainte o au vestit. Pentru ale cărora rugăciuni învredniceşte-ne, să trecem fără prihană măsura postului, unule mult-Milostive." },
+    { "text": "Din firea Ta cea dumnezeiască, nefiind cuprins, Stăpâne, mai pe urmă întrupându-Te, ai binevoit a Te cuprinde. Căci cu luarea trupului, ai luat şi toate osebirile lui. Pentru aceasta scriind chipul asemănării Tale, cu dor îl sărutăm, spre dragostea Ta înălţându-ne; şi dintr-însul luăm darul tămăduirilor, urmând dumnezeieştilor aşezăminte ale Apostolilor." },
+    { "text": "Preacinstită podoabă a luat Biserica lui Hristos, din înălţarea cea prealuminată a cinstitelor şi sfintelor icoane ale Mântuitorului Hristos, ale Maicii lui Dumnezeu şi ale tuturor sfinţilor. Prin care se luminează şi se împodobeşte cu darul şi se leapădă de adunarea ereticilor. Şi bucurându-se, slăveşte pe Iubitorul de oameni Dumnezeu, Carele pentru dânsa a răbdat patimi de bunăvoie." }
   ],
+  "slavaDoamneStrigatAm": {
+    "glas": "al 2-lea",
+    "text": "Strălucit-a darul adevărului; cele ce s-au însemnat dedemult întunecat, acum arătat s-au săvârşit. Că iată Biserica se împodobeşte cu chipul cel după trup al lui Hristos ca şi cu o podoabă mai presus de lume, chipul cortului mărturiei cel mai de înainte însemnându-l şi credinţa cea dreaptă cinstind. Ca ținând icoana Aceluia pe Carele cinstim, să nu ne înşelăm. Să se îmbrace cu ruşine cei ce nu cred aşa! Că nouă ne este spre laudă chipul Celui ce S-a întrupat; Căruia cu bunăcredinţă ne închinăm, fără să-l facem Dumnezeu. Pe acesta credincioşii sărutându-l, să strigăm: Dumnezeule, mântuieşte poporul Tău şi binecuvintează moştenirea Ta."
+  },
   "stihiraStihoavna": [
-    {
-      "text": "[placeholder - de completat] Stihira Stihoavnei, Duminica Ortodoxiei"
-    }
+    { "text": "Cei ce am trecut din necredinţă la bunăcredinţă şi cu lumina cunoştinţei ne-am luminat, să plesnim cu mâinile, precum zice Psalmistul, aducând laudă de mulţumire lui Dumnezeu. Şi cu cinste să ne închinăm sfintelor icoane ale lui Hristos şi celor ale Preacuratei şi ale tuturor sfinţilor, care sunt însemnate pe pereţi, pe scânduri şi pe sfinţitele vase; lepădând păgâneasca credinţă a celor necredincioşi. Pentru că cinstea icoanei, precum zice Vasilie, trece la chipul carele s-a închipuit. Cerând pentru rugăciunile Preacuratei maicii Tale, Hristoase Dumnezeul nostru, şi ale tuturor sfinţilor, să ne dăruiești nouă marea milă." }
   ],
-  "slavaMarimiStihoavna": {
-    "text": "[placeholder - de completat] Slavă… Și acum… a Stihoavnei, Duminica Ortodoxiei"
+  "slavaSiAcumStihoavna": {
+    "text": "O, minune mai nouă decât toate minunile cele dedemult! Că cine a cunoscut să fi născut Maică fără bărbat şi să poarte în braţe pe Cela ce cuprinde toată făptura? A lui Dumnezeu este voia, Cel ce S-a născut. Pe Carele ca pe un prunc, Preacurată, în braţele tale purtându-L, şi îndrăzneală ca o Maică către Dânsul câştigând, nu înceta a-L ruga pentru cei ce te cinstesc; ca să miluiască şi să mântuiască sufletele noastre."
+  },
+  "troparSfant": {
+    "glas": "al 2-lea",
+    "rubrica": "Al Praznicului:",
+    "text": "Preacuratului Tău chip ne închinăm Bunule, cerând iertare greşalelor noastre, Hristoase Dumnezeule. Că de voie bine ai voit a Te sui cu trupul pe Cruce, ca să scapi din robia vrăjmaşului pe care i-ai zidit. Pentru aceasta cu mulţumire strigăm Ţie: Toate le-ai umplut de bucurie, Mântuitorul nostru, Cela ce ai venit să mântuieşti lumea.",
+    "glasNascatoarei": 2
   }
 }

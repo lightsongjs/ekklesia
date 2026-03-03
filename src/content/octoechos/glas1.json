@@ -1,23 +1,52 @@
 {
   "glas": 1,
-  "stihiriDomneStragatAm": [
+  "title": "Octoih - Glasul 1 - Stihirile Vecerniei",
+  "stihiriInvierii": [
     {
-      "text": "[placeholder - de completat] Stihira 1, glasul 1, Doamne strigat-am",
-      "glasIndicator": "Glasul 1"
+      "text": "Rugăciunile noastre cele de seară primește-le, Sfinte Doamne, și ne dă nouă iertare păcatelor, că Tu singur ești Cel ce ai arătat în lume Învierea."
     },
     {
-      "text": "[placeholder - de completat] Stihira 2, glasul 1, Doamne strigat-am"
+      "text": "Înconjurați, popoare, Sionul și-l cuprindeți pe el și dați slavă, într-însul, Celui ce a înviat din morți; că Acesta este Dumnezeul nostru, Cel ce ne-a izbăvit de fărădelegile noastre."
     },
     {
-      "text": "[placeholder - de completat] Stihira 3, glasul 1, Doamne strigat-am"
+      "text": "Veniți, popoare, să lăudăm și să ne închinăm lui Hristos, slăvind Învierea Lui cea din morți, că Acesta este Dumnezeul nostru, Care a izbăvit lumea de înșelăciunea vrăjmașului."
     }
   ],
+  "stihiriAnatolie": [
+    {
+      "text": "Veseliți-vă, ceruri, trâmbițați, temeliile pământului, munților, vestiți bucurie! Că iată, Emmanuel pe Cruce a pironit păcatele noastre; și Cel ce dă viață, moartea a omorât, pe Adam înviindu-l, ca un iubitor de oameni."
+    },
+    {
+      "text": "Pe Cel ce cu trupul, de voie, pentru noi a fost răstignit, a pătimit și a fost îngropat și a înviat din morți, să-L lăudăm, grăind: Întărește în dreapta credință Biserica Ta, Hristoase, și împacă viața noastră, ca un bun și iubitor de oameni."
+    },
+    {
+      "text": "Înaintea mormântului Tău celui de viață primitor, stând noi, nevrednicii, cântare de slavă aducem îndurării Tale celei negrăite, Hristoase Dumnezeul nostru; că Cruce și moarte ai primit, Cel ce ești fără de păcat, ca să dăruiești lumii Învierea, ca un iubitor de oameni."
+    },
+    {
+      "text": "Pe Cuvântul cel împreună cu Tatăl fără de început și împreună-veșnic, Care din pântece fecioresc în chip de negrăit a ieșit și Crucea și moartea pentru noi de voie a primit, și a înviat întru slavă, să-L lăudăm, grăind: Dătătorule de viață, Doamne, slavă Ție, Mântuitorule sufletelor noastre."
+    }
+  ],
+  "dogmatica": {
+    "text": "Pe ceea ce este mărirea a toată lumea, care din oameni a răsărit și pe Stăpânul L-a născut, ușa cea cerească, lauda celor fără de trup și podoaba credincioșilor, pe Maria Fecioara să o lăudăm. Că aceasta s-a arătat cer și biserică a Dumnezeirii; aceasta, peretele cel din mijloc al vrăjbei surpându-l, pace a adus și împărăția a deschis. Deci, pe aceasta având-o întărire a credinței, apărător avem pe Domnul, Cel ce S-a născut dintr-însa. Îndrăznească, dar, îndrăznească poporul lui Dumnezeu. Că Acesta va birui pe vrăjmași, ca un atotputernic."
+  },
   "stihiraStihoavna": [
     {
-      "text": "[placeholder - de completat] Stihira Stihoavnei, glasul 1"
+      "text": "Cu patima Ta, Hristoase, din patimi ne-am liberat, și cu Învierea Ta din stricăciune ne-am izbăvit; Doamne, slavă Ție!"
+    },
+    {
+      "text": "Să se bucure făptura, cerurile să se veselească, din mâini să bată neamurile, de bucurie! Că Hristos, Mântuitorul nostru, pe Cruce a pironit păcatele noastre; și moartea omorând, viață nouă ne-a dăruit, pe Adam cel căzut cu tot neamul înviindu-l, ca un iubitor de oameni."
+    },
+    {
+      "text": "Fiind Împărat al cerului și al pământului, Cel ce ești necuprins, de bunăvoie Te-ai răstignit, din iubire de oameni; pe Tine iadul întâmpinându-Te jos, s-a amărât și sufletele drepților primindu-Te, s-au bucurat; iar Adam văzându-Te pe Tine, Ziditorul, în cele de sub pământ, s-a sculat. O, minune! Cum a gustat moarte Viața tuturor. Ci, precum a voit, a luminat lumea, care grăiește: Cel ce ai înviat din morți, Doamne, slavă Ție."
+    },
+    {
+      "text": "Femeile purtătoare de mir miresme aducând, cu grăbire și cu plângere la groapa Ta au ajuns; și negăsind preacurat trupul Tău, dar aflând de la înger acea nouă și neobișnuită minune, Apostolilor au zis: Înviat-a Domnul, dând lumii mare milă."
     }
   ],
   "tropar": {
-    "text": "[placeholder - de completat] Troparul Învierii, glasul 1"
+    "text": "Piatra fiind pecetluită de iudei și ostașii străjuind preacurat trupul Tău, înviat-ai a treia zi, Mântuitorule, dăruind lumii viață; pentru aceasta, puterile cerurilor strigau Ție, Dătătorule de viață: Slavă Învierii Tale, Hristoase; slavă Împărăției Tale; slavă rânduielii Tale, Unule, Iubitorule de oameni."
+  },
+  "troparNascatoarei": {
+    "text": "Gavriil zicând ţie Fecioară bucură-te, împreună cu glasul S-a întrupat Stăpânul tuturor, întru tine sicriul cel sfânt, precum a zis dreptul David, arătatu-te-ai mai desfătată decât cerurile, ceea ce ai purtat pe Făcătorul tău, mărire Celui ce S-a sălăşluit întru tine, mărire Celui ce a ieşit din tine, mărire Celui ce ne-a slobozit pe noi prin naşterea ta."
   }
 }

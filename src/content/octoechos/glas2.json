@@ -1,23 +1,52 @@
 {
   "glas": 2,
-  "stihiriDomneStragatAm": [
+  "title": "Octoih - Glasul 2 - Stihirile Vecerniei",
+  "stihiriInvierii": [
     {
-      "text": "[placeholder - de completat] Stihira 1, glasul 2, Doamne strigat-am",
-      "glasIndicator": "Glasul 2"
+      "text": "Veniți să ne închinăm Celui mai înainte de veci din Tatăl născut, lui Dumnezeu-Cuvântul, Cel întrupat din Fecioara Maria; că răstignire răbdând, îngropării S-a dat, precum însuși a voit; și înviind din morți, m-a mântuit pe mine, omul cel rătăcit."
     },
     {
-      "text": "[placeholder - de completat] Stihira 2, glasul 2, Doamne strigat-am"
+      "text": "Hristos, Mântuitorul nostru, a rupt zapisul cel ce era împotriva noastră, pe Cruce pironindu-l și stăpânirea morții zdrobind; să ne închinăm Învierii Lui, celei de a treia zi."
     },
     {
-      "text": "[placeholder - de completat] Stihira 3, glasul 2, Doamne strigat-am"
+      "text": "Cu arhanghelii să lăudăm Învierea lui Hristos, că Acesta este Răscumpărătorul și Mântuitorul sufletelor noastre; și întru slavă înfricoșătoare și întru putere tare, iarăși va să vină să judece lumea, pe care o a zidit."
     }
   ],
+  "stihiriAnatolie": [
+    {
+      "text": "Pe Tine, Cel ce ai fost răstignit și îngropat, îngerul Te-a propovăduit că pe un stăpân și a zis femeilor: Veniți de vedeți unde a zăcut Domnul, că a înviat, precum a zis, ca un Atotputernic. Pentru aceasta ne închinăm Ție, Cel singur fără de moarte; Dătătorule de viață Hristoase, miluiește-ne pe noi."
+    },
+    {
+      "text": "Cu crucea Ta ai șters blestemul lemnului, cu îngroparea Ta ai omorât stăpânirea morții, și cu Învierea Ta ai luminat neamul omenesc. Pentru aceasta, cântăm Ție: Făcătorule de bine, Hristoase Dumnezeul nostru, slavă Ție."
+    },
+    {
+      "text": "Deschisu-s-a-ți Ție, Doamne, cu frică, porțile morții, și portarii iadului, văzându-Te, s-au spăimântat; că porțile cele de aramă le-ai sfărâmat, și încuietorile cele de fier le-ai zdrobit, și ne-ai scos pe noi din întuneric și din umbra morții și legăturile noastre le-ai rupt."
+    },
+    {
+      "text": "Laudă de mântuire cântând, din guri glas să înălțăm; veniți toți în casa Domnului să îngenunchem, grăind: Cel ce pe lemn ai fost răstignit și din morți ai înviat, și ești în sânurile Tatălui, curățește păcatele noastre."
+    }
+  ],
+  "dogmatica": {
+    "text": "Trecut-a umbra Legii, când Darul a venit; că precum rugul cel aprins nu se mistuia, așa și tu, Fecioară, ai născut și fecioară ai rămas. În locul stâlpului de foc, a răsărit Soarele dreptății; în locul lui Moise, Hristos, mântuirea sufletelor noastre."
+  },
   "stihiraStihoavna": [
     {
-      "text": "[placeholder - de completat] Stihira Stihoavnei, glasul 2"
+      "text": "Învierea Ta, Hristoase Mântuitorule, toată lumea a luminat și a chemat făptura Ta; Atotputernice Doamne, slavă Ție."
+    },
+    {
+      "text": "Prin cruce, Mântuitorule, ai șters blestemul lemnului; puterea morții cu îngroparea Ta ai omorât; iar prin Învierea Ta, neamul nostru l-ai luminat. Pentru aceasta cântăm Ție: Dătătorule de viață, Hristoase Dumnezeul nostru, slavă Ție."
+    },
+    {
+      "text": "Pe Cruce arătându-Te pironit, Hristoase, ai schimbat frumusețea făpturilor; și fără omenie ostașii arătându-se, cu sulița coasta Ta au împuns. Iar fariseii au cerut să pecetluiască mormântul, necunoscând puterea Ta. Ci, Cel ce pentru îndurarea milostivărilor Tale ai primit îngroparea și a treia zi ai înviat, Doamne, slavă Ție."
+    },
+    {
+      "text": "Dătătorule de viață, Hristoase, îndurând patimă de bunăvoie pentru cei morți, și în iad pogorându-Te ca un puternic, pe cei ce așteptau acolo venirea Ta, ca dintr-o mână puternică smulgându-i, raiul în locul iadului le-ai dăruit să locuiască. Pentru aceasta, și nouă, celor ce slăvim Învierea Ta cea de a treia zi, dăruiește-ne iertare de păcate și mare milă."
     }
   ],
   "tropar": {
-    "text": "[placeholder - de completat] Troparul Învierii, glasul 2"
+    "text": "Când Te-ai pogorât la moarte, Cel ce ești Viața cea fără de moarte, atunci iadul l-ai omorât cu strălucirea Dumnezeirii; iar când ai înviat pe cei morți din cele de dedesubt, toate Puterile cerești au strigat: Dătătorule de viață, Hristoase Dumnezeul nostru, slavă Ție."
+  },
+  "troparNascatoarei": {
+    "text": "Toate tainele tale sunt mai presus de cuget, toate preamărite Născătoare de Dumnezeu, cu curăţia fiind pecetluită şi cu fecioria păzită, Maică te-ai cunoscut nemincinoasă, născând pe Dumnezeu cel adevărat, pe Carele roagă-L, să mântuiască sufletele noastre."
   }
 }

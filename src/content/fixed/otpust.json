@@ -1,0 +1,18 @@
+{
+  "id": "otpust",
+  "title": "Otpustul",
+  "lines": [
+    { "role": "preot", "text": "Înțelepciune!" },
+    { "role": "strana", "text": "Binecuvintează!" },
+    { "role": "preot", "text": "Cel ce este binecuvântat, Hristos, Dumnezeul nostru, totdeauna, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin. Întărește, Dumnezeule, sfânta și dreapta credință a dreptmăritorilor creștini și Sfântă Biserica Ta în veacul veacului." },
+    { "role": "preot", "text": "Preasfântă Născătoare de Dumnezeu, miluiește-ne pe noi." },
+    { "role": "strana", "text": "Ceea ce ești mai cinstită decât heruvimii și mai mărită fără de asemănare decât serafimii, care fără stricăciune pe Dumnezeu-Cuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim." },
+    { "role": "preot", "text": "Slavă Ție, Hristoase Dumnezeule, nădejdea noastră, slavă Ție." },
+    { "role": "strana", "text": "Slavă... Și acum... Doamne miluiește (de trei ori). Părinte, binecuvintează!" },
+    { "role": "preot", "text": "Cel ce a înviat din morți, Hristos, Adevăratul Dumnezeul nostru, pentru rugăciunile Preacuratei Sale Maici, ale Sfinților slăviților și întru tot lăudaților Apostoli, și ale tuturor Sfinților, să ne miluiască și să ne mântuiască pe noi, ca un bun și de oameni iubitor." },
+    { "role": "strana", "text": "Amin." },
+    { "role": "preot", "text": "Pentru rugăciunile tuturor sfinților părinților noștri, Doamne Iisuse Hristoase, Dumnezeul nostru, miluiește-ne și ne mântuiește pe noi." },
+    { "role": "strana", "text": "Amin." }
+  ]
+}

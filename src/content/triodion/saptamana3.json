@@ -1,24 +1,33 @@
 {
   "saptamana": 3,
+  "title": "Triod - Săptămâna 3 a Postului Mare (Închinarea Sfintei Cruci)",
   "sundayName": "Duminica Închinării Sfintei Cruci",
-  "stihiriDomneStragatAm": [
-    {
-      "text": "[placeholder - de completat] Stihira 1 din Triod, Închinarea Sfintei Cruci, Doamne strigat-am",
-      "rubric": "Din Triod"
-    },
-    {
-      "text": "[placeholder - de completat] Stihira 2 din Triod, Închinarea Sfintei Cruci, Doamne strigat-am"
-    },
-    {
-      "text": "[placeholder - de completat] Stihira 3 din Triod, Închinarea Sfintei Cruci, Doamne strigat-am"
-    }
+  "randuiala": {
+    "stihiriPe": 10,
+    "surse": [
+      { "sursa": "octoih", "grupa": "invierii", "count": 3, "rubrica": "Stihirile Învierii, glasul de rând:" },
+      { "sursa": "octoih", "grupa": "anatolie", "count": 3, "rubrica": "Alte stihiri, ale lui Anatolie:" },
+      { "sursa": "triod", "count": 4, "rubrica": "Ale cinstitei Cruci, glasul al 5-lea. Podobia: Bucură-te cămara..." }
+    ]
+  },
+  "stihiriVecernie": [
+    { "text": "Străluceşte, Cruce a Domnului, luminate fulgerele darului tău în inimile celor ce te cinstesc pe tine şi cu dragoste dumnezeiască te primesc, ceea ce eşti de lume dorită; prin care s-a pierdut mâhnirea lacrimilor, din cursele morţii am scăpat şi la veselia cea neîncetată ne-am mutat. Arată bună-cuviința frumuseţii tale, dăruind răsplătirile postirii robilor tăi, celor ce cer cu credinţă folosinţa ta cea bogată şi mila cea mare." },
+    { "text": "Bucură-te, Cruce purtătoare de viață, raiule cel frumos al Bisericii, pomul nestricăciunii, carele ne-ai înflorit desfătarea slavei celei veşnice, prin care se gonesc taberele dracilor şi împreună se veselesc cetele îngerilor şi adunările credincioşilor prăznuiesc. Arma cea nebiruită, tăria cea neclintită, biruinţa împăraţilor, lauda preoţilor. Dă-ne și nouă acum să ajungem la patimile lui Hristos şi la înviere!" },
+    { "text": "Bucură-te, Cruce purtătoare de viață, semnul cel nebiruit al creştinătăţii, uşa raiului, întărirea credincioşilor, zidul cel dimprejurul Bisericii; prin care s-a pierdut şi a încetat blestemul, s-a înghiţit puterea morţii şi ne-am înălţat de pe pământ la cele cereşti. Armă nebiruită, împotrivirea dracilor, mărirea mucenicilor, podoaba cuvioşilor cu adevărat, limanul mântuirii, ceea ce dăruiești lumii mare milă." },
+    { "text": "Veniţi amândoi cei întâi zidiţi, care aţi căzut din ceata cea de sus, prin pizma ucigaşului de oameni, pentru gustarea cea amară a mâncării din pomul cel dedemult. Iată vine preacinstitul lemn cu adevărat, la carele alergând cu bucurie îmbrăţişaţi-l şi strigaţi către dânsul cu credinţă: Tu eşti sprijinul nostru, Cruce preacinstită, din al căreia fruct gustând, am dobândit nestricăciune, luând adevăratul Eden cel dintâi şi mare milă." }
   ],
-  "stihiraStihoavna": [
-    {
-      "text": "[placeholder - de completat] Stihira Stihoavnei, Închinarea Sfintei Cruci"
-    }
-  ],
-  "slavaMarimiStihoavna": {
-    "text": "[placeholder - de completat] Slavă… Și acum… a Stihoavnei, Închinarea Sfintei Cruci"
+  "slavaDoamneStrigatAm": {
+    "glas": "al 3-lea",
+    "text": "Hristoase Dumnezeul nostru, Cela ce ai primit răstignire de bunăvoie, spre învierea cea de obşte a neamului omenesc, şi prin trestia Crucii sângerându-Ţi degetele cu vopsele roşii, Te-ai milostivit a iscăli pentru noi, ca un împărat, cele ce sunt de iertare; nu ne trece cu vederea pe noi cei ce suntem ameninţaţi iarăşi cu depărtarea cea de la Tine. Ci Te milostiveşte, unule îndelung-Răbdătorule, spre poporul Tău, cel ce este în nevoi, şi Te scoală şi biruieşte pe cei ce se luptă cu noi, ca un atotputernic."
+  },
+  "stihiraStihoavna": [],
+  "slavaSiAcumStihoavna": {
+    "text": "Doamne, Cela ce ai ajutat în război prea-blândului David, ca să supună pe cel de alt neam, fii împreună, în război, cu credinciosul nostru popor şi cu arma Crucii surpă pe vrăjmaşii noştri. Arată Milostive spre noi milele Tale cele dedemult; şi să cunoască adevărat, că Tu eşti Dumnezeu şi că spre Tine nădăjduind, biruim; rugându-se după obicei preacurată Maica Ta, să se dăruiască nouă mare milă."
+  },
+  "troparSfant": {
+    "glas": "1",
+    "rubrica": "Al Crucii:",
+    "text": "Mântuieşte Doamne poporul Tău, şi binecuvintează moştenirea Ta; biruinţă binecredinciosului nostru popor, asupra celor potrivnici dăruieşte şi cu Crucea Ta păzeşte pe poporul Tău.",
+    "glasNascatoarei": 1
   }
 }

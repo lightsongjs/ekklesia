@@ -1,0 +1,10 @@
+{
+  "id": "vohod",
+  "title": "Vohodul (Ieșirea)",
+  "lines": [
+    { "role": "rubrica", "text": "Se face Vohodul cu cădelnița. Preotul și diaconul ies pe ușa de miazănoapte și intră pe ușile împărătești." },
+    { "role": "preot", "text": "Înțelepciune! Drepți!" },
+    { "role": "strana", "text": "Lumină lină a sfintei slave a Tatălui ceresc, Celui fără de moarte, a Sfântului, Fericitului, Iisuse Hristoase, venind la apusul soarelui, văzând lumina cea de seară, lăudăm pe Tatăl, pe Fiul și pe Sfântul Duh, Dumnezeu.", "redInitial": true },
+    { "role": "strana", "text": "Vrednic ești în toată vremea a fi lăudat de glasuri cuvioase, Fiul lui Dumnezeu, Cel ce dai viață, pentru aceasta lumea Te slăvește.", "redInitial": true }
+  ]
+}

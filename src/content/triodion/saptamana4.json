@@ -1,24 +1,34 @@
 {
   "saptamana": 4,
+  "title": "Triod - Săptămâna 4 a Postului Mare (Sf. Ioan Scărarul)",
   "sundayName": "Duminica Sfântului Ioan Scărarul",
-  "stihiriDomneStragatAm": [
-    {
-      "text": "[placeholder - de completat] Stihira 1 din Triod, Sf. Ioan Scărarul, Doamne strigat-am",
-      "rubric": "Din Triod"
-    },
-    {
-      "text": "[placeholder - de completat] Stihira 2 din Triod, Sf. Ioan Scărarul, Doamne strigat-am"
-    },
-    {
-      "text": "[placeholder - de completat] Stihira 3 din Triod, Sf. Ioan Scărarul, Doamne strigat-am"
-    }
+  "randuiala": {
+    "stihiriPe": 10,
+    "surse": [
+      { "sursa": "octoih", "grupa": "invierii", "count": 3, "rubrica": "Stihirile Învierii, glasul de rând:" },
+      { "sursa": "octoih", "grupa": "anatolie", "count": 4, "rubrica": "Alte stihiri, ale lui Anatolie:" },
+      { "sursa": "triod", "count": 3, "rubrica": "Ale Cuviosului, glasul al 8-lea. Podobia: O, preamărită minune..." }
+    ]
+  },
+  "stihiriVecernie": [
+    { "text": "Părinte Ioane Cuvioase, pururea ai purtat cu adevărat în gura ta înălţările lui Dumnezeu, cugetând cu multă lucrare la cuvintele cele de Dumnezeu insuflate, preaînţeleptule, şi cu darul cel ce izvorăşte de acolo te-ai îmbogăţit făcându-te fericit, surpând sfaturile tuturor necredincioşilor." },
+    { "text": "Părinte Ioane, mărite, curăţindu-ţi sufletul cu izvoarele lacrimilor şi cu stările cele de toată noaptea îmblânzind pe Dumnezeu, te-ai înălţat spre dragostea şi frumuseţea lui, Fericite; întru care, după vrednicie, te desfătezi acum, neîncetat bucurându-te cu cei ce s-au nevoit împreună cu tine, Cuvioase, de Dumnezeu înţelepte." },
+    { "text": "Părinte Ioane Cuvioase, ridicându-ţi gândul prin credinţă spre Dumnezeu, ai urât nestatornicia tulburării celei lumeşti, şi Crucea ta, luând-o ai urmat Celui ce vede toate, rob făcând minţii trupul cel neînfrânat cu deprinderile sihăstriei, prin puterea Dumnezeiescului Duh." }
   ],
+  "slavaDoamneStrigatAm": {
+    "glas": "al 5-lea",
+    "text": "Cuvioase Părinte, ascultând glasul Evangheliei Domnului, ai părăsit lumea, bogăţia şi mărirea întru nimic socotindu-le. Pentru aceasta ai strigat tuturor: Iubiţi pe Dumnezeu şi veţi afla dar veşnic; nimic să nu cinstiţi mai mult decât dragostea Lui, ca să aflaţi odihnă împreună cu toţi sfinţii, când va veni întru mărirea sa. Cu ale cărora rugăciuni, Hristoase, păzeşte şi mântuieşte sufletele noastre."
+  },
   "stihiraStihoavna": [
-    {
-      "text": "[placeholder - de completat] Stihira Stihoavnei, Sf. Ioan Scărarul"
-    }
+    { "text": "Pe îngerul cel de pe pământ şi pe omul lui Dumnezeu cel din ceruri, podoaba cea frumoasă a lumii, desfătarea bunătăţilor şi a faptelor bune, lauda sihaştrilor, pe Ioan să-l cinstim. Că acesta fiind sădit în casa lui Dumnezeu, a înflorit după dreptate, şi ca un cedru în pustie, a înmulţit turmele lui Hristos, ale oilor celor cuvântătoare, întru preacuviinţă şi dreptate." }
   ],
-  "slavaMarimiStihoavna": {
-    "text": "[placeholder - de completat] Slavă… Și acum… a Stihoavnei, Sf. Ioan Scărarul"
+  "slavaSiAcumStihoavna": {
+    "text": "O minune, mai nouă decât toate minunile cele dedemult! Că cine a cunoscut să fi născut Maică fără bărbat, şi să poarte în braţe pe Cel ce cuprinde toată făptura? A lui Dumnezeu este voia, Cel ce S-a născut; pe Carele ca pe un prunc, Preacurată, în braţele tale purtându-L şi îndrăzneală ca o Maică către dânsul câştigând, nu înceta a-L ruga, pentru cei ce te cinstesc, ca să miluiască şi să mântuiască sufletele noastre."
+  },
+  "troparSfant": {
+    "glas": "1",
+    "rubrica": "Al Cuviosului:",
+    "text": "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, de Dumnezeu purtătorule, Părintele nostru Ioane; cu postul, cu privegherea şi rugăciunea cereştile daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere; slavă Celui ce te-a încununat pe tine; slavă Celui ce lucrează prin tine tuturor tămăduiri.",
+    "glasNascatoarei": 1
   }
 }

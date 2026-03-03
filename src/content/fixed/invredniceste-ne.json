@@ -1,0 +1,15 @@
+{
+  "id": "invredniceste-ne",
+  "title": "Învredniceşte-ne, Doamne",
+  "lines": [
+    { "role": "rubrica", "text": "Citeţul (sau strana) rostește:" },
+    { "role": "citeti", "text": "Învredniceşte-ne, Doamne, în seara aceasta, fără de păcat să ne păzim noi.", "redInitial": true },
+    { "role": "citeti", "text": "Binecuvântat ești, Doamne, Dumnezeul părinților noștri, și lăudat și preaslăvit este numele Tău în veci. Amin.", "redInitial": true },
+    { "role": "citeti", "text": "Fie, Doamne, mila Ta spre noi, precum am nădăjduit întru Tine.", "redInitial": true },
+    { "role": "citeti", "text": "Binecuvântat ești, Doamne, învață-ne pe noi îndreptările Tale.", "redInitial": true },
+    { "role": "citeti", "text": "Binecuvântat ești, Stăpâne, înțelepțește-ne pe noi cu îndreptările Tale.", "redInitial": true },
+    { "role": "citeti", "text": "Binecuvântat ești, Sfinte, luminează-ne pe noi cu îndreptările Tale.", "redInitial": true },
+    { "role": "citeti", "text": "Doamne, mila Ta este în veac; lucrurile mâinilor Tale nu le trece cu vederea.", "redInitial": true },
+    { "role": "citeti", "text": "Ție se cuvine laudă, Ție se cuvine cântare, Ție slavă se cuvine, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor. Amin.", "redInitial": true }
+  ]
+}

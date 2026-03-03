@@ -2,6 +2,8 @@
 interface ServiceLine {
   role: "preot" | "diacon" | "strana" | "citeti" | "rubrica";
   text: string;
+  redInitial?: boolean;
+  italic?: boolean;
 }
 
 interface Props {
@@ -35,6 +37,7 @@ function labelClass(role: string): string {
 }
 
 let lastRole = "";
+let prevWasRubrica = false;
 ---
 
 <section class="mb-12 print:mb-8">
@@ -46,8 +49,9 @@ let lastRole = "";
 
   <div class="space-y-1">
     {section.lines.map((line, i) => {
-      const showLabel = line.role !== "rubrica" && line.role !== lastRole;
-      const prevRole = lastRole;
+      const afterRubrica = prevWasRubrica;
+      const showLabel = line.role !== "rubrica" && line.role !== lastRole && !afterRubrica;
+      prevWasRubrica = line.role === "rubrica";
       lastRole = line.role;
 
       return (
@@ -61,12 +65,23 @@ let lastRole = "";
               {roleLabels[line.role]}
             </p>
           )}
-          <p class:list={[
-            roleClasses[line.role],
-            line.role !== "rubrica" ? "pl-4" : "pl-0",
-          ]}>
-            {line.text}
-          </p>
+          {line.redInitial ? (
+            <p class:list={[
+              roleClasses[line.role],
+              line.role !== "rubrica" ? "pl-4 text-justify" : "pl-0",
+              line.italic ? "italic" : "",
+            ]}>
+              <span class="text-red-700 font-bold text-lg">{line.text.charAt(0)}</span>{line.text.slice(1)}
+            </p>
+          ) : (
+            <p class:list={[
+              roleClasses[line.role],
+              line.role !== "rubrica" ? "pl-4 text-justify" : "pl-0",
+              line.italic ? "italic" : "",
+            ]}>
+              {line.text}
+            </p>
+          )}
         </div>
       );
     })}

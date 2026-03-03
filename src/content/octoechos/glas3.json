@@ -1,23 +1,52 @@
 {
   "glas": 3,
-  "stihiriDomneStragatAm": [
+  "title": "Octoih - Glasul 3 - Stihirile Vecerniei",
+  "stihiriInvierii": [
     {
-      "text": "[placeholder - de completat] Stihira 1, glasul 3, Doamne strigat-am",
-      "glasIndicator": "Glasul 3"
+      "text": "Cu Crucea Ta, Hristoase Mântuitorule, puterea morții s-a dezlegat și înșelăciunea diavolului s-a zdrobit; iar neamul omenesc, prin credință fiind mântuit, cântare Ție totdeauna aduce."
     },
     {
-      "text": "[placeholder - de completat] Stihira 2, glasul 3, Doamne strigat-am"
+      "text": "Luminatu-s-au toate cu Învierea Ta, Doamne, și raiul iarăși s-a deschis; și toată zidirea lăudându-Te, cântare Ție totdeauna aduce."
     },
     {
-      "text": "[placeholder - de completat] Stihira 3, glasul 3, Doamne strigat-am"
+      "text": "Slăvesc puterea Tatălui și a Fiului și laud stăpânia Duhului Sfânt, Dumnezeirea cea nedespărțită și nezidită, Treimea cea de o ființă, Care împărățește în veacul veacului."
     }
   ],
+  "stihiriAnatolie": [
+    {
+      "text": "Cinstitei Crucii Tale ne închinăm, Hristoase, și Învierea Ta o lăudăm și o slăvim, căci cu rana Ta, noi toți ne-am vindecat."
+    },
+    {
+      "text": "Lăudăm pe Mântuitorul, Care din Fecioară S-a întrupat; că pentru noi a fost răstignit și a treia zi a înviat, dăruind nouă mare milă."
+    },
+    {
+      "text": "Celor din iad, pogorându-Se Hristos, a binevestit, zicând: Îndrăzniți, acum am biruit. Eu sunt Învierea, Eu pe voi vă voi ridica, sfărâmând porțile morții."
+    },
+    {
+      "text": "Cei ce cu nevrednicie stăm în preacurat locașul Tău, cântare de seară înălțăm, dintru adâncuri strigând: Hristoase Dumnezeule, Cel ce ai luminat lumea cu Învierea Ta cea de a treia zi, scoate pe poporul Tău din mâna vrăjmașilor Tăi, Iubitorule de oameni."
+    }
+  ],
+  "dogmatica": {
+    "text": "Cum să nu ne mirăm de nașterea ta cea dumnezeiesc-omenească, cu totul cinstită? Că ispită de bărbat neluând, ceea ce ești cu totul fără prihană, ai născut, fără de tată, pe Fiul cu trup, pe Cel născut din Tatăl mai înainte de veci, fără de mamă; Care nicicum n-a suferit schimbare, sau amestecare, sau despărțire, ci a păstrat neatinsă deosebirea celor două firi. Pentru aceasta, Stăpână Maică și Fecioară, pe Acesta roagă-L să mântuiască sufletele celor ce cu dreaptă credință te mărturisesc pe tine, Născătoare de Dumnezeu."
+  },
   "stihiraStihoavna": [
     {
-      "text": "[placeholder - de completat] Stihira Stihoavnei, glasul 3"
+      "text": "Hristoase, Cel ce cu patima Ta ai întunecat soarele și cu lumina Învierii Tale ai luminat toate, primește cântarea noastră cea de seară, Iubitorule de oameni."
+    },
+    {
+      "text": "Scularea Ta cea de viață dătătoare, Doamne, toată lumea a luminat și făptura cea stricată o a chemat. Pentru aceasta, din blestemul lui Adam izbăvindu-ne, grăim: Atotputernice Doamne, slavă Ție."
+    },
+    {
+      "text": "Cel ce ești Dumnezeu neschimbat, cu trupul pătimind, Te-ai schimbat; pe Care făptura nerabdând să Te vadă răstignit, de frică s-a tulburat și, suspinând, laudă îndelungă-răbdarea Ta; dar pogorându-Te în iad, a treia zi ai înviat, dăruind lumii viață și mare milă."
+    },
+    {
+      "text": "Ca să ne mântuiești din moarte neamul nostru, Hristoase, moarte ai răbdat; și a treia zi, din morți înviind, împreună cu Tine ai înviat pe cei ce Te-au cunoscut pe Tine Dumnezeu, și lumea ai luminat, Doamne, slavă Ție."
     }
   ],
   "tropar": {
-    "text": "[placeholder - de completat] Troparul Învierii, glasul 3"
+    "text": "Să se veselească cele cerești și să se bucure cele pământești. Că a făcut biruință cu brațul Său Domnul, călcat-a cu moartea pe moarte; Cel întâi-născut din morți S-a făcut, din pântecele iadului ne-a mântuit pe noi și a dat lumii mare milă."
+  },
+  "troparNascatoarei": {
+    "text": "Pe tine ceea ce ai mijlocit mântuirea neamului nostru, te lăudăm Născătoare de Dumnezeu Fecioară, că cu trupul cel luat din tine, Fiul tău și Dumnezeul nostru, prin Cruce luând patimă, ne-a izbăvit pe noi din stricăciune ca un iubitor de oameni."
   }
 }

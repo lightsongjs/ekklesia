@@ -1,0 +1,13 @@
+{
+  "id": "inceput",
+  "title": "Începutul Vecerniei",
+  "lines": [
+    { "role": "rubrica", "text": "Preotul, stând în fața Sfintei Mese, cu ușile împărătești și dvera închise, rostește binecuvântarea:" },
+    { "role": "preot", "text": "Binecuvântat este Dumnezeul nostru, totdeauna, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." },
+    { "role": "rubrica", "text": "Preotul deschide dvera, ia cădelnița și începe să cădească. Citeţul zice:" },
+    { "role": "citeti", "text": "Veniți să ne închinăm Împăratului nostru, Dumnezeu!" },
+    { "role": "citeti", "text": "Veniți să ne închinăm și să cădem la Hristos, Împăratul nostru, Dumnezeu!" },
+    { "role": "citeti", "text": "Veniți să ne închinăm și să cădem la Însuși Hristos, Împăratul și Dumnezeul nostru!" }
+  ]
+}

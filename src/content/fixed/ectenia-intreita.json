@@ -1,0 +1,26 @@
+{
+  "id": "ectenia-intreita",
+  "title": "Ectenia cererilor stăruitoare",
+  "lines": [
+    { "role": "rubrica", "text": "Diaconul (sau preotul) rostește Ectenia cererilor stăruitoare:" },
+    { "role": "preot", "text": "Să zicem toți, din tot sufletul și din tot cugetul nostru să zicem." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Doamne atotțiitorule, Dumnezeul părinților noștri, rugămu-ne Ție, auzi-ne și ne miluiește." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Miluiește-ne pe noi, Dumnezeule, după mare mila Ta, rugămu-ne Ție, auzi-ne și ne miluiește." },
+    { "role": "strana", "text": "Doamne, miluiește (de 3 ori)." },
+    { "role": "preot", "text": "Încă ne rugăm pentru Preafericitul Părintele nostru (N), Patriarhul Bisericii Ortodoxe Române, și pentru Preasfințitul (Înaltpreasfințitul) Părintele nostru (N), (Arhi)Episcopul (eparhiei)." },
+    { "role": "strana", "text": "Doamne, miluiește (de 3 ori)." },
+    { "role": "preot", "text": "Încă ne rugăm pentru tot sufletul creștinesc, pentru conducătorii țării noastre, pentru mai-marii orașelor și satelor și pentru iubitoarea de Hristos oaste." },
+    { "role": "strana", "text": "Doamne, miluiește (de 3 ori)." },
+    { "role": "preot", "text": "Încă ne rugăm pentru frații noștri: preoți, ieromonahi, ierodiaconi și monahi și pentru toată frățimea noastră în Hristos." },
+    { "role": "strana", "text": "Doamne, miluiește (de 3 ori)." },
+    { "role": "preot", "text": "Încă ne rugăm pentru fericiții și pururea pomeniții ctitori ai sfântului locașului acestuia și pentru toți cei mai dinainte adormiți părinți și frați ai noștri, dreptslăvitori creștini, care odihnesc aici și pretutindeni." },
+    { "role": "strana", "text": "Doamne, miluiește (de 3 ori)." },
+    { "role": "preot", "text": "Încă ne rugăm pentru cei ce aduc daruri și fac bine în sfântă și preacinstita biserică aceasta, pentru cei ce se ostenesc, pentru cei ce cântă și pentru poporul care stă înainte și așteaptă de la Tine mare și bogată milă." },
+    { "role": "strana", "text": "Doamne, miluiește (de 3 ori)." },
+    { "role": "rubrica", "text": "Ecfonisul:" },
+    { "role": "preot", "text": "Că milostiv și iubitor de oameni Dumnezeu ești și Ție slavă înălțăm, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." }
+  ]
+}

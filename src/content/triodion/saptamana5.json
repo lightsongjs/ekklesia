@@ -1,24 +1,34 @@
 {
   "saptamana": 5,
+  "title": "Triod - Săptămâna 5 a Postului Mare (Sf. Maria Egipteanca)",
   "sundayName": "Duminica Sfintei Maria Egipteanca",
-  "stihiriDomneStragatAm": [
-    {
-      "text": "[placeholder - de completat] Stihira 1 din Triod, Sf. Maria Egipteanca, Doamne strigat-am",
-      "rubric": "Din Triod"
-    },
-    {
-      "text": "[placeholder - de completat] Stihira 2 din Triod, Sf. Maria Egipteanca, Doamne strigat-am"
-    },
-    {
-      "text": "[placeholder - de completat] Stihira 3 din Triod, Sf. Maria Egipteanca, Doamne strigat-am"
-    }
+  "randuiala": {
+    "stihiriPe": 10,
+    "surse": [
+      { "sursa": "octoih", "grupa": "invierii", "count": 3, "rubrica": "Stihirile Învierii, glasul de rând:" },
+      { "sursa": "octoih", "grupa": "anatolie", "count": 4, "rubrica": "Alte stihiri, ale lui Anatolie:" },
+      { "sursa": "triod", "count": 3, "rubrica": "Ale Cuvioasei, glasul al 6-lea. Podobia: Toată nădejdea punându-și..." }
+    ]
+  },
+  "stihiriVecernie": [
+    { "text": "Te oprea vederea celor cinstite, întinăciunea cea mai dinainte, ce se trăgea din spurcăciuni; dar înţelepciunea ta şi cunoştinţa de cele ce s-au lucrat de tine, Maică de Dumnezeu înţelepţită, s-a făcut ţie întoarcere spre cele mai bune; că privind spre icoana binecuvântatei fiicei lui Dumnezeu şi căindu-te de toate păcatele tale de mai înainte, prealăudată, cu îndrăzneală te-ai închinat cinstitului lemn." },
+    { "text": "Închinându-te sfintelor locuri cu bucurie, ai luat de acolo darul călătoriei spre fapta bună cea de mântuire; ai alergat grabnic cu bună călătorie şi trecând râul Iordanului, în locaşul Botezătorului te-ai sălăşluit cu osârdie; şi sălbăticia patimilor o ai întunecat cu viaţa ta cea bună, împuţinând prin înfrânare înfierbântările trupului, Maică pururea fericită." },
+    { "text": "Locuind în pustie, ai lepădat chipurile patimilor din sufletul tău, întipărindu-ţi închipuirea lui Dumnezeu, Cuvioasă, prin feluri de bunătăţi; şi atâta ai strălucit, încât şi peste ape uşor ai trecut, Fericită, şi te-ai ridicat de pe pământ cu rugăciunile tale către Dumnezeu; şi acum stând cu îndrăzneală înaintea lui Hristos, prealăudată Marie roagă-te pentru sufletele noastre." }
   ],
+  "slavaDoamneStrigatAm": {
+    "glas": "al 4-lea",
+    "text": "Puterea Crucii Tale, Hristoase, a făcut minune; că şi ceea ce mai înainte era căzută de tot, s-a nevoit cu nevoinţă pustnicească. De unde şi lepădând neputinţa, vitejeşte a stătut împotriva diavolului. Pentru aceasta luând şi dar de biruinţă, se roagă pentru sufletele noastre."
+  },
   "stihiraStihoavna": [
-    {
-      "text": "[placeholder - de completat] Stihira Stihoavnei, Sf. Maria Egipteanca"
-    }
+    { "text": "Vânările sufletului şi patimile trupului le-ai tăiat cu sabia postului; greşalele gândului cu izvorul sihăstriei le-ai înecat; şi cu curgerile lacrimilor tale ai adăpat toată pustia şi ne-ai odrăslit nouă roduri de pocăinţă. Pentru aceasta cinstim pomenirea ta, Cuvioasă." }
   ],
-  "slavaMarimiStihoavna": {
-    "text": "[placeholder - de completat] Slavă… Și acum… a Stihoavnei, Sf. Maria Egipteanca"
+  "slavaSiAcumStihoavna": {
+    "text": "O minune mai nouă decât toate minunile cele dedemult! Că cine a cunoscut să fi născut Maică fără bărbat şi să poarte în braţe pe Cela ce cuprinde toată făptura? A lui Dumnezeu este voia, Cel ce S-a născut. Pe Carele ca pe un prunc, Preacurată, în braţele tale purtându-L, şi îndrăzneală ca o Maică către Dânsul câştigând, nu înceta a-L ruga pentru cei ce te cinstesc; ca să miluiască şi să mântuiască sufletele noastre."
+  },
+  "troparSfant": {
+    "glas": "al 8-lea",
+    "rubrica": "A Cuvioasei:",
+    "text": "Întru tine Maică cu osârdie s-a mântuit cel după chip, că luând Crucea ai urmat lui Hristos şi lucrând ai învăţat să nu se uite la trup, căci este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioasă Marie, duhul tău.",
+    "glasNascatoarei": 8
   }
 }

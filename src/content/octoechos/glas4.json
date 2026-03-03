@@ -1,23 +1,52 @@
 {
   "glas": 4,
-  "stihiriDomneStragatAm": [
+  "title": "Octoih - Glasul 4 - Stihirile Vecerniei",
+  "stihiriInvierii": [
     {
-      "text": "[placeholder - de completat] Stihira 1, glasul 4, Doamne strigat-am",
-      "glasIndicator": "Glasul 4"
+      "text": "Crucii Tale celei făcătoare de viață neîncetat închinându-ne, Hristoase Dumnezeule, Învierea Ta cea de a treia zi o slăvim; că printr-însa ai înnoit omenească cea stricată, Atotputernice, și suirea la ceruri ne-ai arătat, ca un singur bun și de oameni iubitor."
     },
     {
-      "text": "[placeholder - de completat] Stihira 2, glasul 4, Doamne strigat-am"
+      "text": "Osânda pomului neascultării o ai dezlegat, Mântuitorule, pe lemnul Crucii de bunăvoie pironindu-Te; și în iad pogorându-Te, Puternice, legăturile morții ca un Dumnezeu le-ai rupt. Pentru aceasta, ne închinăm Învierii Tale celei din morți, cu bucurie cântând: Atotputernice Doamne, slavă Ție."
     },
     {
-      "text": "[placeholder - de completat] Stihira 3, glasul 4, Doamne strigat-am"
+      "text": "Porțile iadului le-ai sfărâmat, Doamne, și cu moartea Ta împărăția morții ai surpat; iar neamul omenesc din stricăciune l-ai slobozit, dăruind lumii viață, nestricăciune și mare milă."
     }
   ],
+  "stihiriAnatolie": [
+    {
+      "text": "Veniți, popoare, să lăudăm scularea cea de a treia zi a Mântuitorului, prin care ne-am izbăvit din legăturile iadului cele nedezlegate; și nestricăciune și viață am luat toți care strigăm: Cel ce ai fost răstignit și ai fost îngropat și ai înviat, mântuiește-ne pe noi cu Învierea Ta, Unule, Iubitorule de oameni."
+    },
+    {
+      "text": "Îngerii și oamenii, Mântuitorule, laudă scularea Ta cea de a treia zi, prin care s-au luminat marginile lumii și din robia vrăjmașului ne-am mântuit toți care cântăm: Făcătorule de viață, Atotputernice Mântuitorule, mântuiește-ne pe noi cu Învierea Ta, Unule, Iubitorule de oameni!"
+    },
+    {
+      "text": "Porțile cele de aramă le-ai sfărâmat și încuietorile le-ai zdrobit, Hristoase Dumnezeule, și neamul omenesc cel căzut l-ai înviat. Pentru aceasta, cu un glas grăim: Cel ce ai înviat din morți, Doamne, slavă Ție."
+    },
+    {
+      "text": "Doamne, nașterea Ta cea din Tatăl, fără de ani și veșnică este; iar întruparea cea din Fecioară, negrăită și neînțeleasă este pentru oameni; și pogorârea la iad înfricoșătoare a fost pentru diavolul și pentru îngerii lui; că moartea călcând, a treia zi ai înviat, dăruind oamenilor nestricăciune și mare milă."
+    }
+  ],
+  "dogmatica": {
+    "text": "Proorocul David, cel dinspre tine dumnezeiesc părinte, cu dulce cântare despre tine mai dinainte a glăsuit, către Cel ce a făcut ție măriri: Stătut-a Împărăteasa aproape de-a dreapta Ta. Că pe tine, Maică, pricinuitoare a Vieții te-a arătat Dumnezeu, Cel ce fără de tată din tine a Se face om a binevoit, ca iarăși să zidească chipul Său cel stricat prin patimi, și oaia cea rătăcită, pierdută prin munți, aflând-o, pe umeri ridicând-o, la Tatăl să o aducă și, după voia Sa, cu Puterile cerești să o unească, de Dumnezeu Născătoare; și lumea să o mântuiască Hristos, Cel ce are mare și bogată milă."
+  },
   "stihiraStihoavna": [
     {
-      "text": "[placeholder - de completat] Stihira Stihoavnei, glasul 4"
+      "text": "Doamne, suindu-Te pe Cruce, blestemul nostru cel strămoșesc l-ai șters; și pogorându-Te în iad, pe cei legați din veac i-ai slobozit, nestricăciune dăruind neamului omenesc. Pentru aceasta, cântând, slăvim scularea Ta cea făcătoare de viață și mântuitoare."
+    },
+    {
+      "text": "Pironit fiind pe lemn, Unule Puternice, toată zidirea o ai clătinat; iar fiind pus în mormânt, pe cei sălășluiți în morminte i-ai înviat, nestricăciune și viață dăruind neamului omenesc. Pentru aceasta cântând, slăvim scularea Ta cea de a treia zi."
+    },
+    {
+      "text": "Poporul cel fără de lege dându-Te pe Tine, Hristoase, lui Pilat, Te-a osândit să fii răstignit, nemulțumitor către Făcătorul de bine arătându-se. Dar de voie răbdând îngropare, ca un Însuți puternic, ai înviat a treia zi, ca un Dumnezeu, dăruindu-ne viață fără de sfârșit și mare milă."
+    },
+    {
+      "text": "Cu lacrimi ajungând femeile la mormânt, pe Tine Te-au căutat; dar neaflându-Te, plângând cu tânguire au grăit, zicând: Vai nouă, Mântuitorul nostru, Împăratul tuturor, cum ai fost răpit? Și ce loc ține trupul Tău cel de viață purtător? Dar îngerul către dânsele a răspuns: Nu plângeți, a zis, ci, mergând, vestiți că a înviat Domnul, dându-ne nouă bucurie, ca un singur îndurat."
     }
   ],
   "tropar": {
-    "text": "[placeholder - de completat] Troparul Învierii, glasul 4"
+    "text": "Propovăduirea Învierii cea luminată înțelegând-o de la înger ucenicele Domnului, și lepădând osândirea cea strămoșească, Apostolilor, lăudându-se, au zis: Jefuitu-s-a moartea, sculatu-S-a Hristos Dumnezeu, dăruind lumii mare milă."
+  },
+  "troparNascatoarei": {
+    "text": "Taina cea din veac ascunsă, şi de îngeri neştiută, prin tine Născătoare de Dumnezeu celor de pe pământ s-a arătat, Dumnezeu întrupându-Se întru împreunare neamestecată şi Crucea de voie pentru noi primind, prin care înviind pe cel întâi zidit, a mântuit din moarte sufletele noastre."
   }
 }

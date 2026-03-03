@@ -1,0 +1,17 @@
+{
+  "id": "prochimen",
+  "title": "Prochimenul",
+  "lines": [
+    { "role": "preot", "text": "Să luăm aminte! Pace tuturor!" },
+    { "role": "strana", "text": "Și duhului tău." },
+    { "role": "preot", "text": "Înțelepciune! Să luăm aminte!" },
+    { "role": "rubrica", "text": "Prochimenul de sâmbătă seara, glasul 6:" },
+    { "role": "strana", "text": "Domnul a împărățit, întru podoabă S-a îmbrăcat.", "redInitial": true },
+    { "role": "citeti", "text": "Stih: Îmbrăcatu-S-a Domnul întru putere și S-a încins." },
+    { "role": "strana", "text": "Domnul a împărățit, întru podoabă S-a îmbrăcat.", "redInitial": true },
+    { "role": "citeti", "text": "Stih: Pentru că a întărit lumea care nu se va clătina." },
+    { "role": "strana", "text": "Domnul a împărățit, întru podoabă S-a îmbrăcat.", "redInitial": true },
+    { "role": "citeti", "text": "Stih: Casei Tale se cuvine sfințenie, Doamne, întru lungime de zile." },
+    { "role": "strana", "text": "Domnul a împărățit, întru podoabă S-a îmbrăcat.", "redInitial": true }
+  ]
+}

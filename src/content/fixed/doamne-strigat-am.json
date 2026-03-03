@@ -1,0 +1,29 @@
+{
+  "id": "doamne-strigat-am",
+  "title": "Doamne strigat-am (Psalmii 140 și 141)",
+  "lines": [
+    { "role": "rubrica", "text": "Psalmul 140" },
+    { "role": "strana", "text": "Doamne, strigat-am către Tine, auzi-mă; auzi-mă, Doamne! Doamne, strigat-am către Tine, auzi-mă; ia aminte la glasul rugăciunii mele, când strig către Tine. Auzi-mă, Doamne!", "redInitial": true },
+    { "role": "strana", "text": "Să se îndrepteze rugăciunea mea ca tămâia înaintea Ta; ridicarea mâinilor mele, jertfă de seară. Auzi-mă, Doamne!", "redInitial": true },
+    { "role": "citeti", "text": "Pune, Doamne, pază gurii mele și ușă de îngrădire, împrejurul buzelor mele.", "redInitial": true },
+    { "role": "citeti", "text": "Să nu abați inima mea spre cuvinte de vicleșug, ca să nu-mi dezvinovățesc păcatele mele.", "redInitial": true },
+    { "role": "citeti", "text": "Cu oamenii cei ce fac fărădelege și nu mă voi însoți cu aleșii lor.", "redInitial": true },
+    { "role": "citeti", "text": "Certa-mă-va dreptul cu milă și mă va mustra, iar untdelemnul păcătoșilor să nu ungă capul meu.", "redInitial": true },
+    { "role": "citeti", "text": "Că încă și rugăciunea mea este împotriva vrerilor lor; zdrobise-vor de stâncă judecătorii lor.", "redInitial": true },
+    { "role": "citeti", "text": "Auzi-vor graiurile mele și s-au îndulcit. Precum brazda se desface în pământ, s-au risipit oasele lor lângă iad.", "redInitial": true },
+    { "role": "citeti", "text": "Căci către Tine, Doamne, Doamne – ochii mei; spre Tine am nădăjduit, să nu iei sufletul meu.", "redInitial": true },
+    { "role": "citeti", "text": "Păzește-mă de cursa care mi-au pus mie și de smintelile celor ce fac fărădelege.", "redInitial": true },
+    { "role": "citeti", "text": "Cădea-vor în mreaja lor păcătoșii, ferit sunt eu până ce voi trece.", "redInitial": true },
+
+    { "role": "rubrica", "text": "Psalmul 141" },
+    { "role": "citeti", "text": "Cu glasul meu către Domnul am strigat, cu glasul meu către Domnul m-am rugat.", "redInitial": true },
+    { "role": "citeti", "text": "Vărsa-voi înaintea Lui rugăciunea mea, necazul meu înaintea Lui voi spune.", "redInitial": true },
+    { "role": "citeti", "text": "Când lipsea dintru mine duhul meu, Tu ai cunoscut cărările mele.", "redInitial": true },
+    { "role": "citeti", "text": "În calea pe care am umblat, gătit-au cursă mie.", "redInitial": true },
+    { "role": "citeti", "text": "Luat-am seama de-a dreapta și am privit, dar nu era cine să mă cunoască.", "redInitial": true },
+    { "role": "citeti", "text": "Închis-au calea pentru mine și nu are cine să caute de sufletul meu.", "redInitial": true },
+    { "role": "citeti", "text": "Strigat-am către Tine, Doamne, zis-am: Tu ești nădejdea mea, partea mea ești în pământul celor vii.", "redInitial": true },
+    { "role": "citeti", "text": "Ia aminte la rugăciunea mea, că m-am smerit foarte.", "redInitial": true },
+    { "role": "citeti", "text": "Izbăvește-mă de cei ce mă prigonesc, că s-au întărit mai mult decât mine.", "redInitial": true }
+  ]
+}

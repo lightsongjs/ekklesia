@@ -17,7 +17,7 @@ export interface LiturgicalContext {
   date: Date;
   /** Great Lent week number, 1-5. */
   lentWeek: number;
-  /** Octoechos tone (glas), 1-8. Simplified: weeks 1-5 map to tones 1-5. */
+  /** Octoechos tone (glas), 1-8. Calculated from Thomas Sunday cycle. */
   tone: number;
   /** Romanian name of the Sunday this Saturday prepares (Vecernia). */
   sundayName: string;
@@ -106,10 +106,15 @@ export function getLentSaturdays(year: number): LiturgicalContext[] {
 
     const paschaOffset = daysBetween(satDate, pascha); // negative
 
+    // Saturday Vespers uses the tone of the Sunday it prepares
+    const sundayDate = new Date(satDate);
+    sundayDate.setUTCDate(sundayDate.getUTCDate() + 1);
+    const tone = getOctoechosTone(sundayDate);
+
     results.push({
       date: satDate,
       lentWeek: week,
-      tone: week, // simplified mapping: week N -> tone N
+      tone,
       sundayName: SUNDAY_NAMES[week - 1],
       paschaOffset,
       formattedDate: formatDateRo(satDate),
@@ -122,6 +127,41 @@ export function getLentSaturdays(year: number): LiturgicalContext[] {
 // ---------------------------------------------------------------------------
 // Internal helpers
 // ---------------------------------------------------------------------------
+
+/**
+ * Calculates the Octoechos tone (glas, 1-8) for a given Sunday.
+ *
+ * The 8-tone cycle begins at Thomas Sunday (first Sunday after Pascha).
+ * Thomas Sunday = Tone 1, the next Sunday = Tone 2, etc.
+ * After Tone 8, the cycle repeats from Tone 1.
+ *
+ * For dates during Great Lent (before Pascha of the current year),
+ * the cycle continues from Thomas Sunday of the PREVIOUS year's Pascha.
+ */
+function getOctoechosTone(sundayDate: Date): number {
+  // Determine which Pascha cycle we're in.
+  // If the date is before Pascha of this year, use previous year's Pascha.
+  const year = sundayDate.getUTCFullYear();
+  const paschaThisYear = getPascha(year);
+
+  let referencePascha: Date;
+  if (sundayDate.getTime() < paschaThisYear.getTime()) {
+    referencePascha = getPascha(year - 1);
+  } else {
+    referencePascha = paschaThisYear;
+  }
+
+  // Thomas Sunday = Pascha + 7 days = Tone 1
+  const thomasSunday = new Date(referencePascha);
+  thomasSunday.setUTCDate(thomasSunday.getUTCDate() + 7);
+
+  const days = daysBetween(sundayDate, thomasSunday);
+  const weeks = Math.round(days / 7); // weeks since Thomas Sunday (0-based)
+
+  // Thomas Sunday itself (weeks=0) = Tone 1
+  const tone = (weeks % 8) + 1;
+  return tone;
+}
 
 /** Returns the number of days from `a` to `b` (negative if a is before b). */
 function daysBetween(a: Date, b: Date): number {

@@ -1,23 +1,49 @@
 {
   "glas": 5,
-  "stihiriDomneStragatAm": [
+  "title": "Octoih - Glasul 5 - Stihirile Vecerniei",
+  "stihiriInvierii": [
     {
-      "text": "[placeholder - de completat] Stihira 1, glasul 5, Doamne strigat-am",
-      "glasIndicator": "Glasul 5"
+      "text": "Prin cinstită Crucea Ta, Hristoase, pe diavolul l-ai rușinat; și prin Învierea Ta, acul păcatului l-ai tocit și ne-ai mântuit pe noi din porțile morții. Slăvimu-Te pe Tine, Unule-Născut."
     },
     {
-      "text": "[placeholder - de completat] Stihira 2, glasul 5, Doamne strigat-am"
+      "text": "Cel ce a dat Înviere neamului omenesc, ca un miel spre junghiere S-a adus. Înfricosatu-s-au de Acesta mai-marii iadului și s-au ridicat porțile cele de durere; că a intrat Împăratul slavei, Hristos, zicând celor din legături: Ieșiți! Și celor din întuneric: Arătați-vă!"
     },
     {
-      "text": "[placeholder - de completat] Stihira 3, glasul 5, Doamne strigat-am"
+      "text": "Mare minune! Ziditorul celor nevăzute, Cel fără de moarte, pentru iubirea de oameni, cu trupul pătimind, a Înviat. Veniți, semințiile neamurilor, să ne închinăm Acestuia! Că prin milostivirea Lui, din rătăcire fiind mântuiți, ne-am învățat a lăuda pe un Dumnezeu în trei ipostasuri."
     }
   ],
+  "stihiriAnatolie": [
+    {
+      "text": "Închinare de seară aducem Ție, Luminii celei neînserate, Care la sfârșitul veacurilor, ca într-o oglindă în trup, ai strălucit lumii; și până la iad Te-ai pogorât, întunericul cel de acolo l-ai risipit și lumina învierii o ai arătat neamurilor. Dătătorule de lumină, Doamne, slavă Ție."
+    },
+    {
+      "text": "Pe Hristos, Începătorul mântuirii noastre, să-L slăvim; că El din morți înviind, lumea din rătăcire s-a mântuit. Se bucură ceata îngerilor, fuge înșelăciunea diavolilor; Adam cel căzut s-a sculat, diavolul a fost zdrobit."
+    },
+    {
+      "text": "Străjerii erau învățați de cei fără de lege: Tăinuiți scularea lui Hristos și luați arginți și spuneți: Noi dormind, din mormânt a fost furat cel mort. Dar cine a văzut, cine a auzit vreodată de vreun mort furat? Și mai ales pe Cel cu untul uns și gol, Care și-a lăsat în mormânt giulgurile Sale? Nu vă amăgiți, iudeilor! Ascultați graurile proorocilor și cunoașteți că Acesta este cu adevărat Mântuitorul lumii și cel Atotputernic."
+    },
+    {
+      "text": "Doamne, Cel ce iadul ai golit și moartea ai zdrobit, Mântuitorul nostru, Cel ce ai luminat lumea cu cinstită Crucea Ta, miluiește-ne pe noi."
+    }
+  ],
+  "dogmatica": {
+    "text": "În Marea Roșie, închipuirea miresei celei neispitite de nuntă s-a întipărit de demult. Acolo Moise, despărțitor al apei, iar aici Gavriil, slujitor al minunii. Atunci a trecut-o Israel adâncul cu piciorul neudat, iar acum Fecioara L-a născut fără sămânță pe Hristos. Marea, după trecerea lui Israel, a rămas nestrăbătută; iar cea fără prihană, după nașterea lui Emanuel, a rămas nevătămată. Cel ce ești și mai înainte ai fost și Te-ai arătat ca om, Dumnezeule, miluiește-ne pe noi."
+  },
   "stihiraStihoavna": [
     {
-      "text": "[placeholder - de completat] Stihira Stihoavnei, glasul 5"
+      "text": "Pe Tine, Hristoase Mântuitorule, Cel ce Te-ai întrupat și de ceruri nu Te-ai despărțit, cu glasuri de cântări Te mărim. Că ai primit Cruce și moarte pentru neamul nostru; ca Domnul cel iubitor de oameni, prădând porțile iadului, a treia zi ai Înviat, mântuind sufletele noastre."
+    },
+    {
+      "text": "Împunsă fiind coasta Ta, Dătătorule de viață, izvoare de iertare, de viață și de mântuire, tuturor ai izvorât, și cu trupul moarte ai primit, dăruindu-ne nouă nemurire. Dar fiind pus în mormânt, pe noi ne-ai slobozit, împreună cu Tine Înviindu-ne întru slavă, ca un Dumnezeu. Pentru aceasta, grăim: Iubitorule de oameni, Doamne, slavă Ție!"
+    },
+    {
+      "text": "Minunată este răstignirea și pogorârea Ta în iad, Iubitorule de oameni, că prădându-l pe el, pe cei de demult legați, împreună cu Tine i-ai înviat, întru slavă, ca un Dumnezeu; și deschizând raiul, i-ai învrednicit să-l dobândească. Pentru aceasta, și nouă, celor ce slăvim scularea Ta cea de a treia zi, dăruiește-ne curățire de păcate, locuitorii ai raiului învredncindu-ne să fim, ca Un singur-Milostiv."
     }
   ],
   "tropar": {
-    "text": "[placeholder - de completat] Troparul Învierii, glasul 5"
+    "text": "Pe Cuvântul, Cel împreună fără de început cu Tatăl și cu Duhul, Care S-a născut din Fecioară spre mântuirea noastră, să-L lăudăm credincioșii și să I ne închinăm; că bine a voit a Se sui cu trupul pe Cruce și moarte a răbda, și a scula pe cei morți, întru slăvită Învierea Sa."
+  },
+  "troparNascatoarei": {
+    "text": "Bucură-te uşa Domnului cea neumblată, bucură-te zidul și acoperământul celor ce aleargă la tine, bucură-te limanul cel neviforat, şi neispitită de nuntă, ceea ce ai născut cu trup pe Făcătorul tău şi Dumnezeu, nu lipsi a te ruga pentru cei ce laudă și se închină naşterii tale."
   }
 }
