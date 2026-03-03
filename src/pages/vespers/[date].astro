@@ -1,13 +1,13 @@
 ---
 import ServiceLayout from "../../layouts/ServiceLayout.astro";
 import ServiceSection from "../../components/ServiceSection.astro";
-import { getContext, getLentSaturdays } from "../../lib/context";
+import { getContext, getAllSaturdays } from "../../lib/context";
 import { composeVespers } from "../../lib/composer";
 
 import type { GetStaticPaths } from "astro";
 
 export const getStaticPaths: GetStaticPaths = () => {
-  const saturdays = getLentSaturdays(2026);
+  const saturdays = getAllSaturdays(2026);
   return saturdays.map((sat) => ({
     params: { date: sat.date.toISOString().split("T")[0] },
   }));
@@ -21,13 +21,17 @@ if (!context) {
 }
 
 const service = await composeVespers(context);
-const pageTitle = `Vecernia Mare — ${context.sundayName} (${context.formattedDate})`;
+
+const isLent = context.lentWeek > 0;
+const pageTitle = isLent
+  ? `Vecernia Mare — ${context.sundayName} (${context.formattedDate})`
+  : `Vecernia Mare — ${context.formattedDate}`;
 ---
 
 <ServiceLayout title={pageTitle} sections={service.sections.map(s => ({ id: s.id, title: s.title }))}>
   <div class="text-center mb-8">
     <p class="text-stone-500 text-sm mb-1">Sâmbătă seara, {context.formattedDate}</p>
-    <p class="text-rubric font-medium">{context.sundayName}</p>
+    {isLent && <p class="text-rubric font-medium">{context.sundayName}</p>}
     <p class="text-stone-400 text-sm">Glasul {context.tone}</p>
   </div>
 
@@ -37,7 +41,7 @@ const pageTitle = `Vecernia Mare — ${context.sundayName} (${context.formattedD
 
   <div class="text-center mt-12 mb-4 print:hidden">
     <a href="/" class="text-rubric hover:underline text-sm">
-      &larr; Inapoi la lista
+      &larr; Înapoi la calendar
     </a>
   </div>
 </ServiceLayout>

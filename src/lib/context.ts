@@ -15,13 +15,13 @@ import { getPascha, getLentStart } from "./pascha";
 export interface LiturgicalContext {
   /** The Saturday date. */
   date: Date;
-  /** Great Lent week number, 1-5. */
+  /** Great Lent week number, 1-5. 0 = not during Lent. */
   lentWeek: number;
   /** Octoechos tone (glas), 1-8. Calculated from Thomas Sunday cycle. */
   tone: number;
-  /** Romanian name of the Sunday this Saturday prepares (Vecernia). */
+  /** Romanian name of the Sunday this Saturday prepares. Empty for non-Lent. */
   sundayName: string;
-  /** Days before Pascha (always negative during Lent). */
+  /** Days before Pascha (negative before Pascha, positive after). */
   paschaOffset: number;
   /** Human-readable date in Romanian format, e.g. "28 februarie 2026". */
   formattedDate: string;
@@ -77,7 +77,7 @@ const SUNDAY_NAMES: string[] = [
 
 /**
  * Given a date string (ISO 8601, e.g. "2026-02-28"), returns the
- * LiturgicalContext if the date falls on one of the 5 Great Lent Saturdays,
+ * LiturgicalContext if the date falls on any Saturday of the year,
  * or null otherwise.
  */
 export function getContext(dateStr: string): LiturgicalContext | null {
@@ -87,7 +87,7 @@ export function getContext(dateStr: string): LiturgicalContext | null {
   }
 
   const year = parsed.getUTCFullYear();
-  const saturdays = getLentSaturdays(year);
+  const saturdays = getAllSaturdays(year);
 
   for (const ctx of saturdays) {
     if (
@@ -134,6 +134,60 @@ export function getLentSaturdays(year: number): LiturgicalContext[] {
       paschaOffset,
       formattedDate: formatDateRo(satDate),
     });
+  }
+
+  return results;
+}
+
+/**
+ * Returns LiturgicalContext for every Saturday of the given year (52 or 53).
+ *
+ * Lent Saturdays (weeks 1-5) get their sundayName and lentWeek populated.
+ * All other Saturdays get lentWeek=0 and sundayName="".
+ */
+export function getAllSaturdays(year: number): LiturgicalContext[] {
+  const pascha = getPascha(year);
+  const lentSaturdays = getLentSaturdays(year);
+
+  // Build a Set of ISO date strings for Lent Saturdays for O(1) lookup
+  const lentSet = new Map<string, LiturgicalContext>();
+  for (const ls of lentSaturdays) {
+    lentSet.set(ls.date.toISOString().split("T")[0], ls);
+  }
+
+  const results: LiturgicalContext[] = [];
+
+  // Find the first Saturday of the year
+  const jan1 = new Date(Date.UTC(year, 0, 1));
+  const jan1Day = jan1.getUTCDay(); // 0=Sun, 6=Sat
+  const daysToSat = (6 - jan1Day + 7) % 7;
+  const firstSat = new Date(Date.UTC(year, 0, 1 + daysToSat));
+
+  // Iterate every Saturday
+  const current = new Date(firstSat);
+  while (current.getUTCFullYear() === year) {
+    const iso = current.toISOString().split("T")[0];
+    const lentCtx = lentSet.get(iso);
+
+    if (lentCtx) {
+      results.push(lentCtx);
+    } else {
+      const sundayDate = new Date(current);
+      sundayDate.setUTCDate(sundayDate.getUTCDate() + 1);
+      const tone = getOctoechosTone(sundayDate);
+      const paschaOffset = daysBetween(current, pascha);
+
+      results.push({
+        date: new Date(current),
+        lentWeek: 0,
+        tone,
+        sundayName: "",
+        paschaOffset,
+        formattedDate: formatDateRo(current),
+      });
+    }
+
+    current.setUTCDate(current.getUTCDate() + 7);
   }
 
   return results;
@@ -231,12 +285,13 @@ export function getPresanctifiedContext(
  */
 function getOctoechosTone(sundayDate: Date): number {
   // Determine which Pascha cycle we're in.
-  // If the date is before Pascha of this year, use previous year's Pascha.
+  // If the date is on or before Pascha, use previous year's Pascha
+  // (the new cycle starts at Thomas Sunday = Pascha + 7).
   const year = sundayDate.getUTCFullYear();
   const paschaThisYear = getPascha(year);
 
   let referencePascha: Date;
-  if (sundayDate.getTime() < paschaThisYear.getTime()) {
+  if (sundayDate.getTime() <= paschaThisYear.getTime()) {
     referencePascha = getPascha(year - 1);
   } else {
     referencePascha = paschaThisYear;

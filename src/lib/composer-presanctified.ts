@@ -26,8 +26,7 @@
  * 19. Tatăl nostru
  * 20. Împărtășirea
  * 21. După Împărtășire
- * 22. Psalmul 33
- * 23. Otpustul
+ * 22. Otpustul
  */
 
 import { getEntry } from "astro:content";
@@ -124,7 +123,7 @@ export async function composePresanctified(
     psalm103,
     ecteniaMare,
     catisma18,
-    ecteniaMica,
+    ,
     doamneStrigatAm,
     stihuri,
     saSeIndrepteze,
@@ -136,7 +135,7 @@ export async function composePresanctified(
     tatalNostruDaruri,
     impartasirea,
     dupaImpartasire,
-    psalm33,
+    ,
     otpustDaruri,
     presanctData,
     octoih,
@@ -277,7 +276,7 @@ export async function composePresanctified(
     );
     prochimen1Lines.push(L("strana", data.prochimen1.text, true));
     prochimen1Lines.push(L("rubrica", `Stih: ${data.prochimen1.stih}`));
-    prochimen1Lines.push(L("strana", data.prochimen1.text));
+    prochimen1Lines.push(L("strana", `${data.prochimen1.text} (de 2 ori)`));
 
     // Paremia 1
     paremia1Lines.push(L("preot", "Înțelepciune!"));
@@ -288,7 +287,7 @@ export async function composePresanctified(
       ),
     );
     paremia1Lines.push(L("preot", "Să luăm aminte!"));
-    paremia1Lines.push(L("citeti", data.paremia1.text));
+    paremia1Lines.push(L("citeti", data.paremia1.text, false, true));
 
     // Prochimen 2
     prochimen2Lines.push(L("preot", "Înțelepciune. Să luăm aminte."));
@@ -300,7 +299,7 @@ export async function composePresanctified(
     );
     prochimen2Lines.push(L("strana", data.prochimen2.text, true));
     prochimen2Lines.push(L("rubrica", `Stih: ${data.prochimen2.stih}`));
-    prochimen2Lines.push(L("strana", data.prochimen2.text));
+    prochimen2Lines.push(L("strana", `${data.prochimen2.text} (de 2 ori)`));
 
     // Paremia 2
     paremia2Lines.push(L("strana", "Porunciți!"));
@@ -320,7 +319,7 @@ export async function composePresanctified(
       ),
     );
     paremia2Lines.push(L("preot", "Să luăm aminte!"));
-    paremia2Lines.push(L("citeti", data.paremia2.text));
+    paremia2Lines.push(L("citeti", data.paremia2.text, false, true));
   }
 
   // --- Assemble all sections ---
@@ -343,7 +342,7 @@ export async function composePresanctified(
     {
       id: "catisma-18",
       title: "Catisma 18 (Psalmii 119–133)",
-      lines: expandEcteniaMica(catisma18, ecteniaMica),
+      lines: catisma18,
     },
     {
       id: "doamne-strigat-am",
@@ -426,11 +425,6 @@ export async function composePresanctified(
       id: "dupa-impartasire",
       title: "După Împărtășire",
       lines: dupaImpartasire,
-    },
-    {
-      id: "psalm-33",
-      title: "Psalmul 33",
-      lines: psalm33,
     },
     {
       id: "otpust",
